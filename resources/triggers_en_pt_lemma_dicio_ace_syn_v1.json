@@ -1,0 +1,5497 @@
+{
+    "pousado": [],
+    "terra": [
+        "país",
+        "poeira",
+        "aldeia",
+        "globo",
+        "glebo",
+        "pátria",
+        "solo",
+        "pó",
+        "lugar",
+        "mundo",
+        "localidade",
+        "universo",
+        "terreno",
+        "chão"
+    ],
+    "eleição": [
+        "predileção",
+        "escolha",
+        "aclamação",
+        "pleito",
+        "primazia",
+        "preferência",
+        "proclamação"
+    ],
+    "eleito": [
+        "designar",
+        "nomear"
+    ],
+    "Contratar": [
+        "pactuar",
+        "combinar",
+        "acordar",
+        "estipular",
+        "ajustar",
+        "convencionar"
+    ],
+    "colocar": [
+        "pôr",
+        "fixar",
+        "vender",
+        "empregar",
+        "instalar",
+        "arranjar",
+        "arrumar",
+        "estabelecer",
+        "ex por",
+        "apoiar",
+        "assentar"
+    ],
+    "nomeação": [
+        "provimento",
+        "designação",
+        "indicação"
+    ],
+    "nomeações": [],
+    "guerra": [
+        "batalha",
+        "peleja",
+        "combate",
+        "disputa",
+        "oposição",
+        "conflito",
+        "contenda",
+        "revoltar",
+        "briga",
+        "enfrentamento",
+        "inimizade",
+        "luta"
+    ],
+    "perdi t": [],
+    "implantar": [
+        "inaugurar",
+        "inserir",
+        "fixar",
+        "hastear",
+        "içar",
+        "arvorar",
+        "enraizar",
+        "arraigar",
+        "estabelecer",
+        "levantar",
+        "introduzir"
+    ],
+    "morto": [
+        "esmaecer",
+        "inanimado",
+        "sequioso",
+        "ávido",
+        "cansar",
+        "pálido",
+        "sucumbir",
+        "desbotar",
+        "inerte",
+        "cadáver",
+        "ex austo",
+        "defunto"
+    ],
+    "foi": [],
+    "morreu": [],
+    "visitado": [],
+    "soprar": [
+        "aflar",
+        "bafejar"
+    ],
+    "vai": [
+        "apresentar",
+        "decorrer",
+        "comportar",
+        "marcha",
+        "comparecer",
+        "desaparecer",
+        "aparecer",
+        "acontecer",
+        "morrer",
+        "sair",
+        "locomove",
+        "movimentar",
+        "caminhar",
+        "prolongar",
+        "parte"
+    ],
+    "recebendo": [],
+    "invasão": [
+        "incursão",
+        "irrupção"
+    ],
+    "antigo": [
+        "ascendente",
+        "ancestral",
+        "antepassar",
+        "vetusto",
+        "avoengo",
+        "arcaico",
+        "obsoleto",
+        "idoso",
+        "ancião",
+        "velho",
+        "macróbio"
+    ],
+    "Defeito": [
+        "avaria",
+        "mania",
+        "enguiço",
+        "falha",
+        "imperfeição",
+        "dano",
+        "mácula",
+        "deformidade",
+        "vício"
+    ],
+    "matar": [
+        "suicidar",
+        "fuzilar",
+        "afligir",
+        "chacinar",
+        "assassinar",
+        "saciar",
+        "destruir",
+        "trucidar",
+        "massacrar",
+        "sacrificar"
+    ],
+    "viagens": [
+        "percurso",
+        "barato",
+        "jornada",
+        "peregrinação",
+        "romaria"
+    ],
+    "Antigo": [
+        "ascendente",
+        "ancestral",
+        "antepassar",
+        "vetusto",
+        "avoengo",
+        "arcaico",
+        "obsoleto",
+        "idoso",
+        "ancião",
+        "velho",
+        "macróbio"
+    ],
+    "sessão": [
+        "reunião"
+    ],
+    "era": [
+        "época",
+        "idade",
+        "estação",
+        "quadra"
+    ],
+    "casar": [
+        "reunir",
+        "associar",
+        "combinar",
+        "agregar",
+        "matrimoniar",
+        "aliar",
+        "condizer",
+        "juntar",
+        "unir"
+    ],
+    "Civil\nGuerra": [],
+    "Guerra civil": [],
+    "segunda guerra mundial": [],
+    "deixar": [
+        "ceder",
+        "desistir",
+        "largar",
+        "abandonar"
+    ],
+    "pegou": [],
+    "conversando": [],
+    "tortura": [
+        "tormento",
+        "angústia",
+        "martírio",
+        "aflição",
+        "apertura",
+        "suplício",
+        "aperto",
+        "tribulação",
+        "agonia"
+    ],
+    "doar": [
+        "presentear",
+        "outorgar",
+        "ceder",
+        "brindar",
+        "facultar",
+        "obsequiar",
+        "oferecer",
+        "conceder",
+        "ofertar",
+        "dadivar",
+        "dar"
+    ],
+    "processar": [
+        "conferir",
+        "verificar",
+        "autuar",
+        "acionar",
+        "demandar"
+    ],
+    "protestando": [],
+    "terrorismo": [],
+    "danos": [],
+    "eleger": [
+        "escolher",
+        "optar"
+    ],
+    "morrer": [
+        "falecer",
+        "perecer",
+        "ex pirar",
+        "sucumbir"
+    ],
+    "saindo": [],
+    "fechando": [],
+    "ataque aéreo": [],
+    "derramado": [
+        "espalhar",
+        "entornar"
+    ],
+    "ferido": [
+        "alancear",
+        "golpear"
+    ],
+    "julgamento": [
+        "sentença",
+        "decisão",
+        "juízo",
+        "apreciação",
+        "audiência",
+        "veredito",
+        "parecer"
+    ],
+    "nomear": [
+        "designar",
+        "escolher"
+    ],
+    "ter": [
+        "apresentar",
+        "efetuar",
+        "julgar",
+        "proceder",
+        "haver",
+        "apegar",
+        "ex perienciar",
+        "definir",
+        "conservar",
+        "herdar",
+        "bem",
+        "possuir",
+        "trazer",
+        "posses",
+        "ocupar",
+        "portar"
+    ],
+    "ouvir": [
+        "atender",
+        "inquirir",
+        "auscultar",
+        "considerar",
+        "escutar"
+    ],
+    "perda": [
+        "perca",
+        "estrago",
+        "prejuízo",
+        "falecimento",
+        "privação",
+        "perder",
+        "dano",
+        "detrimento",
+        "agravo",
+        "ausência"
+    ],
+    "fundado": [
+        "fundamentar"
+    ],
+    "bateu": [],
+    "transportado": [
+        "conduzir",
+        "levar",
+        "orientar"
+    ],
+    "pagar": [
+        "restituir",
+        "reembolsar",
+        "indenizar",
+        "remunerar"
+    ],
+    "pagamentos": [],
+    "recompensas": [],
+    "reivindicações": [],
+    "alegar": [
+        "apresentar",
+        "aduzir",
+        "ex ibir",
+        "ex por",
+        "mostrar"
+    ],
+    "processado": [],
+    "se adequa": [],
+    "prejudicado": [
+        "lesar",
+        "ofender",
+        "dificultar",
+        "injuriar",
+        "invectivado",
+        "insultar",
+        "danificar"
+    ],
+    "ação judicial": [],
+    "pagamento": [
+        "remuneração",
+        "embolso",
+        "prestação",
+        "comissão",
+        "salário",
+        "volta",
+        "recompensa",
+        "ordenar",
+        "reembolso"
+    ],
+    "dirigindo": [],
+    "ações judiciais": [],
+    "driblou": [],
+    "tornou-se": [],
+    "recuperar": [
+        "restabelecer",
+        "restaurar"
+    ],
+    "prêmios": [],
+    "jogado fora": [],
+    "lesões": [],
+    "revogar": [
+        "invalidar",
+        "rescindir",
+        "anular",
+        "terminar",
+        "cancelar",
+        "cassar"
+    ],
+    "removido": [],
+    "paga": [
+        "remuneração",
+        "honorário",
+        "galardão",
+        "salário",
+        "estipêndio",
+        "recompensa",
+        "ordenar"
+    ],
+    "morrendo": [],
+    "baixas": [],
+    "demonstrar": [
+        "provar",
+        "ex emplificar",
+        "mostrar",
+        "ex ibir",
+        "ex por",
+        "revelar",
+        "ex pressar"
+    ],
+    "massacrado": [],
+    "invade": [],
+    "mata": [
+        "bosque",
+        "selva",
+        "souto",
+        "floresta",
+        "arvoredo",
+        "espessura",
+        "coutar"
+    ],
+    "isto": [
+        "o",
+        "sim",
+        "certo",
+        "bom"
+    ],
+    "derrubado": [
+        "tombar",
+        "cair",
+        "derribar"
+    ],
+    "colocar no poder": [],
+    "colocando": [],
+    "capturado": [],
+    "preso": [
+        "enjaular",
+        "seguro",
+        "recluso",
+        "encarcerar",
+        "ligar",
+        "amarrar",
+        "detento",
+        "unir",
+        "agarrar"
+    ],
+    "força": [
+        "robustez",
+        "domínio",
+        "poder",
+        "firmeza",
+        "impulso",
+        "apogeu",
+        "vigor",
+        "influência",
+        "violência"
+    ],
+    "destruído": [
+        "aniquilar",
+        "abatir",
+        "arruinar"
+    ],
+    "despedido": [],
+    "fogo": [
+        "entusiasmo",
+        "queimação",
+        "fogueira",
+        "fulgor",
+        "fósforo",
+        "isqueiro",
+        "residência",
+        "lume",
+        "vivacidade",
+        "casa",
+        "lar",
+        "bebedeira",
+        "queima",
+        "labareda",
+        "queimar",
+        "incêndio"
+    ],
+    "que": [
+        "ex ceto",
+        "qual",
+        "cujo",
+        "porque",
+        "quão"
+    ],
+    "trabalhar": [
+        "dedicar",
+        "colaborar",
+        "preparar",
+        "ex ecutar",
+        "comercializar",
+        "atormentar",
+        "obrar",
+        "labutar",
+        "operar",
+        "sulcar",
+        "trabucar",
+        "esforçar"
+    ],
+    "pegar": [
+        "generalizar",
+        "transmitir",
+        "compreender",
+        "amparar",
+        "segurar",
+        "prender",
+        "alcançar",
+        "contagiar",
+        "buscar",
+        "cativar",
+        "funcionar",
+        "altercar",
+        "grudar",
+        "entender",
+        "agarrar"
+    ],
+    "prender prisão": [],
+    "ataque": [
+        "ofensiva",
+        "injúria",
+        "disputa",
+        "ofensa",
+        "investido",
+        "acesso"
+    ],
+    "prendendo": [],
+    "batida": [
+        "ex ploração",
+        "caçada",
+        "investigação",
+        "procurar"
+    ],
+    "brigando": [],
+    "matando": [],
+    "certo": [
+        "correto",
+        "certeiro",
+        "patente",
+        "convencer",
+        "evidente",
+        "notório",
+        "manifesto",
+        "seguro",
+        "certamente",
+        "perceptível",
+        "visível",
+        "corretamente",
+        "claro",
+        "ex ato"
+    ],
+    "escreve": [],
+    "ferir": [
+        "vulnerar",
+        "rasgar",
+        "abscindir",
+        "magoar",
+        "cortar",
+        "fender",
+        "golpear",
+        "melindrar",
+        "acutilar"
+    ],
+    "reunião": [
+        "aglomerar",
+        "conjunto",
+        "junção",
+        "aglomeração",
+        "união",
+        "congregação"
+    ],
+    "combate": [
+        "desavença",
+        "peleja",
+        "testilha",
+        "recontro",
+        "disputa",
+        "briga",
+        "pendência",
+        "bulha",
+        "zanga",
+        "rixa",
+        "pugnar",
+        "luta"
+    ],
+    "abatendo": [],
+    "Guerra": [
+        "batalha",
+        "peleja",
+        "combate",
+        "disputa",
+        "oposição",
+        "conflito",
+        "contenda",
+        "revoltar",
+        "briga",
+        "enfrentamento",
+        "inimizade",
+        "luta"
+    ],
+    "abatido": [
+        "enfraquecir",
+        "reduzir",
+        "deprimido",
+        "desanimar",
+        "magro",
+        "matar",
+        "deduzer",
+        "diminuir"
+    ],
+    "de cabeça para baixo": [],
+    "derrota": [
+        "rota",
+        "guião",
+        "guia",
+        "itinerário",
+        "roteiro"
+    ],
+    "ameaça": [
+        "arremesso",
+        "advertência",
+        "prenúncio",
+        "ameaço",
+        "bravata",
+        "intimidação",
+        "intimação",
+        "cominação"
+    ],
+    "bater": [
+        "furtar",
+        "soar",
+        "espancar",
+        "misturar",
+        "vencer",
+        "chocar",
+        "surrar",
+        "percorrer",
+        "sovar",
+        "comer",
+        "golpear",
+        "agitar",
+        "remexer",
+        "repisar",
+        "superar"
+    ],
+    "tomada": [
+        "ficha",
+        "tomar",
+        "conquista",
+        "benjamim",
+        "plugue",
+        "captura"
+    ],
+    "chegado": [
+        "imediato",
+        "adjacente",
+        "propínquo",
+        "confinante",
+        "próximo",
+        "vizinho",
+        "convizinho"
+    ],
+    "entrevista": [
+        "conferência",
+        "encontro",
+        "audiência",
+        "visita"
+    ],
+    "300 surtidas": [],
+    "1500 surtidas": [],
+    "essas surtidas": [],
+    "surtidas de greve": [],
+    "conflito": [
+        "divergência",
+        "matinar",
+        "embrulhar",
+        "perturbação",
+        "espalhafato",
+        "desordem",
+        "zaragata",
+        "tumulto",
+        "alvoroço",
+        "revoltar",
+        "guerra",
+        "motim",
+        "altercação",
+        "enfrentamento",
+        "agitação"
+    ],
+    "atacado": [
+        "assaltar",
+        "acometir",
+        "perturbar",
+        "agredir"
+    ],
+    "bombardeio": [
+        "canhoneio",
+        "bombardeamento"
+    ],
+    "detonado": [],
+    "conferência": [
+        "confrontação",
+        "palestra",
+        "confronto",
+        "comparação",
+        "verificação"
+    ],
+    "suicídio": [],
+    "ataques": [],
+    "veio": [
+        "vieiro",
+        "ducto",
+        "fresto",
+        "córrego",
+        "laivo",
+        "nascente",
+        "regato",
+        "estria",
+        "manivela",
+        "canal",
+        "riacho"
+    ],
+    "Esse": [
+        "tal",
+        "que"
+    ],
+    "esse": [
+        "tal",
+        "que"
+    ],
+    "bombardeios": [],
+    "batalha": [
+        "guerra"
+    ],
+    "tire isso": [],
+    "greves": [],
+    "marcha": [
+        "passeio",
+        "jornada",
+        "estir",
+        "caminhada"
+    ],
+    "batalhas": [],
+    "resumo": [
+        "epítome",
+        "resenha",
+        "recapitulação",
+        "compêndio",
+        "súmuler",
+        "sinopse",
+        "síntese",
+        "sumário"
+    ],
+    "abrir fogo": [],
+    "tiro na panela": [],
+    "Isto": [
+        "o",
+        "sim",
+        "certo",
+        "bom"
+    ],
+    "enviado": [
+        "ex pedir",
+        "comunicar"
+    ],
+    "voou para fora": [],
+    "tiro": [
+        "balaço",
+        "balázio"
+    ],
+    "ferimento": [
+        "chaga",
+        "lesão",
+        "ferido"
+    ],
+    "livrar": [
+        "isentar",
+        "desembaraçar",
+        "ex imir",
+        "prescindir",
+        "desobrigar",
+        "ex onerar",
+        "demitir",
+        "dispensar",
+        "desonerar",
+        "safar",
+        "desenvencilhar",
+        "destituir"
+    ],
+    "resistência": [
+        "longevidade",
+        "inércia",
+        "teimosia",
+        "capricho",
+        "pertinácio",
+        "oposição",
+        "reação",
+        "relutância",
+        "obstinação",
+        "renitência"
+    ],
+    "obliterado": [
+        "desvanecir",
+        "ex tinto"
+    ],
+    "batendo": [],
+    "exitos": [],
+    "chamado": [
+        "escolher",
+        "ajudar",
+        "denominar",
+        "convite",
+        "convocar",
+        "designar",
+        "apelidar"
+    ],
+    "derrubar": [
+        "abater",
+        "desmoronar",
+        "destruir",
+        "amesquinhar",
+        "esboroar",
+        "prostrar",
+        "destituir",
+        "humilhar"
+    ],
+    "atravessando": [],
+    "contrabando": [
+        "muamba"
+    ],
+    "explosões": [],
+    "aparecer": [
+        "sobressair",
+        "romper",
+        "ocorrer",
+        "manar",
+        "brotar",
+        "comparecer",
+        "chegar",
+        "nascer",
+        "desabrochar",
+        "eclodir",
+        "mostrar",
+        "surgir"
+    ],
+    "enrolado": [
+        "envolto",
+        "convolutar"
+    ],
+    "ameaçado": [],
+    "segurado": [],
+    "mudou-se": [],
+    "demonstrações": [],
+    "levando para": [],
+    "corrida": [
+        "correria",
+        "chispar",
+        "carreira"
+    ],
+    "demonstração": [
+        "manifestação",
+        "prova",
+        "ex ibição",
+        "comprovação",
+        "apresentação",
+        "mostrar"
+    ],
+    "comícios": [],
+    "dirigir": [
+        "encaminhar",
+        "guiar",
+        "reger",
+        "gerir",
+        "governar",
+        "comandar",
+        "administrar"
+    ],
+    "espancado": [],
+    "retiro": [
+        "afastamento",
+        "recolhimento",
+        "refugio",
+        "remanso",
+        "retraimento",
+        "encolhimento",
+        "solidão",
+        "isolamento"
+    ],
+    "recuou": [],
+    "falou": [],
+    "lançado": [
+        "registrar",
+        "jogar",
+        "arremessar",
+        "atirar"
+    ],
+    "abandonado": [
+        "posposto",
+        "deserto",
+        "despovoar",
+        "ignorar",
+        "desprezar",
+        "desabitar",
+        "ermo",
+        "esquecer"
+    ],
+    "cruzar": [
+        "galgar",
+        "atravessar",
+        "passar",
+        "terçar",
+        "transpor",
+        "encruzar"
+    ],
+    "soco": [
+        "sopapo",
+        "peanha",
+        "murro",
+        "trampesco",
+        "base"
+    ],
+    "avançar": [
+        "continuar",
+        "proceder",
+        "acometer",
+        "investir",
+        "prosseguir",
+        "atacar",
+        "ex ceder",
+        "proferir",
+        "adiantar",
+        "progredir",
+        "seguir",
+        "superar"
+    ],
+    "atirou em": [],
+    "vir": [
+        "proceder",
+        "derivar",
+        "surgir",
+        "comparecer",
+        "tornar",
+        "chegar",
+        "aparecer",
+        "provir",
+        "emanar",
+        "acudir",
+        "voltar",
+        "entender",
+        "regressar"
+    ],
+    "estraguei": [],
+    "único": [
+        "inédito",
+        "sui generis",
+        "só",
+        "individual",
+        "sempar",
+        "incomparável",
+        "um",
+        "uno",
+        "singular",
+        "inconfundível",
+        "ímpar"
+    ],
+    "perfurado": [
+        "furar",
+        "esburacar",
+        "rotar"
+    ],
+    "empurrado para a frente": [],
+    "empurrada para a frente": [],
+    "cruzado": [
+        "atravessar",
+        "terçar"
+    ],
+    "aberto": [
+        "limpo",
+        "sortudo",
+        "destampar",
+        "gravar",
+        "clareira",
+        "claro",
+        "nítido",
+        "desprotegido",
+        "crédulo",
+        "amplo",
+        "desabotoar",
+        "desimpedido",
+        "decotar",
+        "separar",
+        "simples",
+        "destapar",
+        "desobstruir",
+        "acessível",
+        "receptivo",
+        "franco",
+        "cândido",
+        "liberal",
+        "sincero"
+    ],
+    "lutar": [
+        "atacar",
+        "guerrear",
+        "combater",
+        "testilhar",
+        "estrebuchar",
+        "brigar",
+        "hostilizar"
+    ],
+    "empurrar": [
+        "puxar",
+        "empuxar",
+        "repuxar"
+    ],
+    "derrotando": [],
+    "imprensa": [
+        "impressora",
+        "mídia",
+        "prelo",
+        "prensa"
+    ],
+    "esquerda": [
+        "esquerdo",
+        "canhoto",
+        "sinistrar",
+        "canhota"
+    ],
+    "marchar": [
+        "andejar",
+        "caminhar",
+        "andar"
+    ],
+    "escaramuças": [],
+    "Bombeiro": [
+        "espião",
+        "encanador",
+        "artilheiro"
+    ],
+    "perfurado através": [],
+    "frente de batalha": [],
+    "defender": [
+        "advogar",
+        "tutelar",
+        "proteger",
+        "tutorar"
+    ],
+    "perdido": [
+        "olvidar",
+        "desperdiçar",
+        "desaparecido",
+        "ex traviado",
+        "desaproveitar",
+        "espalhar",
+        "disperso",
+        "apaixonar",
+        "imoral",
+        "desorientar",
+        "devasso",
+        "sumer",
+        "esquecer"
+    ],
+    "mortes": [],
+    "A chegar": [],
+    "fechar\nem": [
+        "concluir",
+        "encerrar",
+        "finalizar",
+        "cessar",
+        "cercar",
+        "tapar",
+        "cicatrizar",
+        "ultimar",
+        "bloquear"
+    ],
+    "usar": [
+        "tomar",
+        "desgastar",
+        "utilizar",
+        "ex perimentar",
+        "empregar",
+        "recorrer",
+        "trajar",
+        "costumar",
+        "gastar",
+        "tentar",
+        "praticar",
+        "vestir"
+    ],
+    "usando": [],
+    "dirigido": [
+        "orientar",
+        "governar",
+        "planejar",
+        "direcionar",
+        "administrar"
+    ],
+    "empate": [
+        "investimento",
+        "aplicação",
+        "irresolução"
+    ],
+    "chegada": [
+        "aproximação",
+        "advento",
+        "acesso",
+        "vinda"
+    ],
+    "chegar": [
+        "bastar",
+        "satisfazer",
+        "ocorrer",
+        "comparecer",
+        "aparecer",
+        "acontecer",
+        "alcançar",
+        "ascender",
+        "regressar"
+    ],
+    "carregando": [],
+    "ferimentos": [],
+    "emboscado": [],
+    "trouxe": [],
+    "em movimento": [],
+    "configurar": [
+        "representar",
+        "definir",
+        "conformar",
+        "caracterizar"
+    ],
+    "o que": [],
+    "levantou-se": [],
+    "aposentado": [
+        "emérito",
+        "reformar",
+        "jubilar"
+    ],
+    "estive": [],
+    "invadindo": [],
+    "abordagem": [
+        "abordar",
+        "aproximação",
+        "abalroar",
+        "aferramento",
+        "abalroamento"
+    ],
+    "bombardeamento": [
+        "bombardeio"
+    ],
+    "fugiu": [],
+    "rolando": [],
+    "vôo": [
+        "ascensão",
+        "subida",
+        "avanço",
+        "progresso",
+        "aumento"
+    ],
+    "assumido": [],
+    "assumiu": [],
+    "assumiu o controle": [],
+    "voar": [
+        "volitar",
+        "revoar",
+        "voejar",
+        "drapejar",
+        "pairar",
+        "planar",
+        "revolutear",
+        "aplainar",
+        "esvoaçar",
+        "adejar"
+    ],
+    "alcançado": [
+        "tocar",
+        "obter",
+        "endividar",
+        "conseguir",
+        "atingir",
+        "apanhar",
+        "entender",
+        "conquistar"
+    ],
+    "fechar em": [],
+    "retirado": [
+        "ausente",
+        "afastar"
+    ],
+    "conversas": [],
+    "assalto": [
+        "cometer",
+        "acometir",
+        "ofensiva",
+        "surtida",
+        "agressão",
+        "opugnação",
+        "ataque",
+        "investido",
+        "arremeter"
+    ],
+    "impulso": [
+        "arrebatamento",
+        "ímpeto",
+        "estímulo"
+    ],
+    "empurrado": [],
+    "capturando": [],
+    "avanços": [
+        "antecipação",
+        "ascensão",
+        "desenvolvimento",
+        "vantagem",
+        "adiantamento",
+        "progresso",
+        "progressão",
+        "melhoria"
+    ],
+    "esfaquear": [
+        "alanhar",
+        "navalhar"
+    ],
+    "ferida": [
+        "chaga",
+        "ferimento",
+        "lesão"
+    ],
+    "fraturado": [],
+    "fraturas": [],
+    "ossos quebrados": [],
+    "Telefone": [
+        "aparelho"
+    ],
+    "eles": [],
+    "encontrar": [
+        "obter",
+        "reaver",
+        "reencontrar",
+        "descobrir",
+        "achar",
+        "conseguir",
+        "deparar",
+        "recuperar"
+    ],
+    "entre": [
+        "intervalar",
+        "através",
+        "inter",
+        "meio-termo"
+    ],
+    "voltar": [
+        "produzir",
+        "responder",
+        "guiar",
+        "virar",
+        "dedicar",
+        "recorrer",
+        "replicar",
+        "reviver",
+        "relembrar",
+        "girar",
+        "apelar",
+        "restituir",
+        "retornar",
+        "recomeçar",
+        "regressar",
+        "dirigir"
+    ],
+    "incidentes": [],
+    "morte": [
+        "óbito",
+        "decesso",
+        "perecimento",
+        "passamento",
+        "falecimento",
+        "definhamento",
+        "estiolamento"
+    ],
+    "digitar": [],
+    "seguindo para": [],
+    "acidentes": [],
+    "retirado em": [],
+    "algo": [
+        "fidalgo",
+        "poderoso",
+        "cabedal",
+        "rico"
+    ],
+    "caído": [
+        "derrubar",
+        "triste",
+        "apaixonar",
+        "derretir",
+        "abatir",
+        "enamorar",
+        "derriço",
+        "enrabichar",
+        "descair"
+    ],
+    "surto": [
+        "ambição",
+        "vinda",
+        "chegar",
+        "advento",
+        "irrupção"
+    ],
+    "mover": [
+        "movimentar"
+    ],
+    "envolver": [
+        "abnegar",
+        "embrulhar",
+        "abraçar",
+        "contestar",
+        "contornar",
+        "abarcar",
+        "implicar",
+        "abranger",
+        "cercar",
+        "enrolar",
+        "invadir",
+        "cativar",
+        "intrometer",
+        "esconder"
+    ],
+    "viagem": [
+        "percurso",
+        "barato",
+        "jornada",
+        "peregrinação",
+        "romaria",
+        "romagem"
+    ],
+    "disputado": [],
+    "chegando": [],
+    "descascado": [],
+    "Atacante": [
+        "invasor",
+        "atacador",
+        "agressor",
+        "assaltante"
+    ],
+    "excesso de velocidade": [],
+    "bombardeado": [
+        "cansar",
+        "estafar",
+        "adoentar",
+        "esgotar"
+    ],
+    "pagou esse preço": [],
+    "levado de volta": [],
+    "disparando": [],
+    "acidente": [
+        "acaso",
+        "irregularidade",
+        "bater",
+        "ocorrência",
+        "desastre"
+    ],
+    "funeral": [
+        "saimento",
+        "enterramento",
+        "mortório",
+        "enterro",
+        "inumação",
+        "sepultamento",
+        "fúnebre"
+    ],
+    "empurrar\nà frente": [],
+    "expulso": [
+        "ex cluir"
+    ],
+    "incursão": [
+        "irrupção",
+        "ataque",
+        "invasão",
+        "ex cursão"
+    ],
+    "explosão": [
+        "detonação"
+    ],
+    "ao controle": [],
+    "destruir": [
+        "desfazer",
+        "ex tinguir",
+        "assolar",
+        "desmanchar",
+        "talar",
+        "ex terminar",
+        "devastar",
+        "arruinar",
+        "arrasar",
+        "aniquilar",
+        "demolir",
+        "desmantelar"
+    ],
+    "entrando em": [],
+    "Estive em": [],
+    "entrando": [],
+    "enviada por": [],
+    "Foram tomadas": [],
+    "ir para dentro": [],
+    "empurre para frente": [],
+    "impressionante": [
+        "ex traordinário",
+        "sugestivo",
+        "empolgante",
+        "maravilhoso",
+        "chocante"
+    ],
+    "levantado": [
+        "erguer"
+    ],
+    "execuções": [],
+    "mordido a poeira": [],
+    "deserto": [
+        "desabitar",
+        "ermo",
+        "despovoar",
+        "abandonar"
+    ],
+    "fugindo": [],
+    "ataques aéreos": [],
+    "Combate": [
+        "desavença",
+        "peleja",
+        "testilha",
+        "recontro",
+        "disputa",
+        "briga",
+        "pendência",
+        "bulha",
+        "zanga",
+        "rixa",
+        "pugnar",
+        "luta"
+    ],
+    "atirar": [
+        "lançar",
+        "propelir",
+        "impelir",
+        "arrojar",
+        "disparar",
+        "impulsionar",
+        "arremessar"
+    ],
+    "mutilado": [
+        "cortar",
+        "estropiar",
+        "decepar",
+        "amputar",
+        "abscindido"
+    ],
+    "retirar": [
+        "afastar",
+        "desviar",
+        "privar",
+        "apartar",
+        "retroceder",
+        "proteger",
+        "interromper",
+        "lucrar",
+        "auferir",
+        "desdizer",
+        "retratar",
+        "tirar",
+        "cessar",
+        "deixar",
+        "recuar",
+        "obter",
+        "retrair",
+        "salvar",
+        "puxar"
+    ],
+    "continue": [],
+    "caindo": [],
+    "abriu": [],
+    "escrita": [
+        "escrituração",
+        "letra",
+        "estilo",
+        "caligrafia",
+        "escritura"
+    ],
+    "Ataque": [
+        "ofensiva",
+        "injúria",
+        "disputa",
+        "ofensa",
+        "investido",
+        "acesso"
+    ],
+    "cartas": [],
+    "correspondência": [
+        "analogia",
+        "proporção",
+        "correio",
+        "conformidade",
+        "reciprocidade",
+        "correlação",
+        "relação",
+        "associação"
+    ],
+    "casado": [
+        "associar",
+        "combinar",
+        "ligar",
+        "amarrar",
+        "unir"
+    ],
+    "dizer": [
+        "caracterizar",
+        "ex primir",
+        "manifestar",
+        "combinar",
+        "advertir",
+        "adequar",
+        "definir",
+        "alegar",
+        "ajustar",
+        "condenar",
+        "comunicar",
+        "proferir",
+        "aconselhar",
+        "ex por",
+        "narrar",
+        "falar",
+        "ex pressar"
+    ],
+    "cabeçalho": [],
+    "Iraque": [],
+    "torturado": [
+        "magoar",
+        "compunger"
+    ],
+    "enforcado": [],
+    "executado": [
+        "terminar",
+        "cumprir"
+    ],
+    "assassinado": [],
+    "execução": [
+        "cumprimento",
+        "efetivação",
+        "realização",
+        "finalização"
+    ],
+    "condenado": [
+        "sentenciar",
+        "réprobo",
+        "infeliz"
+    ],
+    "voado": [],
+    "discutido": [
+        "debater"
+    ],
+    "fogo amigo": [],
+    "Segunda Guerra Mundial": [],
+    "voltando": [],
+    "tempo de guerra": [],
+    "retornando": [],
+    "cume": [
+        "cima",
+        "ápice",
+        "fastígio",
+        "alto",
+        "ex tremidade",
+        "auge",
+        "apogeu",
+        "píncaro",
+        "clímax",
+        "cimo",
+        "topo"
+    ],
+    "Tempestade no Deserto": [],
+    "saiu": [],
+    "Encontros": [],
+    "carta": [
+        "mapa",
+        "correio",
+        "correspondência",
+        "bilhete",
+        "diploma",
+        "baralho"
+    ],
+    "escrever": [
+        "elaborar",
+        "gravar",
+        "compor",
+        "ortografar",
+        "criar",
+        "conceber",
+        "redigir",
+        "grafar",
+        "inscrever"
+    ],
+    "fugir": [
+        "distanciar",
+        "esgueirar",
+        "afastar",
+        "zarpar",
+        "partir",
+        "escapulir",
+        "escapar",
+        "abalar",
+        "abandonar"
+    ],
+    "sobre": [
+        "segundo",
+        "após",
+        "a respeito de",
+        "a o encontro de",
+        "de acordo",
+        "conforme",
+        "próximo"
+    ],
+    "uma vez": [],
+    "partiu": [],
+    "eleições": [],
+    "tiroteios": [],
+    "entregue": [
+        "absorto",
+        "ocupar",
+        "dedicar",
+        "cansar",
+        "bambo",
+        "dar",
+        "ex austo",
+        "entregar"
+    ],
+    "chamar": [
+        "recorrer",
+        "invocar",
+        "nomear",
+        "pedir",
+        "aproximar",
+        "alcunhar",
+        "convocar",
+        "solicitar",
+        "ligar",
+        "designar",
+        "apelidar"
+    ],
+    "alcançar": [
+        "perceber",
+        "obter",
+        "compreender",
+        "agarrar",
+        "conseguir",
+        "atingir",
+        "apanhar",
+        "entender",
+        "depreender",
+        "avistar"
+    ],
+    "deu": [],
+    "Operação Iraqi Freedom": [],
+    "emboscada": [
+        "insídia",
+        "embuste",
+        "armadilha",
+        "cilar"
+    ],
+    "escreveu": [],
+    "discussão": [
+        "arguição",
+        "debate",
+        "litígio",
+        "desentendimento",
+        "contenda",
+        "conflito",
+        "bate-boca",
+        "briga",
+        "polêmica",
+        "altercação",
+        "controvérsio"
+    ],
+    "apreender": [
+        "tomar",
+        "apresar",
+        "compreender",
+        "assimilar",
+        "entender",
+        "confiscar"
+    ],
+    "trazer": [
+        "presentear",
+        "suscitar",
+        "guiar",
+        "sugerir",
+        "aduzir",
+        "demonstrar",
+        "ex por",
+        "possuir",
+        "incluir",
+        "dirigir"
+    ],
+    "emergir": [
+        "aparecer",
+        "manifestar",
+        "surgir"
+    ],
+    "chamadas": [],
+    "crítico": [
+        "avaliador",
+        "abalizador",
+        "censor",
+        "ex egeta",
+        "comentador",
+        "analista",
+        "ajuizador"
+    ],
+    "falência": [
+        "bancarrota",
+        "quebra",
+        "ruína",
+        "fracasso",
+        "falha",
+        "quebradeira"
+    ],
+    "condenado à morte": [],
+    "tiroteio": [
+        "troado"
+    ],
+    "chocado": [
+        "ofender",
+        "espantado",
+        "escandalizar",
+        "colidir",
+        "surpresar",
+        "abalar"
+    ],
+    "Derrubar": [
+        "abater",
+        "desmoronar",
+        "destruir",
+        "amesquinhar",
+        "esboroar",
+        "prostrar",
+        "destituir",
+        "humilhar"
+    ],
+    "Aproximando": [],
+    "destruindo": [],
+    "afastar": [
+        "distanciar",
+        "distrair",
+        "abduzir",
+        "abrir",
+        "desviar",
+        "alongar"
+    ],
+    "barragem": [
+        "impedimento",
+        "obstrução",
+        "obstáculo",
+        "dique",
+        "barreira",
+        "tapume"
+    ],
+    "protesto": [
+        "reclamação",
+        "contestação",
+        "impugnação",
+        "oposição",
+        "queixa"
+    ],
+    "escoltado": [],
+    "agredido": [
+        "assaltar",
+        "acometir",
+        "atacar"
+    ],
+    "cobranças": [],
+    "cabeça": [
+        "crânio",
+        "memória",
+        "imaginação",
+        "caráter",
+        "sangue-frio",
+        "direção",
+        "espírito",
+        "intelecto",
+        "razão",
+        "autoridade",
+        "vontade",
+        "começo",
+        "líder",
+        "inteligência"
+    ],
+    "liberar": [
+        "livrar",
+        "desobrigar"
+    ],
+    "carregar": [
+        "transportar",
+        "acometer",
+        "pejar",
+        "anuviar",
+        "armar",
+        "desfechar",
+        "levar",
+        "ex agerar",
+        "aumentar",
+        "municiar"
+    ],
+    "voo": [
+        "ascensão",
+        "subida",
+        "avanço",
+        "progresso",
+        "aumento"
+    ],
+    "resignado": [
+        "paciente",
+        "submisso",
+        "obediente",
+        "longânime",
+        "conformar",
+        "dócil"
+    ],
+    "aquisição": [
+        "obtenção",
+        "adquirição",
+        "compra",
+        "adquirimento"
+    ],
+    "Fora": [
+        "ex ceto",
+        "ex terior",
+        "além de",
+        "ex terno",
+        "fiasco",
+        "salvo",
+        "distante",
+        "sem",
+        "ratar"
+    ],
+    "visadas": [],
+    "convicções": [],
+    "audição": [
+        "auscultação",
+        "audiência",
+        "outiva",
+        "concerto",
+        "oitiva"
+    ],
+    "tentar": [
+        "ex perimentar",
+        "usar",
+        "empregar",
+        "aventurar",
+        "pretender",
+        "arriscar",
+        "sondar",
+        "atentar",
+        "intentar",
+        "seduzir"
+    ],
+    "terno": [
+        "harmonioso",
+        "trio",
+        "lastimoso",
+        "meigo",
+        "amoroso",
+        "afetuoso",
+        "suave",
+        "delicar",
+        "trindade",
+        "brar",
+        "langoroso",
+        "afável",
+        "doce",
+        "aprazível"
+    ],
+    "dando": [
+        "presentear",
+        "recompensar",
+        "caminho",
+        "gerar",
+        "dadivando",
+        "vender",
+        "trocar",
+        "brindar",
+        "obsequiar",
+        "comunicar",
+        "considerar",
+        "promover",
+        "outorgar",
+        "conceder",
+        "transferir",
+        "doar",
+        "pagar",
+        "ceder",
+        "oferecer",
+        "facultar",
+        "desenvolver",
+        "provocar",
+        "ando"
+    ],
+    "reunido": [
+        "aglomerar",
+        "amontoar",
+        "acumular"
+    ],
+    "junta-se": [],
+    "revolta": [
+        "revolução",
+        "indignação",
+        "desordem",
+        "rebelião",
+        "alvoroço",
+        "conflito",
+        "motim",
+        "agitação",
+        "rebeldia"
+    ],
+    "estuprar": [
+        "constranger",
+        "violar",
+        "violentar"
+    ],
+    "estupro": [
+        "violação",
+        "forçamento"
+    ],
+    "pisando\nabaixo": [],
+    "desocupar": [
+        "vagar",
+        "vazar"
+    ],
+    "afastando-se": [],
+    "acusação": [
+        "arguição",
+        "criminação",
+        "denunciação",
+        "delação",
+        "denúncia",
+        "querela"
+    ],
+    "carregada": [],
+    "rostos": [],
+    "multas": [],
+    "busto": [
+        "tórax",
+        "arcabouço"
+    ],
+    "fim": [
+        "morte",
+        "motivo",
+        "término",
+        "intenção",
+        "objetivo",
+        "causa",
+        "intuito",
+        "termo",
+        "razão",
+        "meta",
+        "alvo",
+        "destino",
+        "cessação"
+    ],
+    "comprado": [
+        "assalariar"
+    ],
+    "recontratado": [],
+    "multado": [],
+    "relatório": [
+        "ex posição",
+        "ata",
+        "narração",
+        "relato",
+        "descrição"
+    ],
+    "nab": [],
+    "terminar": [
+        "invalidar",
+        "infirmar",
+        "rescindir",
+        "finalizar",
+        "anular",
+        "cassar",
+        "revogar",
+        "completar",
+        "perfazer",
+        "cancelar",
+        "findar",
+        "rematar",
+        "concluir",
+        "acabar",
+        "derrogar",
+        "abortar",
+        "ab-rogar",
+        "eliminar",
+        "ultimar"
+    ],
+    "ensaios": [],
+    "audiências": [],
+    "claro": [
+        "comprovar",
+        "inequívoco",
+        "resplandecente",
+        "evidente",
+        "iluminar",
+        "brilhante",
+        "sereno",
+        "visível",
+        "transparente",
+        "distinto",
+        "límpido",
+        "translúcido"
+    ],
+    "frases": [],
+    "conflitante": [
+        "oposto",
+        "incompatível",
+        "contrário"
+    ],
+    "convergir": [
+        "reunir",
+        "encaminhar",
+        "confluir",
+        "centralizar",
+        "concentrar",
+        "dirigir"
+    ],
+    "assalto w": [],
+    "jogado": [],
+    "jogou": [],
+    "cair": [
+        "desabar",
+        "decair",
+        "participar",
+        "declinar",
+        "chegar",
+        "apaixonar",
+        "tombar",
+        "sucumbir",
+        "soltar",
+        "precipitar",
+        "arrastar",
+        "atirar"
+    ],
+    "caiu": [],
+    "o telefone": [],
+    "esfaqueado": [],
+    "sangramento": [],
+    "seqüestrado": [],
+    "salvou": [],
+    "qharthd": [],
+    "jogando": [],
+    "corrido": [
+        "ex pulso",
+        "perseguir",
+        "passado",
+        "acossar",
+        "cabimento"
+    ],
+    "decisão": [
+        "sentença",
+        "despacho",
+        "arbitramento",
+        "julgamento",
+        "juízo",
+        "determinação",
+        "firmeza",
+        "deliberação",
+        "coragem",
+        "brocardo",
+        "final"
+    ],
+    "apelo": [
+        "vocativo",
+        "apelação",
+        "invocação",
+        "chamamento",
+        "recurso",
+        "rozer",
+        "convocação"
+    ],
+    "falar": [
+        "ex primir",
+        "discursar",
+        "criticar",
+        "comunicar",
+        "dizer",
+        "conversar",
+        "revelar"
+    ],
+    "apelou": [],
+    "servindo": [],
+    "e-mail": [],
+    "escaldado": [
+        "escarmentado",
+        "pir",
+        "desconfiar"
+    ],
+    "escaldante": [
+        "quente",
+        "acender",
+        "escaldador",
+        "abrasador",
+        "ardente"
+    ],
+    "protestos": [],
+    "violência": [
+        "força",
+        "opressão",
+        "perversidade",
+        "fúria",
+        "crueldade",
+        "impetuosidade",
+        "tirania",
+        "furor",
+        "arbitrariedade",
+        "ímpeto",
+        "constrangimento"
+    ],
+    "caminho": [
+        "estrada",
+        "atalho",
+        "direção",
+        "objetivo",
+        "tramite",
+        "itinerário",
+        "rumo",
+        "tendência",
+        "trilho"
+    ],
+    "saudar": [
+        "congratular",
+        "cumprimento",
+        "aclamar",
+        "salvar",
+        "louvar",
+        "cumprimentar",
+        "felicitar"
+    ],
+    "assassinato": [
+        "homicídio",
+        "assassínio"
+    ],
+    "ingraus": [],
+    "saída": [
+        "recurso",
+        "ex pediente",
+        "disparate",
+        "partida",
+        "arrancada",
+        "ida"
+    ],
+    "cerco": [
+        "sítio",
+        "assédio",
+        "bloqueio"
+    ],
+    "telefone": [
+        "aparelho"
+    ],
+    "lutando": [],
+    "aproveitar": [
+        "lograr",
+        "prestar",
+        "iludir",
+        "lucrar",
+        "captar",
+        "gozar",
+        "progredir"
+    ],
+    "juntar": [
+        "reunir",
+        "aditar",
+        "colecionar",
+        "coligir",
+        "enredar",
+        "somar",
+        "anexar",
+        "amarrar",
+        "grupar",
+        "agrupar",
+        "adicionar",
+        "ajuntar",
+        "atar",
+        "adir",
+        "adstringir",
+        "coadunar",
+        "ligar",
+        "unir",
+        "prender"
+    ],
+    "Partidas": [],
+    "cabeça para fora": [],
+    "retornar": [
+        "devolver",
+        "revir",
+        "tornar",
+        "reverter",
+        "restituir",
+        "voltar",
+        "regressar"
+    ],
+    "terror": [
+        "pavor",
+        "pânico",
+        "susto",
+        "temor",
+        "medo"
+    ],
+    "campo de batalha": [],
+    "terminando": [],
+    "contratado": [
+        "acertar",
+        "combinar",
+        "registrar",
+        "acordar",
+        "estipular",
+        "ajustar",
+        "estabelecer",
+        "efetivar",
+        "convencionar",
+        "firmar"
+    ],
+    "vivo": [
+        "pícaro",
+        "astucioso",
+        "esperto",
+        "buliçoso",
+        "astuto",
+        "sagaz",
+        "arteiro",
+        "manhoso",
+        "ardiloso",
+        "espertalhão"
+    ],
+    "afiado": [
+        "amolar",
+        "agudo",
+        "aguçar"
+    ],
+    "aniversário": [
+        "natalício"
+    ],
+    "criticamente": [],
+    "sentado": [
+        "assentar"
+    ],
+    "eliminar": [
+        "invalidar",
+        "infirmar",
+        "revogar",
+        "derrogar",
+        "abortar",
+        "ex pulsar",
+        "rescindir",
+        "varar",
+        "ab-rogar",
+        "cassar",
+        "terminar",
+        "cancelar",
+        "anular",
+        "ex pelir"
+    ],
+    "pousar": [
+        "botar",
+        "aterrar",
+        "assentar"
+    ],
+    "Visita": [
+        "visitante",
+        "visitação",
+        "menstruação"
+    ],
+    "abaixo": [
+        "aquém",
+        "embaixo",
+        "inferior",
+        "adiante"
+    ],
+    "entrou": [],
+    "e guerra": [],
+    "tomada\nabaixo": [
+        "ficha",
+        "tomar",
+        "conquista",
+        "benjamim",
+        "plugue",
+        "captura"
+    ],
+    "indo": [],
+    "trazer de volta": [],
+    "acusado": [
+        "réu",
+        "indiciar",
+        "criminado",
+        "denunciar",
+        "culpar"
+    ],
+    "cobrar": [
+        "receber",
+        "recuperar",
+        "arrecadar",
+        "haver"
+    ],
+    "nascer": [
+        "romper",
+        "manar",
+        "despontar",
+        "brotar",
+        "resultar",
+        "advir",
+        "provir",
+        "aparecer",
+        "eclodir",
+        "desabrochar",
+        "surgir",
+        "originar"
+    ],
+    "foi abaixo": [],
+    "chutou": [],
+    "voou": [],
+    "vê": [],
+    "conheceu": [],
+    "trauma": [
+        "traumatismo"
+    ],
+    "facada": [],
+    "não nascido": [],
+    "capítulo 11": [],
+    "demissões": [],
+    "sequestro": [],
+    "invadido": [],
+    "frase": [
+        "ex pressão",
+        "sentença"
+    ],
+    "capturar": [
+        "tomar",
+        "apresar",
+        "deter",
+        "aprisionar",
+        "apreender",
+        "conquistar"
+    ],
+    "atrocidades": [],
+    "destruição": [
+        "morte",
+        "fim",
+        "assassínio",
+        "desbaratamento",
+        "ruína",
+        "ex terminação",
+        "ex tinção",
+        "devastação",
+        "aniquilamento",
+        "demolição"
+    ],
+    "custódia": [
+        "vigilância",
+        "proteção",
+        "detenção",
+        "tutela",
+        "ostensório",
+        "guardar"
+    ],
+    "não é mais": [],
+    "entrar": [
+        "enfiar",
+        "calar",
+        "penetrar",
+        "embarafustar",
+        "começar",
+        "ingressar",
+        "subscrever",
+        "adentrar",
+        "invadir",
+        "introduzir",
+        "transpor",
+        "contribuir",
+        "meter",
+        "iniciar"
+    ],
+    "mostrar-se": [],
+    "apareceu": [],
+    "deparar": [
+        "apresentar",
+        "oferecer",
+        "encontrar",
+        "topar",
+        "proporcionar"
+    ],
+    "topar com": [],
+    "descendo": [],
+    "levado": [
+        "transportar",
+        "carregar",
+        "orientar",
+        "enganar",
+        "conduzir",
+        "remover",
+        "roubar"
+    ],
+    "um": [
+        "primeiro",
+        "único",
+        "aproximadamente",
+        "qualquer",
+        "uno",
+        "singular"
+    ],
+    "implantado": [
+        "inaugurar",
+        "fixar",
+        "hastear",
+        "içar",
+        "arvorar",
+        "enraizar",
+        "arraigar",
+        "estabelecer",
+        "levantar",
+        "introduzir"
+    ],
+    "substituído": [
+        "mudar",
+        "alterar",
+        "trocar",
+        "modificar"
+    ],
+    "custo": [
+        "dispêndio"
+    ],
+    "demitido": [
+        "ex onerar",
+        "deposto",
+        "destituir"
+    ],
+    "terminação": [
+        "remate",
+        "conclusão",
+        "sufixo",
+        "solução"
+    ],
+    "pena de morte": [],
+    "abrir": [
+        "esticar",
+        "inaugurar",
+        "destampar",
+        "penetrar",
+        "fundar",
+        "instalar",
+        "entalhar",
+        "abduzir",
+        "estender",
+        "perfurar",
+        "destapar",
+        "furar",
+        "acessar",
+        "franquear",
+        "desbotoar",
+        "desabrochar"
+    ],
+    "encontro": [
+        "embate",
+        "choque",
+        "abalroação",
+        "colisão",
+        "briga",
+        "encontr",
+        "congresso",
+        "abalroamento"
+    ],
+    "falências": [],
+    "setembro": [],
+    "demonstrando": [],
+    "juntando-se": [],
+    "homicídio": [
+        "assassínio",
+        "assassinato"
+    ],
+    "vagou": [],
+    "tive": [
+        "apresentar",
+        "efetuei",
+        "possuír",
+        "ocupei",
+        "haver",
+        "defini",
+        "portar",
+        "herdar",
+        "apeguei",
+        "trazer",
+        "julguei",
+        "ex perienciei",
+        "procedir",
+        "conservei"
+    ],
+    "fusão": [
+        "derretimento",
+        "liquefação",
+        "liga",
+        "aliança",
+        "sociedade",
+        "dissolução",
+        "amálgama",
+        "coalizão",
+        "coligação",
+        "corporação",
+        "mistura",
+        "associação"
+    ],
+    "comprar": [
+        "adquirir"
+    ],
+    "perder": [
+        "falhar",
+        "fracassar",
+        "desperdiçar",
+        "obliterar",
+        "desmemoriar",
+        "arruinar",
+        "confundir",
+        "desempossar",
+        "sumir",
+        "desmerecer",
+        "esquecer"
+    ],
+    "tiros": [],
+    "fogo vivo\nintercâmbio": [],
+    "alvejando": [],
+    "nadar": [
+        "flutuar",
+        "boiar"
+    ],
+    "paralisado": [
+        "parar",
+        "suspender",
+        "interromper",
+        "inerte"
+    ],
+    "tirando": [],
+    "hostilidades": [],
+    "jornada": [
+        "passeio",
+        "andar",
+        "caminhada",
+        "marcha",
+        "estir",
+        "andança",
+        "viagem"
+    ],
+    "invadir": [
+        "acometer",
+        "penetrar",
+        "espalhar",
+        "alastrar",
+        "estender",
+        "adentrar",
+        "avassalar",
+        "ocupar",
+        "conquistar",
+        "apossar"
+    ],
+    "insurreição": [
+        "pronunciamento",
+        "revoltar",
+        "motim",
+        "levantamento",
+        "subversão",
+        "insurgência",
+        "sublevação"
+    ],
+    "fazer": [
+        "elaborar",
+        "equivaler",
+        "constituir",
+        "comportar",
+        "avaliar",
+        "ex ecutar",
+        "preparar",
+        "percorrer",
+        "construir",
+        "criar",
+        "gerar",
+        "realizar",
+        "compor",
+        "fingir",
+        "provocar",
+        "doar"
+    ],
+    "colete": [],
+    "vendido": [
+        "constranger",
+        "ceder",
+        "desapontar",
+        "subornar"
+    ],
+    "indiciado": [
+        "acusar",
+        "réu",
+        "culpar",
+        "denunciar",
+        "incriminar"
+    ],
+    "recrutado": [],
+    "pago": [
+        "pagar",
+        "aldeia",
+        "saldar",
+        "pagamento",
+        "amortizar",
+        "vila",
+        "recompensa",
+        "quitar",
+        "vingar",
+        "remunerar",
+        "quite"
+    ],
+    "corte": [
+        "corte",
+        "paço",
+        "pátio"
+    ],
+    "oferecido": [
+        "dar"
+    ],
+    "correr": [
+        "decorrer",
+        "aligeirar",
+        "auxiliar",
+        "açodar",
+        "perseguir",
+        "mover",
+        "ex pulsar",
+        "acorrer",
+        "percorrer",
+        "estugar",
+        "acelerar",
+        "movimentar",
+        "apressar",
+        "viajar",
+        "ex por",
+        "passar",
+        "passear"
+    ],
+    "terminou": [],
+    "mortal": [
+        "mortífero",
+        "letal"
+    ],
+    "doente": [
+        "adoentar",
+        "obcecar",
+        "débil",
+        "fraco",
+        "enfermo",
+        "achacar",
+        "viciar",
+        "vicioso",
+        "achacoso",
+        "doentio",
+        "combaler"
+    ],
+    "atividade": [
+        "dinamismo",
+        "iniciativa",
+        "intensão",
+        "agência",
+        "prontidão",
+        "vida",
+        "ação",
+        "vivacidade",
+        "diligência",
+        "presteza",
+        "operosidade",
+        "energia",
+        "movimento"
+    ],
+    "Atividades": [
+        "emprego",
+        "ação",
+        "trabalho",
+        "tarefa"
+    ],
+    "viajando": [],
+    "afundado": [],
+    "tornando-se": [],
+    "espancamento": [],
+    "explodiu": [],
+    "ferindo": [],
+    "corpo": [
+        "assembleia",
+        "consistência",
+        "regimento",
+        "batalhão",
+        "tropa",
+        "espessura",
+        "tronco",
+        "estatura",
+        "associação"
+    ],
+    "dê o nó": [],
+    "cerimônia": [
+        "acanhamento",
+        "vergonha",
+        "etiqueta",
+        "protocolo",
+        "solenidade",
+        "retraimento",
+        "rito",
+        "timidez"
+    ],
+    "gasto": [
+        "dispêndio",
+        "despesa",
+        "usar",
+        "desperdício",
+        "estragar",
+        "consumer",
+        "cansar",
+        "deteriorar",
+        "abatir",
+        "desgaste",
+        "esbanjamento",
+        "velho"
+    ],
+    "escalonado doup": [],
+    "pisou\nabaixo": [],
+    "renúncia": [
+        "renunciamento",
+        "repúdio",
+        "abandono",
+        "abdicação",
+        "desistência",
+        "renunciação"
+    ],
+    "machucando": [],
+    "assassinatos": [],
+    "extradição": [],
+    "processando": [],
+    "sentença": [
+        "grande",
+        "axioma",
+        "provérbio",
+        "proposição"
+    ],
+    "servido": [
+        "provido",
+        "usar",
+        "gastar"
+    ],
+    "chega": [
+        "chegamento",
+        "basta"
+    ],
+    "escalar": [
+        "saquear",
+        "tocar",
+        "galgar",
+        "trepar",
+        "assaltar",
+        "subir"
+    ],
+    "baleado": [
+        "atingir"
+    ],
+    "vem": [
+        "surgir",
+        "comparecer",
+        "tornar",
+        "chegar",
+        "aparecer",
+        "provémr",
+        "volta",
+        "acode",
+        "deriva",
+        "emanar",
+        "procedir",
+        "entender",
+        "regressar"
+    ],
+    "navegou": [],
+    "missão": [
+        "tarefa",
+        "incumbência",
+        "atribuição",
+        "função",
+        "obrigação",
+        "cargo",
+        "empreitar",
+        "encargo"
+    ],
+    "face": [
+        "cara",
+        "aparência",
+        "faceta",
+        "semblante",
+        "superfície",
+        "aspecto",
+        "frente",
+        "rosto"
+    ],
+    "enfrentou": [],
+    "não indiciado": [],
+    "empregado": [
+        "operário",
+        "funcionário",
+        "ocupar",
+        "servidor"
+    ],
+    "ouvir\nde": [
+        "atender",
+        "inquirir",
+        "auscultar",
+        "considerar",
+        "escutar"
+    ],
+    "atraente": [
+        "interessante",
+        "agradável",
+        "sedutor",
+        "encantador",
+        "simpático"
+    ],
+    "mantido": [
+        "alimentar",
+        "manteúdo",
+        "sustentar"
+    ],
+    "ficar": [
+        "estar",
+        "sobreviver",
+        "permanecer"
+    ],
+    "sentou-se": [],
+    "receber": [
+        "recolher",
+        "recepcionar",
+        "suportar",
+        "cobrar",
+        "hospedar",
+        "possuir",
+        "receptar",
+        "arrecadar"
+    ],
+    "crítico\ndoença": [],
+    "missões": [],
+    "lançar": [
+        "jogar",
+        "projetar",
+        "propelir",
+        "estender",
+        "impelir",
+        "arrojar",
+        "disparar",
+        "impulsionar",
+        "arremessar",
+        "atirar"
+    ],
+    "violento": [
+        "atroz",
+        "bruto",
+        "brutal",
+        "bravio",
+        "severo",
+        "cruel",
+        "feroz",
+        "bárbaro",
+        "truculento",
+        "selvagem",
+        "ríspido"
+    ],
+    "telefones": [],
+    "próximo": [
+        "imediato",
+        "seguinte",
+        "confinante",
+        "propínquo",
+        "chegar",
+        "adjacente",
+        "vizinho",
+        "semelhante",
+        "convizinho"
+    ],
+    "demitir-se": [],
+    "reeleito": [],
+    "abate": [
+        "dedução",
+        "desconto",
+        "abatimento"
+    ],
+    "sangria": [
+        "cissura",
+        "flebotomia",
+        "sarjadura"
+    ],
+    "massacre": [
+        "chacina",
+        "carnificina",
+        "morticínio",
+        "fuzilamento",
+        "matança",
+        "hecatombe"
+    ],
+    "estupros": [],
+    "funil": [
+        "garganta",
+        "fecho",
+        "rasgão"
+    ],
+    "dissolver": [
+        "corromper",
+        "estragar",
+        "desintegrar",
+        "desatar",
+        "terminar",
+        "dissipar",
+        "anular",
+        "desorganizar",
+        "romper"
+    ],
+    "retaliou": [],
+    "Abuso": [
+        "desfazer",
+        "injúria",
+        "doesto",
+        "insulto",
+        "desordem",
+        "ofensa",
+        "desgosto",
+        "aborrecimento",
+        "ataque",
+        "ultraje",
+        "vitupério",
+        "agravo",
+        "ex cesso",
+        "injustiça",
+        "invectivo",
+        "afronto",
+        "provocação"
+    ],
+    "desistir": [
+        "deixar",
+        "ceder",
+        "largar",
+        "abandonar"
+    ],
+    "sindicatos": [],
+    "casamentos": [],
+    "incidente": [
+        "circunstância",
+        "descartável",
+        "incidental",
+        "acidente",
+        "caso",
+        "episódio",
+        "acontecimento",
+        "evento",
+        "superveniente",
+        "ocorrência",
+        "inesperado",
+        "inconveniente",
+        "irrelevante",
+        "dificuldade",
+        "imprevisto"
+    ],
+    "pulando": [],
+    "tumultos": [],
+    "fatal": [
+        "danoso",
+        "inevitável",
+        "funesto",
+        "grave",
+        "inexorável",
+        "mortal",
+        "nefasto",
+        "nocente",
+        "nocivo",
+        "final",
+        "derradeiro"
+    ],
+    "remoção": [
+        "desaparecimento",
+        "ex tinção",
+        "mudança",
+        "ex tirpação",
+        "transferência",
+        "supressão"
+    ],
+    "transferido": [
+        "mudar",
+        "alienar",
+        "alterar",
+        "procrastinar"
+    ],
+    "contratando": [],
+    "virou": [],
+    "levado em\ncustódia": [],
+    "explodir": [
+        "arrebentar",
+        "estoirar",
+        "estourar",
+        "rebentar"
+    ],
+    "confessou-se culpado": [],
+    "devido": [
+        "conveniente",
+        "merecer",
+        "justo",
+        "condigno"
+    ],
+    "helicóptero": [
+        "autogiro",
+        "aeronave",
+        "libélula"
+    ],
+    "devolvida": [],
+    "estuprar e drogar": [],
+    "negociações": [],
+    "desmantelar": [
+        "desarranjar",
+        "desfazer",
+        "desmanchar",
+        "desbaratar",
+        "desmoronar",
+        "destruir",
+        "demolir"
+    ],
+    "preceder": [
+        "prenunciar",
+        "antecipar",
+        "prevenir",
+        "anteceder"
+    ],
+    "divórcio": [
+        "divergência",
+        "desunião",
+        "apartamento",
+        "rompimento",
+        "separação"
+    ],
+    "enviando": [],
+    "reeleger": [],
+    "convenção": [
+        "negócio",
+        "conferência",
+        "contrato",
+        "convênio",
+        "acordo",
+        "congresso",
+        "combinação",
+        "pacto"
+    ],
+    "Ação": [
+        "circunstância",
+        "acontecimento",
+        "comportamento",
+        "ocorrência",
+        "influência"
+    ],
+    "adquirindo": [],
+    "mãos em": [],
+    "perda de vida": [],
+    "11 de setembro": [],
+    "transportando": [],
+    "estuprada": [],
+    "dar à luz": [],
+    "dá à luz": [],
+    "colocada": [],
+    "fechado": [
+        "oclusar",
+        "selar",
+        "encerrar",
+        "obstruído",
+        "cerrar",
+        "tapar",
+        "entupido"
+    ],
+    "encontra-se no estado": [],
+    "nome": [
+        "título",
+        "antenome",
+        "sobrenome",
+        "apelido",
+        "prenome",
+        "família",
+        "denominação"
+    ],
+    "substituir": [
+        "trocar",
+        "permutar",
+        "mutuar",
+        "cambiar",
+        "reciprocar",
+        "comutar"
+    ],
+    "desceu": [],
+    "acusações de abuso sexual infantil generalizado em": [],
+    "forçado": [
+        "afofar",
+        "galé",
+        "contrafeito",
+        "obrigar",
+        "compeler",
+        "facínora",
+        "coato",
+        "constranger",
+        "grilheta",
+        "condenar",
+        "artificial"
+    ],
+    "ganho": [
+        "vantagem",
+        "maquia",
+        "benefício",
+        "pechincha",
+        "lucro",
+        "proveito",
+        "defesa",
+        "interesse"
+    ],
+    "ser": [
+        "representar",
+        "viver",
+        "relacionar",
+        "significar",
+        "estar",
+        "acontecer",
+        "ex istir",
+        "fazer"
+    ],
+    "compromissos": [],
+    "iniciado": [
+        "principiar",
+        "abrir"
+    ],
+    "fundindo": [],
+    "mesclado": [
+        "misturar",
+        "variegar",
+        "versicolor",
+        "matizar",
+        "mestiço"
+    ],
+    "falindo": [],
+    "contratar": [
+        "pactuar",
+        "combinar",
+        "acordar",
+        "estipular",
+        "ajustar",
+        "convencionar"
+    ],
+    "nomeado": [
+        "intitular",
+        "designar",
+        "denominar",
+        "eleger"
+    ],
+    "renunciando": [],
+    "limpar": [
+        "higienizar",
+        "purgar",
+        "lavar",
+        "purificar",
+        "pigarrear",
+        "redimir",
+        "varrer",
+        "mondar"
+    ],
+    "nove onze": [],
+    "derrubou": [],
+    "entrar em": [],
+    "usado\nser": [
+        "deteriorar",
+        "costumar",
+        "gastar",
+        "rotar",
+        "velho",
+        "server"
+    ],
+    "nove\nonze": [],
+    "culpado": [
+        "acusar",
+        "réu",
+        "indiciar",
+        "criminado",
+        "denunciar"
+    ],
+    "assassinar": [
+        "ex tinguir",
+        "fuzilar",
+        "chacinar",
+        "aniquilar",
+        "ex terminar",
+        "destruir",
+        "trucidar",
+        "matar",
+        "massacrar"
+    ],
+    "não encontrado": [],
+    "andar": [
+        "decorrer",
+        "marcha",
+        "passar",
+        "viajar",
+        "marchar",
+        "desenvolver",
+        "vaguear",
+        "progredir",
+        "apressar",
+        "andejar",
+        "caminhar"
+    ],
+    "remover": [
+        "revolver",
+        "afastar",
+        "demitir",
+        "remexer",
+        "transferir"
+    ],
+    "encontrado": [
+        "achar",
+        "descobrir"
+    ],
+    "empenhado": [
+        "hipotecado"
+    ],
+    "dado": [
+        "habituar",
+        "propenso",
+        "inclinar",
+        "adquirir",
+        "oferecer",
+        "afável",
+        "comunicativo",
+        "gratuito",
+        "plinto"
+    ],
+    "crime": [
+        "violação",
+        "transgressão",
+        "delito"
+    ],
+    "genocídio": [
+        "aniquilação",
+        "massacre"
+    ],
+    "rebanho": [
+        "mancheio",
+        "gado",
+        "manada"
+    ],
+    "fez": [
+        "fez"
+    ],
+    "Julgamento": [
+        "sentença",
+        "decisão",
+        "juízo",
+        "apreciação",
+        "audiência",
+        "veredito",
+        "parecer"
+    ],
+    "Morte": [
+        "óbito",
+        "decesso",
+        "perecimento",
+        "passamento",
+        "falecimento",
+        "definhamento",
+        "estiolamento"
+    ],
+    "compra": [
+        "obtenção",
+        "aquisição"
+    ],
+    "selecionando": [],
+    "dá": [
+        "de este",
+        "de aquele"
+    ],
+    "passagem": [
+        "travessia",
+        "passadiço",
+        "cedência",
+        "bilhete",
+        "mudança",
+        "delegação",
+        "transferência",
+        "passadoiro",
+        "transição",
+        "cessão",
+        "alteração"
+    ],
+    "dar": [
+        "presentear",
+        "recompensar",
+        "gerar",
+        "dadivar",
+        "vender",
+        "trocar",
+        "brindar",
+        "obsequiar",
+        "comunicar",
+        "considerar",
+        "promover",
+        "outorgar",
+        "conceder",
+        "transferir",
+        "doar",
+        "pagar",
+        "ceder",
+        "oferecer",
+        "facultar",
+        "desenvolver",
+        "provocar"
+    ],
+    "retiros": [],
+    "enviar": [
+        "endereçar",
+        "adereçar",
+        "ex pedir",
+        "despachar",
+        "destinar",
+        "remeter",
+        "legar",
+        "comunicar",
+        "transmitir"
+    ],
+    "conquistado": [
+        "tomar",
+        "vencer",
+        "alcançar",
+        "subjugar",
+        "conseguir",
+        "enamorar"
+    ],
+    "sentar-se": [],
+    "estrangulado": [
+        "esganar"
+    ],
+    "chamando": [],
+    "Ensaios": [],
+    "tragédia": [
+        "flagelo",
+        "adversidade",
+        "catástrofe",
+        "infortúnio",
+        "desgraça",
+        "fatalidade",
+        "calamidade",
+        "revés"
+    ],
+    "voltou": [],
+    "envenenamento": [
+        "botulismo",
+        "intoxicação",
+        "alantíase"
+    ],
+    "envenenado": [],
+    "atos": [],
+    "Sair": [
+        "sobressair",
+        "transformar",
+        "crescer",
+        "andar",
+        "mover",
+        "resultar",
+        "tornar",
+        "atacar",
+        "aparecer",
+        "partir",
+        "desviar",
+        "desempenhar",
+        "parecer",
+        "ir"
+    ],
+    "divorciado": [
+        "separar"
+    ],
+    "pegar\npara": [
+        "generalizar",
+        "transmitir",
+        "compreender",
+        "amparar",
+        "segurar",
+        "prender",
+        "alcançar",
+        "contagiar",
+        "buscar",
+        "cativar",
+        "funcionar",
+        "altercar",
+        "grudar",
+        "entender",
+        "agarrar"
+    ],
+    "Ir": [
+        "apresentar",
+        "decorrer",
+        "comportar",
+        "locomover",
+        "comparecer",
+        "desaparecer",
+        "aparecer",
+        "partir",
+        "acontecer",
+        "marchar",
+        "sair",
+        "movimentar",
+        "caminhar",
+        "prolongar",
+        "morrer"
+    ],
+    "pagando": [],
+    "volte": [],
+    "sair": [
+        "sobressair",
+        "transformar",
+        "crescer",
+        "andar",
+        "mover",
+        "resultar",
+        "tornar",
+        "atacar",
+        "aparecer",
+        "partir",
+        "desviar",
+        "desempenhar",
+        "parecer",
+        "ir"
+    ],
+    "passando": [],
+    "rasgou": [],
+    "carting": [],
+    "avançado": [
+        "adiantar"
+    ],
+    "soprado": [],
+    "retaliação": [
+        "vingança",
+        "desforra",
+        "represália",
+        "desforço"
+    ],
+    "convocado": [
+        "chamar",
+        "convidar"
+    ],
+    "perseguir": [
+        "caçar",
+        "procurar",
+        "castigar",
+        "torturar",
+        "acossar",
+        "alcançar",
+        "atormentar",
+        "prejudicar",
+        "importunar",
+        "buscar",
+        "acuar"
+    ],
+    "assentou": [],
+    "povoado": [
+        "povoamento",
+        "vilarinho",
+        "aldeia",
+        "aldeamento",
+        "arraial",
+        "arruar",
+        "lugarejo",
+        "povoação",
+        "reguengo",
+        "vilela",
+        "localidade",
+        "casal"
+    ],
+    "litígio": [
+        "debate",
+        "disputa",
+        "contenda",
+        "discussão",
+        "polêmica",
+        "briga",
+        "altercação",
+        "controvérsio"
+    ],
+    "implantando": [],
+    "desencadear": [
+        "arremeter",
+        "desprender",
+        "soltar",
+        "desatar"
+    ],
+    "ordenou": [],
+    "consulta": [
+        "conselho",
+        "parecer",
+        "opinião"
+    ],
+    "oferta": [
+        "oferenda",
+        "oferecimento",
+        "doação",
+        "esmola",
+        "dádiva",
+        "donativo"
+    ],
+    "final": [
+        "fim",
+        "posterior",
+        "propósito",
+        "último",
+        "derradeiro"
+    ],
+    "agressão": [
+        "cometer",
+        "acometir",
+        "ofensiva",
+        "surtida",
+        "opugnação",
+        "assalto",
+        "ataque",
+        "investido",
+        "arremeter"
+    ],
+    "jihad": [],
+    "perdas": [],
+    "confrontos": [],
+    "coletado": [],
+    "Demonstrações": [],
+    "hospitalizado": [],
+    "sente-se": [],
+    "colidiu": [],
+    "marchas": [],
+    "marchou": [],
+    "dirigiu": [],
+    "Cair": [
+        "desabar",
+        "decair",
+        "participar",
+        "declinar",
+        "chegar",
+        "apaixonar",
+        "tombar",
+        "sucumbir",
+        "soltar",
+        "precipitar",
+        "arrastar",
+        "atirar"
+    ],
+    "campanha": [
+        "trabalho",
+        "batalha",
+        "planície",
+        "tarefa",
+        "jornada",
+        "campo",
+        "pradar",
+        "campina",
+        "guerra",
+        "prar",
+        "esforço",
+        "ex pedição",
+        "ler"
+    ],
+    "piquete": [
+        "estaca",
+        "escolta",
+        "guardar"
+    ],
+    "protestou": [],
+    "acabou": [],
+    "bombear": [
+        "espiar",
+        "bombardear",
+        "reprovar",
+        "ex plorar"
+    ],
+    "campanhas": [],
+    "executar": [
+        "efetuar",
+        "elaborar",
+        "satisfazer",
+        "representar",
+        "cantar",
+        "assassinar",
+        "realizar",
+        "cumprir",
+        "matar",
+        "fazer"
+    ],
+    "apelos": [],
+    "pára-quedas": [],
+    "outros": [
+        "outro",
+        "terceiro"
+    ],
+    "começa": [],
+    "desce": [],
+    "tornar-se": [],
+    "anteriormente": [
+        "acima",
+        "antes"
+    ],
+    "pow-wow": [],
+    "participar": [
+        "notificar",
+        "anunciar",
+        "lidar",
+        "comunicar",
+        "informar",
+        "avisar",
+        "compartilhar",
+        "transmitir",
+        "partilhar",
+        "quinhoar"
+    ],
+    "formado": [
+        "pontificar",
+        "constituir",
+        "educar",
+        "ensinar",
+        "amestrar",
+        "doutrinar",
+        "instruir",
+        "compor",
+        "adestrar",
+        "ex plicar"
+    ],
+    "Casado": [
+        "associar",
+        "combinar",
+        "ligar",
+        "amarrar",
+        "unir"
+    ],
+    "hackeado": [],
+    "fórum": [
+        "tribunal",
+        "tribuna",
+        "assembleia",
+        "foro"
+    ],
+    "Negociações": [],
+    "reeleição": [],
+    "financiado": [],
+    "convicção": [
+        "princípio",
+        "crença",
+        "fé",
+        "convencimento",
+        "persuasão",
+        "certeza"
+    ],
+    "saque": [
+        "roubo",
+        "retirada"
+    ],
+    "apresentação": [
+        "prefácio",
+        "introdução",
+        "aparecimento",
+        "ex ibição",
+        "aparência"
+    ],
+    "vender": [
+        "alienar",
+        "negociar",
+        "ceder",
+        "traspassar",
+        "mercar",
+        "colocar"
+    ],
+    "multar": [
+        "apenar",
+        "autuar",
+        "penalizar",
+        "condenar",
+        "coimar",
+        "acoimar"
+    ],
+    "absolvido": [
+        "perdoar",
+        "absolto"
+    ],
+    "punível": [],
+    "discussões": [
+        "briga"
+    ],
+    "dissolvendo": [],
+    "dissolvido": [
+        "desfazer",
+        "liquefeito",
+        "derretir",
+        "ex tinto",
+        "diluir",
+        "dissoluto"
+    ],
+    "eleições parciais": [],
+    "tomou posse": [],
+    "criar": [
+        "produzir",
+        "fabricar",
+        "inventar",
+        "educar",
+        "desenvolver",
+        "conceber",
+        "gerar",
+        "estabelecer",
+        "compor",
+        "imaginar",
+        "sustentar",
+        "causar"
+    ],
+    "forjamento": [],
+    "lançando": [],
+    "abertura": [
+        "início",
+        "ex órdio",
+        "introdução",
+        "rombo",
+        "franqueza",
+        "preâmbulo",
+        "orifício",
+        "lhaneza",
+        "fenda",
+        "lisura",
+        "buraco",
+        "sinceridade",
+        "brecha"
+    ],
+    "construir": [
+        "edificar",
+        "desenhar",
+        "traçar",
+        "erigir",
+        "criar",
+        "compor",
+        "levantar",
+        "erguer",
+        "imaginar"
+    ],
+    "adquirir": [
+        "obter",
+        "comprar",
+        "juntar",
+        "possuir",
+        "assumir",
+        "contrair"
+    ],
+    "desmontagem": [
+        "desmonte"
+    ],
+    "cabana": [
+        "colmar",
+        "palhoça"
+    ],
+    "Fundado": [
+        "fundamentar"
+    ],
+    "combinação": [
+        "segredo",
+        "negócio",
+        "contrato",
+        "acordo",
+        "convenção",
+        "tratar",
+        "pacto"
+    ],
+    "transação": [
+        "operação",
+        "negócio",
+        "acordo",
+        "ajuste",
+        "acomodamento",
+        "combinação",
+        "pacto"
+    ],
+    "assumir": [
+        "aceitar",
+        "declarar",
+        "encarregar",
+        "atingir",
+        "contrair"
+    ],
+    "criando": [],
+    "casamento": [
+        "enlace",
+        "casório",
+        "conúbio",
+        "himeneu",
+        "consórcio",
+        "tálamo"
+    ],
+    "estréia": [
+        "início",
+        "inauguração",
+        "começo",
+        "luzeiro"
+    ],
+    "vendendo": [],
+    "empréstimo": [
+        "suprimento"
+    ],
+    "desmoronou": [],
+    "preenchido": [
+        "cheio",
+        "completo"
+    ],
+    "contado": [
+        "descrever",
+        "ex posto",
+        "narrar"
+    ],
+    "Falido": [
+        "arrebentar",
+        "arruinar"
+    ],
+    "ajuda": [
+        "favor",
+        "socorro",
+        "obséquio",
+        "benevolência",
+        "cooperação",
+        "fautoria",
+        "recurso",
+        "adminículo",
+        "achegar",
+        "reforço",
+        "adjutório",
+        "arrimo",
+        "proteção",
+        "mão",
+        "amparo",
+        "patrocínio",
+        "assistência",
+        "concurso"
+    ],
+    "convidativo": [
+        "estimulante",
+        "tentador",
+        "cativante",
+        "atraente",
+        "provocante",
+        "acirrante"
+    ],
+    "pegar\nsobre": [
+        "generalizar",
+        "transmitir",
+        "compreender",
+        "amparar",
+        "segurar",
+        "prender",
+        "alcançar",
+        "contagiar",
+        "buscar",
+        "cativar",
+        "funcionar",
+        "altercar",
+        "grudar",
+        "entender",
+        "agarrar"
+    ],
+    "intifada": [],
+    "derramamento de sangue": [],
+    "cancelamento": [
+        "canceladura",
+        "cancelação"
+    ],
+    "movimento": [
+        "deslocação",
+        "ação",
+        "percurso",
+        "agitação"
+    ],
+    "ajuda\npacote": [
+        "favor",
+        "socorro",
+        "obséquio",
+        "benevolência",
+        "cooperação",
+        "fautoria",
+        "recurso",
+        "adminículo",
+        "achegar",
+        "reforço",
+        "adjutório",
+        "arrimo",
+        "proteção",
+        "mão",
+        "amparo",
+        "patrocínio",
+        "assistência",
+        "concurso"
+    ],
+    "admite": [],
+    "testado": [
+        "ex perimentar"
+    ],
+    "fornecendo": [],
+    "varrido do poder": [],
+    "extraditado": [],
+    "comprando fora": [],
+    "Implantação": [
+        "fundação",
+        "nidação",
+        "estabelecimento",
+        "fixação",
+        "implante",
+        "inauguração",
+        "infiltração"
+    ],
+    "purga": [
+        "purgante",
+        "purgativo"
+    ],
+    "transporte aéreo": [],
+    "briga": [
+        "frege",
+        "grude",
+        "conflito",
+        "hostilidade",
+        "requesta",
+        "sururu",
+        "bulha",
+        "arruaça",
+        "galho",
+        "luta",
+        "desaguisar",
+        "salseiro",
+        "sangangu",
+        "disputa",
+        "angu",
+        "rolo",
+        "bafafá",
+        "rompimento",
+        "pegar",
+        "rixa",
+        "pendenga",
+        "peleja",
+        "distúrbio",
+        "barulho",
+        "contenda",
+        "rusga",
+        "escaramuça",
+        "testilha",
+        "liçar",
+        "pugilato",
+        "encontro",
+        "sarilho"
+    ],
+    "mergulhar em": [],
+    "estar fora": [],
+    "expulsão": [
+        "ex clusão",
+        "ex trusão",
+        "eliminação"
+    ],
+    "trânsitos": [],
+    "evacuando": [],
+    "afaste-se": [],
+    "reembolsando": [],
+    "lances": [],
+    "socado": [
+        "pilar",
+        "atarracar",
+        "gorducho"
+    ],
+    "seguro": [
+        "estável",
+        "firme",
+        "prender",
+        "sólido",
+        "inabalável",
+        "fixo",
+        "agarrar"
+    ],
+    "estrondou": [],
+    "apagado": [
+        "insignificante",
+        "imperceptível",
+        "eliminar",
+        "ex tinto",
+        "prostrar",
+        "desbotar",
+        "fosco",
+        "desvanecir",
+        "sumer"
+    ],
+    "alcançando": [],
+    "desmoronando": [],
+    "apreendido": [
+        "tomar",
+        "compreender",
+        "prender",
+        "tom",
+        "apanhar",
+        "confiscar"
+    ],
+    "Atravessar": [
+        "galgar",
+        "passar",
+        "terçar",
+        "cruzar",
+        "transpor",
+        "encruzar"
+    ],
+    "férias": [
+        "folga",
+        "descanso"
+    ],
+    "Aposentado": [
+        "emérito",
+        "reformar",
+        "jubilar"
+    ],
+    "aposentadoria": [
+        "albergaria",
+        "hospedagem",
+        "reforma",
+        "aposentação"
+    ],
+    "separação": [
+        "secessão",
+        "ramificação",
+        "desmembração",
+        "desanexação",
+        "desagregação",
+        "desunião",
+        "fragmentação",
+        "subdivisão",
+        "divisão",
+        "desintegração",
+        "desmembramento"
+    ],
+    "pesado": [
+        "caro",
+        "ex agerado",
+        "oneroso",
+        "trabalhoso",
+        "enorme",
+        "lerdo",
+        "penoso"
+    ],
+    "jateada": [],
+    "frente": [
+        "cara",
+        "fachada",
+        "ver",
+        "presença",
+        "face",
+        "vanguarda",
+        "frontaria",
+        "dianteira",
+        "rosto",
+        "frontispício"
+    ],
+    "saltou": [],
+    "lançamento aéreo": [],
+    "pontes aéreas": [],
+    "realocado": [],
+    "agredir": [
+        "insultar",
+        "acometer",
+        "injuriar",
+        "atacar",
+        "provocar",
+        "assaltar"
+    ],
+    "ingressou": [],
+    "aceso": [
+        "ligar",
+        "abrasar",
+        "empolgar",
+        "ardente"
+    ],
+    "ceifado": [],
+    "organizar": [
+        "preparar",
+        "dispor",
+        "arranjar",
+        "arrumar",
+        "colocar",
+        "ordenar",
+        "estruturar"
+    ],
+    "coloque no lugar": [],
+    "começar a trabalhar": [],
+    "Capturar": [
+        "tomar",
+        "apresar",
+        "deter",
+        "aprisionar",
+        "apreender",
+        "conquistar"
+    ],
+    "Lutar": [
+        "atacar",
+        "guerrear",
+        "combater",
+        "testilhar",
+        "estrebuchar",
+        "brigar",
+        "hostilizar"
+    ],
+    "penetrou": [],
+    "arremessado": [
+        "precipitar",
+        "inconsiderar",
+        "arrebatar"
+    ],
+    "discutir": [
+        "ex aminar",
+        "contestar",
+        "esgrimir",
+        "argumentar",
+        "questionar",
+        "controverter",
+        "debater",
+        "altercar",
+        "brigar"
+    ],
+    "Explosões": [],
+    "blitz": [
+        "bater"
+    ],
+    "rolar": [
+        "rodar",
+        "rebolar",
+        "rojar"
+    ],
+    "está acabado": [],
+    "agarrando": [],
+    "Ferido": [
+        "alancear",
+        "golpear"
+    ],
+    "fogo cruzado": [],
+    "enfrentar": [
+        "encarar",
+        "arrostar",
+        "disputar",
+        "defrontar",
+        "mitigar"
+    ],
+    "sondado": [
+        "ex aminar",
+        "investigar"
+    ],
+    "perdendo": [],
+    "lutou": [],
+    "assaltos": [],
+    "queimaduras": [],
+    "queimado": [
+        "torrar",
+        "incendiar",
+        "tostar",
+        "afoguear",
+        "ardente"
+    ],
+    "pedágio": [],
+    "roteado": [],
+    "estabelecendo": [],
+    "caso": [
+        "circunstância",
+        "acontecimento",
+        "situação",
+        "narrativa",
+        "historieta",
+        "estória",
+        "fato",
+        "ocorrência"
+    ],
+    "guerras": [],
+    "dinheiro fornecido": [],
+    "veio\npara": [
+        "vieiro",
+        "ducto",
+        "fresto",
+        "córrego",
+        "laivo",
+        "nascente",
+        "regato",
+        "estria",
+        "manivela",
+        "canal",
+        "riacho"
+    ],
+    "vendas": [],
+    "desperdício": [
+        "desbarato",
+        "esbanjamento",
+        "dissipação",
+        "perda"
+    ],
+    "comprando": [],
+    "futuro": [
+        "fado",
+        "direção",
+        "sorte",
+        "horizonte",
+        "rumo",
+        "porvir",
+        "meta",
+        "destino",
+        "orientação"
+    ],
+    "expulsar": [
+        "afugentar",
+        "varar",
+        "eliminar",
+        "varrer",
+        "ex pelir",
+        "repelir"
+    ],
+    "selecionar": [
+        "seletar",
+        "escolher",
+        "classificar",
+        "eleger",
+        "apurar",
+        "triar",
+        "optar",
+        "preferir"
+    ],
+    "Reunião": [
+        "aglomerar",
+        "conjunto",
+        "junção",
+        "aglomeração",
+        "união",
+        "congregação"
+    ],
+    "demonstrado": [
+        "provar",
+        "ex emplificar",
+        "mostrar",
+        "ex ibido",
+        "ex posto",
+        "revelar"
+    ],
+    "instalar": [
+        "inaugurar",
+        "fundar",
+        "começar",
+        "abrir",
+        "arrumar",
+        "estabelecer"
+    ],
+    "forma": [
+        "modo",
+        "molde",
+        "sorte",
+        "configuração",
+        "arquitetura",
+        "feitio",
+        "modelo",
+        "talho",
+        "figura",
+        "aspecto",
+        "sistema",
+        "maneira",
+        "aparência",
+        "conformação",
+        "disposição"
+    ],
+    "formando": [
+        "bacharelar",
+        "graduar",
+        "diplomar"
+    ],
+    "arte": [
+        "astúcia",
+        "traquinice",
+        "dissimulação",
+        "prenda",
+        "diabruro",
+        "ofício",
+        "perícia",
+        "jeito",
+        "travessura",
+        "cuidado",
+        "engano",
+        "maneira",
+        "fingimento",
+        "talento",
+        "profissão"
+    ],
+    "transportado de avião": [],
+    "participaram": [],
+    "liberdade condicional": [],
+    "liberto": [
+        "dispensar",
+        "desobrigar",
+        "isento"
+    ],
+    "procedimentos": [],
+    "veredito": [
+        "veredicto"
+    ],
+    "cozido no vapor": [],
+    "rebelião": [
+        "desobediência",
+        "insurreição",
+        "levante",
+        "subversão",
+        "indisciplina",
+        "insubmissão",
+        "insubordinação"
+    ],
+    "desabou": [],
+    "entrega": [],
+    "pós-guerra": [],
+    "desembarcar": [
+        "desopilar",
+        "descer"
+    ],
+    "Palestras": [],
+    "Discussões": [
+        "briga"
+    ],
+    "expelindo": [],
+    "subsídios": [],
+    "qua": [],
+    "núpcias": [
+        "enlace",
+        "casório",
+        "esponsal",
+        "conúbio",
+        "himeneu",
+        "boda",
+        "casamento"
+    ],
+    "rebocado": [],
+    "deslocado": [
+        "transpor",
+        "mudar",
+        "luxar"
+    ],
+    "cruzando": [],
+    "navegação": [
+        "náutico"
+    ],
+    "condenando": [],
+    "detido": [
+        "cativo",
+        "atraso",
+        "enclausurar",
+        "retir",
+        "aprisionar",
+        "estagnar",
+        "represar",
+        "prisioneiro",
+        "encarcerar",
+        "demorar",
+        "suspender",
+        "impedir"
+    ],
+    "transporte": [
+        "meio",
+        "condução"
+    ],
+    "exportado": [],
+    "destinado a": [],
+    "configurando": [],
+    "demolido": [],
+    "puxar": [
+        "esticar",
+        "estimular",
+        "suscitar",
+        "chupar",
+        "mover",
+        "começar",
+        "tirar",
+        "avivar",
+        "provocar",
+        "arrastar",
+        "causar",
+        "pugnar"
+    ],
+    "afogado": [
+        "abafar",
+        "sufocar",
+        "submerso",
+        "embargar",
+        "oprimido",
+        "asfixiar"
+    ],
+    "perdoado": [
+        "absolver",
+        "absolto"
+    ],
+    "conflitos": [],
+    "infiltrando": [],
+    "removendo": [],
+    "tentar novamente": [],
+    "tóxico": [
+        "maléfico",
+        "prejudicial",
+        "mau",
+        "droga",
+        "venenoso",
+        "entorpecente"
+    ],
+    "absolvição": [
+        "perdão",
+        "remissão",
+        "absolvimento",
+        "solução",
+        "indulto"
+    ],
+    "decolou": [],
+    "trazendo": [
+        "presentear",
+        "suscitar",
+        "guiar",
+        "sugerir",
+        "aduzir",
+        "ex pôr",
+        "demonstrar",
+        "possuir",
+        "incluir",
+        "dirigir"
+    ],
+    "esmagado": [
+        "oprimido",
+        "triturar",
+        "abatir",
+        "aniquilar",
+        "moir",
+        "prostrar",
+        "esmigalhar"
+    ],
+    "martelando": [],
+    "montar": [
+        "representar",
+        "acavalar",
+        "valer",
+        "preparar",
+        "armar",
+        "dispor",
+        "ajustar",
+        "colocar",
+        "cavalgar",
+        "organizar"
+    ],
+    "introduzido": [
+        "intrometir"
+    ],
+    "assume": [],
+    "assumindo": [],
+    "despejado": [
+        "esvaziar",
+        "estanco"
+    ],
+    "passeios": [],
+    "visitas": [],
+    "golpe": [
+        "ardil",
+        "incisão",
+        "estratagema",
+        "lance",
+        "pancada",
+        "desgraça",
+        "desgosto",
+        "revés"
+    ],
+    "empurrando": [],
+    "resposta": [
+        "refutação",
+        "réplica",
+        "reação"
+    ],
+    "chegou ao poder": [],
+    "extermínio": [
+        "ex tinção",
+        "anulação",
+        "aniquilamento",
+        "supressão",
+        "derrogação",
+        "cessação"
+    ],
+    "insurgência": [
+        "rebelião"
+    ],
+    "contatado": [
+        "contactar"
+    ],
+    "e-mails": [],
+    "quando": [
+        "acaso",
+        "caso",
+        "enquanto",
+        "embora",
+        "posto que",
+        "se"
+    ],
+    "usado": [
+        "deteriorar",
+        "costumar",
+        "gastar",
+        "rotar",
+        "velho",
+        "server"
+    ],
+    "paralisante": [],
+    "livrar-se\nde": [],
+    "tarde": [
+        "inoportunamente",
+        "tardiamente"
+    ],
+    "Assassinado": [],
+    "de Arafat": [],
+    "mensagem": [
+        "notícia",
+        "palavra",
+        "recado",
+        "aviso",
+        "advertência",
+        "comunicar",
+        "comunicação",
+        "nota"
+    ],
+    "mensagens": [],
+    "Divórcio": [],
+    "casou-se novamente": [],
+    "novo casamento": [],
+    "ações": [
+        "título",
+        "comportamento",
+        "ação",
+        "ato"
+    ],
+    "deduções": [],
+    "assistência": [
+        "socorro",
+        "auditório",
+        "ambulância",
+        "cooperação",
+        "adjutório",
+        "ajudar",
+        "presença",
+        "amparo",
+        "auxílio"
+    ],
+    "doação": [
+        "oferta",
+        "esmola",
+        "dádiva",
+        "donário",
+        "donativo"
+    ],
+    "doações": [],
+    "doado": [
+        "ceder",
+        "donativo"
+    ],
+    "recebido": [],
+    "trancado": [
+        "reservar",
+        "introvertido",
+        "trancafiar",
+        "fechar"
+    ],
+    "seguindo": [],
+    "novo": [
+        "recente",
+        "hodierno",
+        "desconhecer",
+        "atual",
+        "estranho",
+        "verde",
+        "novato",
+        "jovem",
+        "moderno",
+        "original"
+    ],
+    "Fórum": [
+        "tribunal",
+        "tribuna",
+        "assembleia",
+        "foro"
+    ],
+    "fax": [],
+    "criado": [
+        "produzir",
+        "gordo",
+        "educar",
+        "empregar",
+        "servo",
+        "gerar",
+        "instruir",
+        "camareiro"
+    ],
+    "estacionado": [],
+    "parto": [
+        "produto",
+        "parição"
+    ],
+    "Parto": [
+        "produto",
+        "parição"
+    ],
+    "hipnoparto": [],
+    "pula": [],
+    "leva": [
+        "magote",
+        "remessar",
+        "bar",
+        "agrupamento",
+        "grupo",
+        "recrutamento",
+        "multidão",
+        "lote"
+    ],
+    "puxado de volta": [],
+    "extraditando": [],
+    "bateria": [],
+    "sufocado": [
+        "abafar",
+        "asfixiar"
+    ],
+    "agarrou": [],
+    "relatado": [],
+    "Processar": [
+        "conferir",
+        "verificar",
+        "autuar",
+        "acionar",
+        "demandar"
+    ],
+    "vende": [],
+    "fornece": [],
+    "desligando": [],
+    "obliterando": [],
+    "contrabandear": [
+        "fraudar"
+    ],
+    "apaga": [],
+    "Falência": [
+        "bancarrota",
+        "quebra",
+        "ruína",
+        "fracasso",
+        "falha",
+        "quebradeira"
+    ],
+    "Tortura": [
+        "tormento",
+        "angústia",
+        "martírio",
+        "aflição",
+        "apertura",
+        "suplício",
+        "aperto",
+        "tribulação",
+        "agonia"
+    ],
+    "Matar": [
+        "suicidar",
+        "fuzilar",
+        "afligir",
+        "chacinar",
+        "assassinar",
+        "saciar",
+        "destruir",
+        "trucidar",
+        "massacrar",
+        "sacrificar"
+    ],
+    "Liberdade condicional": [],
+    "jogue fora": [],
+    "caminhou": [],
+    "solte": [],
+    "cortes": [
+        "correto",
+        "atento",
+        "esmerar",
+        "rebuscar",
+        "gentil",
+        "atencioso",
+        "bem-educado",
+        "requintar",
+        "dócil",
+        "civilizar",
+        "amável",
+        "aprimorar",
+        "polir",
+        "obsequioso",
+        "respeituoso",
+        "deferente"
+    ],
+    "transferir": [
+        "transladar",
+        "trasladar",
+        "deslocar",
+        "mudar",
+        "transmitir"
+    ],
+    "reduções": [],
+    "expiração": [
+        "vencimento",
+        "ex alação"
+    ],
+    "emplumação": [],
+    "arranjos": [],
+    "compensado": [],
+    "elaborado": [],
+    "renuncia": [
+        "renunciamento",
+        "repúdio",
+        "abandono",
+        "abdicação",
+        "desistência",
+        "renunciação"
+    ],
+    "designar": [
+        "caracterizar",
+        "escolher",
+        "determinar",
+        "nomear",
+        "mostrar"
+    ],
+    "reclamação": [
+        "impugnação",
+        "contestação",
+        "oposição",
+        "queixa",
+        "protesto",
+        "reclamar"
+    ],
+    "Eleição": [
+        "predileção",
+        "escolha",
+        "aclamação",
+        "pleito",
+        "primazia",
+        "preferência",
+        "proclamação"
+    ],
+    "vitória": [
+        "êxito",
+        "triunfo",
+        "vantagem",
+        "palma",
+        "conquista",
+        "sucesso",
+        "vencimento"
+    ],
+    "ocupado": [
+        "atarefar",
+        "distrair",
+        "empregar",
+        "aplicar",
+        "azafamar",
+        "entretir",
+        "assoberbado",
+        "dominar",
+        "indisponível"
+    ],
+    "re) fusão": [],
+    "cessou": [],
+    "dissolvida": [],
+    "consegue": [],
+    "contato": [
+        "proximidade",
+        "convivência",
+        "toque",
+        "trato",
+        "comércio",
+        "influência",
+        "contágio",
+        "ligação",
+        "convívio"
+    ],
+    "Chamar": [
+        "recorrer",
+        "invocar",
+        "nomear",
+        "pedir",
+        "aproximar",
+        "alcunhar",
+        "convocar",
+        "solicitar",
+        "ligar",
+        "designar",
+        "apelidar"
+    ],
+    "Pegou": [],
+    "direto": [
+        "evidente",
+        "manifesto",
+        "imediato"
+    ],
+    "Voar": [
+        "volitar",
+        "revoar",
+        "voejar",
+        "drapejar",
+        "pairar",
+        "planar",
+        "revolutear",
+        "aplainar",
+        "esvoaçar",
+        "adejar"
+    ],
+    "Deixar": [
+        "ceder",
+        "desistir",
+        "largar",
+        "abandonar"
+    ],
+    "Dirigir": [
+        "encaminhar",
+        "guiar",
+        "reger",
+        "gerir",
+        "governar",
+        "comandar",
+        "administrar"
+    ],
+    "voto": [
+        "jurar",
+        "consentimento",
+        "promessa",
+        "aprovação",
+        "sufrágio",
+        "juramento",
+        "cédula"
+    ],
+    "enquete": [
+        "pesquisa",
+        "inquérito",
+        "sondagem",
+        "questionário"
+    ],
+    "fatias": [],
+    "miao\nrebeliões": [],
+    "reintroduzido": [],
+    "oposição": [
+        "impedimento",
+        "diferença",
+        "reclamação",
+        "refutação",
+        "contestação",
+        "disparidade",
+        "queixa",
+        "protesto",
+        "antagonismo",
+        "objeção",
+        "incompatibilidade",
+        "negação"
+    ],
+    "retomou": [],
+    "AÇÃO JUDICIAL": [],
+    "ganhar": [
+        "obter",
+        "vencer",
+        "lucrar",
+        "adquirir",
+        "granjear",
+        "captar",
+        "auferir",
+        "tirar",
+        "receber",
+        "retirar",
+        "conseguir",
+        "alcançar",
+        "atingir",
+        "realizar",
+        "cumprir",
+        "triunfar",
+        "ter",
+        "conquistar"
+    ],
+    "qual": [
+        "qual",
+        "como"
+    ],
+    "folhas": [],
+    "sepulturas": [],
+    "fechar": [
+        "concluir",
+        "encerrar",
+        "finalizar",
+        "cessar",
+        "cercar",
+        "tapar",
+        "cicatrizar",
+        "ultimar",
+        "bloquear"
+    ],
+    "recompensa": [
+        "favor",
+        "galardão",
+        "prêmio",
+        "restituição",
+        "retribuição",
+        "indenização",
+        "gratificação"
+    ],
+    "MORREU": [],
+    "nivelado": [],
+    "descascando": [],
+    "revolução": [
+        "sedição",
+        "mudança",
+        "rebelião",
+        "revoltar",
+        "subversão",
+        "sublevação"
+    ],
+    "GUERRA": [
+        "batalha",
+        "peleja",
+        "combate",
+        "disputa",
+        "oposição",
+        "conflito",
+        "contenda",
+        "revoltar",
+        "briga",
+        "enfrentamento",
+        "inimizade",
+        "luta"
+    ],
+    "adquirido": [
+        "contrair"
+    ],
+    "eleitoral": [],
+    "Compensação": [
+        "indenização",
+        "igualdade",
+        "ressarcimento",
+        "proporção"
+    ],
+    "compensando": [],
+    "compensar": [
+        "igualar",
+        "indemnizar",
+        "recompensar",
+        "gratificar",
+        "abalançar",
+        "contrabalançar",
+        "equilibrar",
+        "ressarcir"
+    ],
+    "compensação": [
+        "indenização",
+        "igualdade",
+        "ressarcimento",
+        "proporção"
+    ],
+    "reembolsar": [
+        "indenizar",
+        "restituir"
+    ],
+    "junto": [
+        "contíguo",
+        "unidamente",
+        "reuner",
+        "juntamente",
+        "ligar",
+        "pegar",
+        "unir"
+    ],
+    "Abatendo": [],
+    "liquidação": [
+        "apuração",
+        "apuramento"
+    ],
+    "Holocausto": [
+        "imolação",
+        "abnegação",
+        "sacrifício",
+        "renúncia",
+        "massacre"
+    ],
+    "lutas": [],
+    "substituindo": [],
+    "convocar": [
+        "convidar",
+        "invitar"
+    ],
+    "ofensiva": [
+        "cometer",
+        "acometir",
+        "prejudicial",
+        "surtida",
+        "agressão",
+        "opugnação",
+        "assalto",
+        "ataque",
+        "investido",
+        "arremeter"
+    ],
+    "O que": [],
+    "perguntas e respostas": [],
+    "recortar": [
+        "golpear"
+    ],
+    "rasgado": [
+        "amolambar",
+        "retalhar",
+        "franco",
+        "despedaçar",
+        "fracionar",
+        "molambento",
+        "liberal"
+    ],
+    "conversou": [],
+    "viajei": [],
+    "tendo": [],
+    "Marchar": [
+        "andejar",
+        "caminhar",
+        "andar"
+    ],
+    "abriu fogo": [],
+    "tiro ao alvo": [],
+    "escrito": [
+        "produção"
+    ],
+    "tirou": [],
+    "ex": [],
+    "andar livre": [],
+    "contribuições": [],
+    "bancar": [
+        "assemelhar",
+        "fingir"
+    ],
+    "ganhando": [],
+    "apoiar": [
+        "pôr",
+        "acolher",
+        "arrimar",
+        "depositar",
+        "fundar",
+        "acostar",
+        "amparar",
+        "colocar",
+        "concordar",
+        "estribar",
+        "postar",
+        "aprovar",
+        "firmar",
+        "aplaudir",
+        "assentar"
+    ],
+    "angariação de fundos": [],
+    "superado": [
+        "obsoleto"
+    ],
+    "Empréstimos": [],
+    "presente": [
+        "recordação",
+        "agradecimento",
+        "evidente",
+        "lembrança"
+    ],
+    "eclusa": [
+        "açude",
+        "represa",
+        "comportar",
+        "dique"
+    ],
+    "representar": [
+        "retratar",
+        "simbolizar",
+        "encenar",
+        "significar",
+        "patentear",
+        "refletir"
+    ],
+    "negociando": [],
+    "eliminado": [
+        "suprimer",
+        "abortar",
+        "aboler",
+        "ex tinto",
+        "anular"
+    ],
+    "durar": [
+        "viver",
+        "conservar",
+        "resistir",
+        "persistir",
+        "insistir",
+        "porfiar",
+        "perseverar"
+    ],
+    "criação": [
+        "infância",
+        "realização",
+        "geração",
+        "invento",
+        "educação",
+        "obra",
+        "fundação",
+        "produção",
+        "formação"
+    ],
+    "passado": [
+        "cozer",
+        "pretérito",
+        "frito",
+        "podre",
+        "obsoleto",
+        "maduro",
+        "espantado",
+        "anterior",
+        "assar",
+        "constranger",
+        "antigo",
+        "encabular",
+        "envelhecido",
+        "surpresar"
+    ],
+    "enviado por e-mail": [],
+    "empregar": [
+        "utilizar",
+        "adotar",
+        "contratar",
+        "aplicar"
+    ],
+    "GANHO": [],
+    "assinado": [
+        "autenticar",
+        "atestado",
+        "certificar",
+        "subscritar",
+        "firmar"
+    ],
+    "desviado": [
+        "afastar",
+        "separar",
+        "desencaminhar",
+        "transviar",
+        "apartar"
+    ],
+    "escumando": [],
+    "Desnatado": [],
+    "assinar": [
+        "fixar",
+        "aprazar",
+        "marcar",
+        "determinar",
+        "indicar",
+        "demarcar",
+        "concordar",
+        "subscrever",
+        "aprovar",
+        "assumir"
+    ],
+    "impulsionado": [
+        "lançar",
+        "arrojado",
+        "disparar",
+        "propelido",
+        "arremessar",
+        "impeler",
+        "atirar"
+    ],
+    "transferências": [],
+    "chosen": [],
+    "deportado": [
+        "ex ilado",
+        "desterrar",
+        "ex patriar",
+        "proscrito",
+        "degredar"
+    ],
+    "Liberar": [
+        "livrar",
+        "desobrigar"
+    ],
+    "Intifada": [],
+    "cortando": [],
+    "explodindo": [],
+    "Torturando": [],
+    "fatiado": [],
+    "içado": [],
+    "evacuado": [],
+    "visitando": [],
+    "brutalidade ou intimidação": [],
+    "cego": [
+        "desvairar",
+        "alucinar",
+        "desmedir",
+        "embotar",
+        "inconsciente"
+    ],
+    "escolher": [
+        "usar",
+        "preferir",
+        "eleger",
+        "nomear",
+        "selecionar",
+        "filtrar",
+        "optar",
+        "assinalar",
+        "designar",
+        "adotar"
+    ],
+    "causa": [
+        "princípio",
+        "motivo",
+        "acontecimento",
+        "fato",
+        "demanda",
+        "razão",
+        "ação",
+        "origem",
+        "interesse"
+    ],
+    "fundo": [
+        "íntimo",
+        "denso",
+        "ignorante",
+        "cavar",
+        "incapaz",
+        "erudição",
+        "conhecimento",
+        "arraigar",
+        "inepto",
+        "cavo",
+        "profundo"
+    ],
+    "pegando dinheiro": [],
+    "folha de pagamento": [],
+    "dinheiro": [
+        "moeda",
+        "quantia",
+        "numerário",
+        "cédula",
+        "verba"
+    ],
+    "Jantar": [
+        "boiar"
+    ],
+    "massacres": [],
+    "holocausto": [
+        "imolação",
+        "abnegação",
+        "sacrifício",
+        "renúncia",
+        "massacre"
+    ],
+    "levantando dinheiro": [],
+    "atende": [
+        "responder",
+        "atento",
+        "servir",
+        "prestar",
+        "atai",
+        "limitai",
+        "liga",
+        "vender",
+        "olhar",
+        "despachar",
+        "deferir",
+        "confinai",
+        "acode",
+        "seguir",
+        "dar",
+        "cingi",
+        "acatar",
+        "ouver",
+        "circunscrevei",
+        "socorrer",
+        "acolher",
+        "restringi"
+    ],
+    "turbulência": [
+        "perturbação",
+        "desordem",
+        "inquietação",
+        "tumulto",
+        "alvoroço",
+        "motim",
+        "agitação"
+    ],
+    "votado": [
+        "consagrado"
+    ],
+    "Suicídio": [],
+    "confronto": [
+        "confrontação",
+        "paralelo",
+        "cotejo",
+        "partida",
+        "comparação",
+        "acareação",
+        "combate"
+    ],
+    "derramando": [],
+    "roubando": [],
+    "roubou": [],
+    "ISTO": [
+        "o",
+        "sim",
+        "certo",
+        "bom"
+    ],
+    "sentar": [
+        "abancar",
+        "fixar",
+        "atacar",
+        "atear",
+        "estabelecer",
+        "assentar"
+    ],
+    "descarregado": [],
+    "desmembrar": [
+        "dissolver",
+        "separar",
+        "cortar",
+        "decepar",
+        "desunir",
+        "desencorporar",
+        "desanexar",
+        "destroncar"
+    ],
+    "enlatado": [],
+    "de locação": [],
+    "aposentar": [
+        "reformar"
+    ],
+    "benefícios": [],
+    "sinal": [
+        "vestígio",
+        "impressão",
+        "sineta",
+        "rasto",
+        "mancha",
+        "aceno",
+        "rastro",
+        "aviso",
+        "prenúncio",
+        "indicação",
+        "prova",
+        "cicatriz",
+        "presságio",
+        "indício",
+        "sintoma",
+        "traço",
+        "penhor"
+    ],
+    "açoitado": [
+        "abrigar",
+        "refugiar",
+        "esconder"
+    ],
+    "sai": [],
+    "convencido": [
+        "convicto"
+    ],
+    "fazendo tempo": [],
+    "vindo": [
+        "oriundo",
+        "originário",
+        "proveniente",
+        "chegar",
+        "descendente",
+        "procedente"
+    ],
+    "SOBRE": [
+        "segundo",
+        "após",
+        "a respeito de",
+        "a o encontro de",
+        "de acordo",
+        "conforme",
+        "próximo"
+    ],
+    "fracassado": [
+        "malsuceder",
+        "inexitoso"
+    ],
+    "engolido": [],
+    "comprar fora": [],
+    "atar o nó": [],
+    "iniciando": [],
+    "gastar": [
+        "inutilizar",
+        "usar",
+        "empregar",
+        "estragar",
+        "destruir",
+        "deteriorar",
+        "arruinar",
+        "consumir",
+        "despender"
+    ],
+    "colapso": [
+        "choque",
+        "ruína",
+        "síncope"
+    ],
+    "desmembramento": [
+        "loteamento",
+        "desmembração",
+        "fracionamento",
+        "partilha",
+        "fragmentação",
+        "divisão",
+        "separação"
+    ],
+    "falido": [
+        "arrebentar",
+        "arruinar"
+    ],
+    "negócio": [
+        "negociação",
+        "ocupação",
+        "assunto",
+        "atividade",
+        "contrato",
+        "comércio",
+        "acordo",
+        "transação",
+        "convenção",
+        "loja",
+        "empresa",
+        "tratar",
+        "combinação",
+        "pacto"
+    ],
+    "emprestado": [
+        "conferer",
+        "ceder",
+        "conceder",
+        "comunicar",
+        "dar",
+        "transmitir"
+    ],
+    "ninharia": [
+        "argueiro",
+        "bagatela",
+        "bugiganga",
+        "quinquilhario",
+        "futilidade",
+        "insignificância",
+        "mixaria"
+    ],
+    "oferecer": [
+        "presentear",
+        "outorgar",
+        "ceder",
+        "brindar",
+        "facultar",
+        "obsequiar",
+        "imolar",
+        "ofertar",
+        "conceder",
+        "ex ibir",
+        "dadivar",
+        "dar",
+        "doar",
+        "mostrar",
+        "proporcionar",
+        "entregar"
+    ],
+    "nomeando": [],
+    "volume de negócios": [],
+    "anterior": [
+        "primeiro",
+        "transato",
+        "predecessor",
+        "pregresso",
+        "intrínseco",
+        "precedente",
+        "antecedente",
+        "preliminar",
+        "antepositivo",
+        "prévio"
+    ],
+    "se aposentar": [],
+    "partida": [
+        "saída",
+        "abalar"
+    ],
+    "arquivamentos": [],
+    "dobrando": [],
+    "Demitir": [
+        "isentar",
+        "ex imir",
+        "prescindir",
+        "desobrigar",
+        "ex onerar",
+        "dispensar",
+        "desonerar",
+        "livrar",
+        "destituir"
+    ]
+}

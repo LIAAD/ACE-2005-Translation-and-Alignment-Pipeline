@@ -1,0 +1,24 @@
+
+config:
+  input_path: "../data/sample_pt.json" # ACE-2005 portuguese
+  output_path: "../data/sample_pt_aligned.json" # ACE-2005 portuguese aligned
+  spacy_model: "pt_core_news_lg"
+
+  trigger_alignment:
+    id2translation: "../resources/trigger_en_pt_v1.json"  # map event-id to trigger text
+    synonyms_path: "../resources/triggers_en_pt_lemma_dicio_ace_syn_v1.json" # list of trigger sononyms
+    translations_path: "../resources/triggers_en_pt_pt_br_lemma_microsoft_ace_translations_v1.json" # list of trigger multiple translations
+    pipeline:
+      - lemmas
+      - Mtrans
+      - synonyms
+      - word_aligner 
+
+  argument_alignment:
+    id2translation: "../resources/args_en_pt_v1.json"
+    translations_path: "../resources/args_en_pt_br_lemma_microsoft_ace_translations_v1.json"
+    pipeline:
+      - lemma 
+      - Mtrans
+      - word_aligner
+      - fuzzy

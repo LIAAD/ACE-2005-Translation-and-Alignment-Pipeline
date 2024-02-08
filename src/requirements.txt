@@ -1,0 +1,9 @@
+deep_translator==1.11.4
+deepl==1.17.0
+fuzzywuzzy==0.18.0
+PyYAML==6.0
+PyYAML==6.0.1
+Requests==2.31.0
+spacy==3.4.4
+torch==1.13.0.dev20220528+cu113
+transformers==4.21.0.dev0

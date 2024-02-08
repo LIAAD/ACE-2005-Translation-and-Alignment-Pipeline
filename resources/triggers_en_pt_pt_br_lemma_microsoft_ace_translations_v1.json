@@ -1,0 +1,6466 @@
+{
+    "landed": [
+        "desembarcar",
+        "cair",
+        "aterrar",
+        "caír",
+        "pousar"
+    ],
+    "land": [
+        "solo",
+        "aterrar",
+        "aterro",
+        "território",
+        "terra",
+        "terreno",
+        "pousar"
+    ],
+    "election": [
+        "eleição"
+    ],
+    "elected": [
+        "elegeur",
+        "eleger",
+        "escolher"
+    ],
+    "Hire": [
+        "empregar",
+        "contratação",
+        "contratar",
+        "aluguer",
+        "locação",
+        "aluguel"
+    ],
+    "put": [
+        "pôr",
+        "pôs",
+        "pô",
+        "deixar",
+        "abaixar",
+        "posto",
+        "colocar",
+        "ponha",
+        "guardar"
+    ],
+    "nomination": [
+        "postulação",
+        "designação",
+        "indicação",
+        "nominação",
+        "candidatura",
+        "nomeação"
+    ],
+    "nominations": [
+        "postulação",
+        "indicação",
+        "nominação",
+        "candidatura",
+        "nomeação"
+    ],
+    "war": [
+        "guerra"
+    ],
+    "lost t": [],
+    "deploy": [
+        "implantar",
+        "desdobrar",
+        "distribuir"
+    ],
+    "killed": [
+        "morto",
+        "assassinar",
+        "mataste",
+        "morrer",
+        "matar",
+        "matá"
+    ],
+    "went": [
+        "ficar",
+        "passar",
+        "correr",
+        "dar",
+        "ser",
+        "ir"
+    ],
+    "died": [
+        "morte",
+        "matar",
+        "falecer",
+        "morrer"
+    ],
+    "visited": [
+        "visitar"
+    ],
+    "blow": [
+        "ex plodir",
+        "fundir",
+        "golpe",
+        "estragar",
+        "rebentar",
+        "destruir",
+        "soprar",
+        "sopro",
+        "estourar"
+    ],
+    "go": [
+        "vá",
+        "entrar",
+        "ir embora",
+        "lá",
+        "sair",
+        "passar",
+        "ir"
+    ],
+    "getting": [
+        "obter",
+        "obtenção",
+        "ficar",
+        "chegar",
+        "receber",
+        "conseguir",
+        "começr"
+    ],
+    "invasion": [
+        "invasão"
+    ],
+    "former": [
+        "ex",
+        "antigo",
+        "anterior",
+        "ex - jogador"
+    ],
+    "defected": [
+        "desertar"
+    ],
+    "kill": [
+        "matar",
+        "mato",
+        "mate",
+        "matá"
+    ],
+    "trips": [
+        "passeio",
+        "ex cursão",
+        "tropeçar",
+        "desengate",
+        "ida",
+        "viagem"
+    ],
+    "Former": [
+        "ex",
+        "antigo",
+        "anterior",
+        "ex - jogador"
+    ],
+    "session": [
+        "sessão"
+    ],
+    "was": [
+        "estar",
+        "ter",
+        "ser",
+        "ficar"
+    ],
+    "marry": [
+        "case",
+        "desposar",
+        "casar",
+        "monteiro",
+        "casamento"
+    ],
+    "Civil\nWar": [],
+    "Civil War": [],
+    "War World II": [],
+    "leave": [
+        "abandonar",
+        "saia",
+        "ir embora",
+        "deixar",
+        "embora",
+        "partir",
+        "licença",
+        "sair",
+        "largar",
+        "ir"
+    ],
+    "got": [
+        "tens",
+        "ficar",
+        "receber",
+        "conseguir",
+        "começr",
+        "ter",
+        "pegar",
+        "ser"
+    ],
+    "talking": [
+        "falar",
+        "conversar"
+    ],
+    "torture": [
+        "tortura",
+        "torturar"
+    ],
+    "donate": [
+        "doer",
+        "doação",
+        "doá",
+        "doe",
+        "doar",
+        "dôo"
+    ],
+    "sue": [
+        "demandar",
+        "processar",
+        "sue"
+    ],
+    "protesting": [
+        "protestar"
+    ],
+    "terrorism": [
+        "terrorismo",
+        "antiterrorista"
+    ],
+    "damages": [
+        "estrago",
+        "prejuízo",
+        "prejudicar",
+        "indemnização",
+        "dano",
+        "danificar"
+    ],
+    "elect": [
+        "eler",
+        "eleger",
+        "optar"
+    ],
+    "die": [
+        "morte",
+        "morra",
+        "morro",
+        "morrer"
+    ],
+    "leaving": [
+        "abandonar",
+        "ir embora",
+        "embora",
+        "deixar",
+        "partir",
+        "sair",
+        "saída",
+        "ir"
+    ],
+    "closing": [
+        "encerramento",
+        "fechamento",
+        "encerrar",
+        "fechar",
+        "fecho",
+        "aproximar"
+    ],
+    "airavacked": [],
+    "poured": [
+        "servir",
+        "despejar",
+        "derramar",
+        "entornar",
+        "verter"
+    ],
+    "injured": [
+        "lesar",
+        "ferir",
+        "machucar",
+        "magoar",
+        "lesionar",
+        "prejudicar"
+    ],
+    "trial": [
+        "avaliação",
+        "teste",
+        "julgamento",
+        "tentativa",
+        "prova",
+        "ensaio",
+        "ex perimentação",
+        "tribunal"
+    ],
+    "appoint": [
+        "nomeio",
+        "nomear",
+        "apontar",
+        "designar"
+    ],
+    "have": [
+        "já",
+        "tens",
+        "tê",
+        "ter",
+        "precisar"
+    ],
+    "hear": [
+        "ouver",
+        "ouçor",
+        "ouçam",
+        "ouça",
+        "ouvir",
+        "escutar",
+        "saber"
+    ],
+    "dead": [
+        "morte",
+        "morto",
+        "inoperante",
+        "matar",
+        "falecir",
+        "morrer"
+    ],
+    "loss": [
+        "derrota",
+        "prejuízo",
+        "queda",
+        "perda"
+    ],
+    "founded": [
+        "criar",
+        "fundar"
+    ],
+    "knocked": [
+        "batir",
+        "arrancar",
+        "grávir",
+        "deitar",
+        "bater",
+        "derrubar"
+    ],
+    "transported": [
+        "transportar",
+        "levar"
+    ],
+    "pay": [
+        "remuneração",
+        "pagas",
+        "pagar",
+        "prestar",
+        "pagamento",
+        "salário"
+    ],
+    "payouts": [
+        "pagamento"
+    ],
+    "payoffs": [
+        "retorno",
+        "suborno",
+        "pagamento",
+        "recompensas"
+    ],
+    "claims": [
+        "reivindicação",
+        "reclamação",
+        "crédito",
+        "afirmação",
+        "alegar",
+        "pedido",
+        "reivindicar",
+        "afirmar",
+        "alegação",
+        "declaração"
+    ],
+    "claim": [
+        "reivindicação",
+        "reclamação",
+        "afirmação",
+        "alegar",
+        "reclamar",
+        "pedir",
+        "reivindicar",
+        "declaração",
+        "dizer",
+        "alegação",
+        "afirmar"
+    ],
+    "sued": [
+        "demandar",
+        "processar"
+    ],
+    "suits": [
+        "atender a o",
+        "servir",
+        "convém",
+        "sere",
+        "naipe",
+        "combinar",
+        "terno",
+        "traje",
+        "fato",
+        "roupa"
+    ],
+    "harmed": [
+        "ferir",
+        "machucar",
+        "afectar",
+        "magoar",
+        "lesado",
+        "prejudicar",
+        "maltratar",
+        "molestar"
+    ],
+    "lawsuit": [
+        "ação",
+        "processo",
+        "ação judicial"
+    ],
+    "pay-out": [
+        "pagamento"
+    ],
+    "driving": [
+        "guiar",
+        "condução",
+        "direção",
+        "deixar",
+        "motriz",
+        "dirigir"
+    ],
+    "lawsuits": [
+        "litígio",
+        "processo",
+        "ação judicial"
+    ],
+    "dribbled": [
+        "driblar"
+    ],
+    "became": [
+        "se tornar",
+        "virar",
+        "tornar",
+        "ficar",
+        "fiquei",
+        "torna",
+        "eu tornei"
+    ],
+    "recover": [
+        "recuperar"
+    ],
+    "awards": [
+        "prêmio",
+        "concessão",
+        "distinção"
+    ],
+    "thrown out": [],
+    "injuries": [
+        "traumatismo",
+        "acidente",
+        "ferimento",
+        "dano",
+        "lesão",
+        "contusão",
+        "escoriação",
+        "machucado"
+    ],
+    "revoke": [
+        "revogar",
+        "revocar"
+    ],
+    "removed": [
+        "retirar",
+        "eliminar",
+        "remover",
+        "tirar"
+    ],
+    "payment": [
+        "pagamento"
+    ],
+    "pays": [
+        "valer",
+        "pagar",
+        "prestar",
+        "compensar",
+        "pagador"
+    ],
+    "dying": [
+        "morte",
+        "louco",
+        "agonizante",
+        "moribur",
+        "mortinho",
+        "doido",
+        "morrer"
+    ],
+    "casualties": [
+        "morte",
+        "casualidade",
+        "ferir",
+        "baixo",
+        "acidente",
+        "perda",
+        "víctima",
+        "vítima"
+    ],
+    "demonstrate": [
+        "demostrar",
+        "demonstrar",
+        "manifestar",
+        "comprovar"
+    ],
+    "butchered": [
+        "chacinar",
+        "abater",
+        "esquartejar",
+        "esventrar",
+        "trucidar",
+        "abatir",
+        "massacrar"
+    ],
+    "invades": [
+        "invader"
+    ],
+    "kills": [
+        "morte",
+        "matar",
+        "matança",
+        "mate"
+    ],
+    "it": [
+        "que",
+        "isso",
+        "lo"
+    ],
+    "overthrew": [
+        "derrubar"
+    ],
+    "put in power": [],
+    "putting": [
+        "pôr",
+        "pô",
+        "colocar",
+        "juntar",
+        "meter"
+    ],
+    "caught": [
+        "pego",
+        "apanhar",
+        "prender",
+        "peguei",
+        "chamar",
+        "pegar",
+        "capturar",
+        "travar"
+    ],
+    "arrested": [
+        "presa",
+        "deter",
+        "prender"
+    ],
+    "force": [
+        "força",
+        "obrigar",
+        "forçar",
+        "polícia",
+        "vigor"
+    ],
+    "destroyed": [
+        "destruir"
+    ],
+    "fired": [
+        "atear fogo",
+        "demitir",
+        "acionar",
+        "disparar",
+        "despedir",
+        "atirar"
+    ],
+    "fire": [
+        "chama",
+        "dispare",
+        "fogueira",
+        "demitir",
+        "lareira",
+        "disparar",
+        "fogo",
+        "incêndio",
+        "atirar",
+        "despedir"
+    ],
+    "that": [
+        "que",
+        "aquele",
+        "isso"
+    ],
+    "work": [
+        "trabalho",
+        "obra",
+        "trabalhar",
+        "funcionar"
+    ],
+    "get": [
+        "obter",
+        "levar",
+        "ficar",
+        "chegar",
+        "tirar",
+        "conseguir",
+        "receber",
+        "pegar",
+        "começr",
+        "se",
+        "ter"
+    ],
+    "goes": [
+        "valer",
+        "vá",
+        "entrar",
+        "ficar",
+        "correr",
+        "acontecer",
+        "dar",
+        "passar",
+        "ser",
+        "ir"
+    ],
+    "arrest": [
+        "deter",
+        "prender",
+        "detenção",
+        "apreensão",
+        "captura",
+        "prisão"
+    ],
+    "attack": [
+        "atentar",
+        "ataque",
+        "atacar"
+    ],
+    "arresting": [
+        "prender",
+        "detenção"
+    ],
+    "strike": [
+        "greve",
+        "golpe",
+        "bater",
+        "atacar",
+        "ataque",
+        "golpear",
+        "strike",
+        "atingir"
+    ],
+    "fighting": [
+        "discutir",
+        "briga",
+        "luta",
+        "brigar",
+        "lutar",
+        "combate"
+    ],
+    "killing": [
+        "morte",
+        "acabar",
+        "assassinato",
+        "matar",
+        "matá"
+    ],
+    "right": [
+        "correto",
+        "logo",
+        "direito",
+        "em este",
+        "razão",
+        "né",
+        "bem",
+        "mesmo",
+        "certo"
+    ],
+    "writes": [
+        "escrever",
+        "gravar"
+    ],
+    "harm": [
+        "ferir",
+        "machucar",
+        "magoar",
+        "prejuízo",
+        "mal",
+        "prejudicar",
+        "dano",
+        "perigo",
+        "danificar"
+    ],
+    "meeting": [
+        "atender",
+        "reunir",
+        "satisfazer",
+        "assembleia",
+        "reunião",
+        "encontrar",
+        "conhecê",
+        "conhecer",
+        "encontro"
+    ],
+    "warfare": [
+        "guerra"
+    ],
+    "combat": [
+        "luta contra",
+        "combater",
+        "combate"
+    ],
+    "shooting down": [],
+    "War": [
+        "guerra"
+    ],
+    "wounded": [
+        "ferir",
+        "aleijar",
+        "machucar"
+    ],
+    "shot down": [],
+    "head over": [],
+    "defeat": [
+        "vencer",
+        "derrota",
+        "derrotar"
+    ],
+    "captured": [
+        "capturar",
+        "conquistar",
+        "captar"
+    ],
+    "threat": [
+        "ameaça"
+    ],
+    "hit": [
+        "acertar",
+        "bati",
+        "bater",
+        "batar",
+        "apertir",
+        "atropelar",
+        "sucesso",
+        "atingir"
+    ],
+    "shot": [
+        "filmar",
+        "alvejar",
+        "balear",
+        "tiro",
+        "fotor",
+        "atingir",
+        "atirar",
+        "disparar",
+        "chance",
+        "injeção"
+    ],
+    "arrived": [
+        "cheguei",
+        "chegar"
+    ],
+    "interview": [
+        "entrevistar",
+        "interrogar",
+        "entrevista",
+        "interrogatório"
+    ],
+    "300 sorties": [],
+    "1500 sorties": [],
+    "those sorties": [],
+    "strike sorties": [],
+    "hurt": [
+        "ferir",
+        "machucar",
+        "doer",
+        "magoar",
+        "mal",
+        "dóier",
+        "prejudicar",
+        "dor"
+    ],
+    "conflict": [
+        "conflito"
+    ],
+    "attacked": [
+        "agredir",
+        "atacar"
+    ],
+    "bombing": [
+        "bombardeio",
+        "ex plosão",
+        "bombardear",
+        "atentar"
+    ],
+    "detonated": [
+        "detonar"
+    ],
+    "conference": [
+        "coletivo",
+        "congresso",
+        "conferência"
+    ],
+    "suicide": [
+        "suicídio"
+    ],
+    "attacks": [
+        "ataque",
+        "atentar",
+        "atacar"
+    ],
+    "came": [
+        "vier",
+        "viemos",
+        "entrar",
+        "chegar",
+        "aparecer",
+        "vir"
+    ],
+    "This": [
+        "esse",
+        "isso",
+        "isto",
+        "este"
+    ],
+    "this": [
+        "esse",
+        "isso",
+        "isto",
+        "este"
+    ],
+    "bombings": [
+        "bombardeio",
+        "ex plosão",
+        "suicida",
+        "atentar"
+    ],
+    "battle": [
+        "combate",
+        "batalha",
+        "combater",
+        "luta"
+    ],
+    "take those out": [],
+    "strikes": [
+        "greve",
+        "golpe",
+        "bater",
+        "batida",
+        "atacar",
+        "ataque",
+        "golpear",
+        "impressionar",
+        "atingir"
+    ],
+    "marching": [
+        "marchar",
+        "desfilar",
+        "caminhar",
+        "passeata"
+    ],
+    "battles": [
+        "combate",
+        "batalha",
+        "luta"
+    ],
+    "briefing": [
+        "informar",
+        "reunião",
+        "briefing"
+    ],
+    "open fire": [],
+    "pot shot": [],
+    "It": [
+        "que",
+        "isso",
+        "lo"
+    ],
+    "sent": [
+        "enviar",
+        "emitir",
+        "mandar"
+    ],
+    "flown out": [],
+    "gunshot": [
+        "disparo",
+        "balear",
+        "tiro"
+    ],
+    "wound": [
+        "ferir",
+        "machucar",
+        "enrolar",
+        "lesão",
+        "ferido"
+    ],
+    "rid": [
+        "livrar",
+        "desfazer",
+        "libertar"
+    ],
+    "resistance": [
+        "resistência"
+    ],
+    "obliterated": [
+        "apagar",
+        "eliminar",
+        "obliterar"
+    ],
+    "hitting": [
+        "bater",
+        "atingir",
+        "acertar"
+    ],
+    "hits": [
+        "visita",
+        "acertar",
+        "correspondência",
+        "bater",
+        "batida",
+        "sucesso",
+        "acesso",
+        "atingir",
+        "hit"
+    ],
+    "called": [
+        "chamei",
+        "telefonar",
+        "denominar",
+        "ligar",
+        "chamar"
+    ],
+    "drop": [
+        "descartar",
+        "cair",
+        "deixar",
+        "gota",
+        "soltar",
+        "queda",
+        "derrubar",
+        "largar",
+        "entregar"
+    ],
+    "going across": [],
+    "smuggling": [
+        "traficar",
+        "contrabando",
+        "contrabandear",
+        "tráfico"
+    ],
+    "explosions": [
+        "ex plosão"
+    ],
+    "blasts": [
+        "ex plode",
+        "blasto",
+        "rajada",
+        "ex plosão",
+        "soprar"
+    ],
+    "showing up": [],
+    "rolled": [
+        "rolei",
+        "lançar",
+        "revertir",
+        "patim",
+        "enrolar",
+        "rolar",
+        "laminar",
+        "revirar"
+    ],
+    "threatened": [
+        "ameaçar"
+    ],
+    "held up": [],
+    "moved": [
+        "movir",
+        "mover",
+        "transferir",
+        "deslocar",
+        "mudar",
+        "comover"
+    ],
+    "demonstrations": [
+        "manifestação",
+        "protesto",
+        "demonstração"
+    ],
+    "taking to": [],
+    "rally": [
+        "manifestação",
+        "reunir",
+        "reunião",
+        "rally",
+        "reagrupamento",
+        "comício"
+    ],
+    "demonstration": [
+        "manifestação",
+        "demonstração",
+        "demo",
+        "demostração"
+    ],
+    "rallies": [
+        "manifestação",
+        "rali",
+        "passeata",
+        "comício"
+    ],
+    "drive": [
+        "guiar",
+        "unidade",
+        "dirigir",
+        "movimentação",
+        "carro",
+        "rígido",
+        "levar",
+        "conduzir",
+        "disco",
+        "viagem"
+    ],
+    "pummeled": [],
+    "retreat": [
+        "retiro",
+        "retirar",
+        "recuar",
+        "retroceder",
+        "refúgio",
+        "recuo"
+    ],
+    "retreated": [
+        "fugir",
+        "retirar",
+        "recuar",
+        "recuei"
+    ],
+    "talked": [
+        "falar",
+        "conversar"
+    ],
+    "launched": [
+        "lançar",
+        "iniciar"
+    ],
+    "abandoned": [
+        "abandonar"
+    ],
+    "cross": [
+        "cruze",
+        "atravessar",
+        "cruz",
+        "cruzar",
+        "transversal"
+    ],
+    "punch": [
+        "esmurrar",
+        "golpe",
+        "socar",
+        "ponche",
+        "bater",
+        "perfurador",
+        "perfurar",
+        "soco",
+        "murro"
+    ],
+    "forward": [
+        "encaminhar",
+        "diante",
+        "adiante",
+        "direto",
+        "transmitir",
+        "encaminhamento",
+        "frente",
+        "avançar"
+    ],
+    "shot at": [],
+    "come": [
+        "vá",
+        "entrar",
+        "chegar",
+        "vir",
+        "voltar",
+        "ir"
+    ],
+    "blew": [
+        "ex plodir",
+        "tocar",
+        "fundir",
+        "estragar",
+        "rebentar",
+        "soprar",
+        "estourar"
+    ],
+    "the one": [],
+    "punched": [
+        "esmurrar",
+        "socar",
+        "bati",
+        "perfurar",
+        "soco",
+        "murro",
+        "soquei"
+    ],
+    "pushed onward": [],
+    "pushed forward": [],
+    "crossed": [
+        "ultrapassar",
+        "atravessar",
+        "cruzei",
+        "trair",
+        "cruzar"
+    ],
+    "opened": [
+        "inaugurar",
+        "abrir"
+    ],
+    "fight": [
+        "discutir",
+        "luto",
+        "enfrentar",
+        "discussão",
+        "briga",
+        "combater",
+        "luta",
+        "brigar",
+        "lutar",
+        "combate"
+    ],
+    "push": [
+        "envio",
+        "empurrão",
+        "carregar",
+        "impulso",
+        "pressione",
+        "premir",
+        "apertar",
+        "empurrar"
+    ],
+    "defeating": [
+        "frustrar",
+        "derrotar"
+    ],
+    "press": [
+        "imprensa",
+        "carregar",
+        "pressionar",
+        "apertir",
+        "prima",
+        "pressione",
+        "premir",
+        "apertar",
+        "prensa"
+    ],
+    "advance": [
+        "adiantamento",
+        "avanço",
+        "previamente",
+        "adiantar",
+        "antecedência",
+        "antemão",
+        "avançar"
+    ],
+    "left": [
+        "esquerdo",
+        "esquerda",
+        "embora",
+        "deixar",
+        "partir",
+        "restar",
+        "saí",
+        "sair",
+        "a o esquerda"
+    ],
+    "march": [
+        "marcha",
+        "março",
+        "marchar"
+    ],
+    "skirmishes": [
+        "escaramuça",
+        "confronto",
+        "combate"
+    ],
+    "firefight": [
+        "tiroteio"
+    ],
+    "punched through": [],
+    "battlefront": [
+        "battlefront"
+    ],
+    "defend": [
+        "defender",
+        "defesa"
+    ],
+    "gone": [
+        "desaparecido",
+        "fora",
+        "passado",
+        "ir embora",
+        "embora",
+        "partido",
+        "morrer",
+        "sumer",
+        "ser",
+        "ir"
+    ],
+    "deaths": [
+        "morte",
+        "óbito",
+        "morto"
+    ],
+    "arriving": [
+        "chegar"
+    ],
+    "close\nin": [],
+    "use": [
+        "utilizar",
+        "usar",
+        "uso",
+        "usá",
+        "utilização"
+    ],
+    "using": [
+        "usar",
+        "através",
+        "utilizar",
+        "uso",
+        "usá",
+        "meio"
+    ],
+    "driven": [
+        "movir",
+        "ex pulso",
+        "guiar",
+        "levar",
+        "orientar",
+        "conduzir",
+        "acionar",
+        "motivar",
+        "impulsionar",
+        "dirigir"
+    ],
+    "draw": [
+        "sacar",
+        "atrair",
+        "ex trair",
+        "sorteio",
+        "empate",
+        "desenhar",
+        "traçar",
+        "tirar",
+        "tração",
+        "chamar"
+    ],
+    "arrival": [
+        "chegada",
+        "desembarque",
+        "vinda"
+    ],
+    "arrive": [
+        "chegar"
+    ],
+    "raid": [
+        "incursão",
+        "bater",
+        "raid",
+        "assalto",
+        "reide",
+        "rusga",
+        "ataque",
+        "atacar",
+        "invasão",
+        "invadir",
+        "assaltar"
+    ],
+    "carrying": [
+        "realização",
+        "carregar",
+        "ex ecução",
+        "levar",
+        "portador",
+        "escriturar",
+        "transporte",
+        "trazer"
+    ],
+    "wounds": [
+        "ferir",
+        "chaga",
+        "lesão"
+    ],
+    "ambushed": [
+        "encurralar",
+        "emboscar"
+    ],
+    "brought": [
+        "trazer",
+        "interposto",
+        "levar"
+    ],
+    "moving": [
+        "andar",
+        "se deslocar",
+        "ir",
+        "mover",
+        "mudança",
+        "móvel",
+        "mudar",
+        "movimento"
+    ],
+    "set up": [],
+    "what": [
+        "qual",
+        "que"
+    ],
+    "rose up": [],
+    "retired": [
+        "se aposentar",
+        "retirar",
+        "reformar",
+        "aposentar",
+        "eu aposentar"
+    ],
+    "been": [
+        "estar",
+        "estive",
+        "ser"
+    ],
+    "invading": [
+        "invadir"
+    ],
+    "approach": [
+        "abordar",
+        "aproximação",
+        "aproximar",
+        "enfoque",
+        "abordagem"
+    ],
+    "racing": [
+        "regata",
+        "competência",
+        "correr",
+        "acelerar",
+        "corrida",
+        "competir"
+    ],
+    "bombardment": [
+        "bombardeio"
+    ],
+    "fled": [
+        "fugir",
+        "refugiar",
+        "escapar",
+        "fujer"
+    ],
+    "rolling": [
+        "filmar",
+        "gravar",
+        "laminação",
+        "enrolar",
+        "rolar",
+        "rodar",
+        "rolante",
+        "circulante"
+    ],
+    "flying": [
+        "voos",
+        "pilotar",
+        "arvorar",
+        "voador",
+        "vôo",
+        "voar"
+    ],
+    "taken over": [],
+    "took over": [],
+    "taken control": [],
+    "fly": [
+        "voo",
+        "pilotar",
+        "mosca",
+        "voar",
+        "voe"
+    ],
+    "reached": [
+        "contatar",
+        "aceder",
+        "cheguei",
+        "chegar",
+        "alcançar",
+        "conseguir",
+        "atingir"
+    ],
+    "shelling": [
+        "descascar",
+        "descascamento",
+        "gastar",
+        "atingir",
+        "bombardeio"
+    ],
+    "close in": [],
+    "withdrawn": [
+        "retrair",
+        "retirar",
+        "supressão",
+        "revogadas",
+        "suprimir",
+        "denunciar"
+    ],
+    "moved in": [],
+    "talks": [
+        "palestra",
+        "conversação",
+        "negociação",
+        "falar",
+        "discurso"
+    ],
+    "assault": [
+        "abuso",
+        "agressão",
+        "assalto",
+        "ataque",
+        "assaltar",
+        "agredir"
+    ],
+    "thrust": [
+        "empuxo",
+        "impulso",
+        "propulsão",
+        "axial",
+        "estocar",
+        "empurrar"
+    ],
+    "pushed": [
+        "pressionar",
+        "levar",
+        "forçar",
+        "forcei",
+        "apertar",
+        "empurrar"
+    ],
+    "capturing": [
+        "captura",
+        "captar"
+    ],
+    "advances": [
+        "avanço",
+        "progresso",
+        "investida",
+        "adiantamento"
+    ],
+    "stabbing": [
+        "ferir",
+        "apunhalar",
+        "punhalar",
+        "esfaquear",
+        "facar",
+        "esfaqueamento"
+    ],
+    "injury": [
+        "injúria",
+        "machucar",
+        "prejuízo",
+        "dano",
+        "ferimento",
+        "lesão"
+    ],
+    "fractured": [
+        "fraturar",
+        "fracturar"
+    ],
+    "fractures": [
+        "fractura",
+        "fratura"
+    ],
+    "broken bones": [],
+    "telephone": [
+        "telefonar",
+        "telefone"
+    ],
+    "them": [
+        "eles",
+        "de ele",
+        "los"
+    ],
+    "meet": [
+        "atender",
+        "reunir",
+        "satisfazer",
+        "apresentar",
+        "enfrentar",
+        "encontrar",
+        "conhecer",
+        "cumprir"
+    ],
+    "get inside": [],
+    "back": [
+        "atrás",
+        "traseira",
+        "parte traseiro",
+        "costa",
+        "novamente",
+        "trás",
+        "volta",
+        "novo",
+        "fundo",
+        "regressar"
+    ],
+    "incidents": [
+        "incidente",
+        "ocorrência"
+    ],
+    "death": [
+        "morte",
+        "óbito",
+        "falecimento",
+        "mortal",
+        "morrer"
+    ],
+    "enter": [
+        "inserir",
+        "participar",
+        "digitar",
+        "entrar",
+        "indicar",
+        "incorporar",
+        "entror",
+        "introduzir",
+        "entre",
+        "insira"
+    ],
+    "moving toward": [],
+    "accidents": [
+        "sinistro",
+        "acidente"
+    ],
+    "withdrawn into": [],
+    "something": [
+        "algum coisa",
+        "algo",
+        "qualquer coisa",
+        "coisa"
+    ],
+    "fallen": [
+        "caír",
+        "cair",
+        "derrotar",
+        "apaixonar"
+    ],
+    "surge": [
+        "surto",
+        "descarregador",
+        "impulso",
+        "oscilação",
+        "aumento",
+        "onda",
+        "pico",
+        "sobretensão"
+    ],
+    "move": [
+        "ir",
+        "mover",
+        "mudança",
+        "passar",
+        "movê",
+        "passo",
+        "mexer",
+        "mudar",
+        "jogada",
+        "movimento"
+    ],
+    "engage": [
+        "participar",
+        "envolver",
+        "engajar",
+        "ex ercer",
+        "acoplar",
+        "contratar",
+        "atacar",
+        "ativar",
+        "empenhar"
+    ],
+    "trip": [
+        "passeio",
+        "visita",
+        "viajar",
+        "ex cursão",
+        "tropeçar",
+        "desengate",
+        "ida",
+        "viagem"
+    ],
+    "fought": [
+        "discutir",
+        "disputar",
+        "combater",
+        "brigar",
+        "lutar",
+        "travar"
+    ],
+    "coming": [
+        "entrar",
+        "chegar",
+        "próximo",
+        "vir",
+        "voltar",
+        "ir"
+    ],
+    "shelled": [
+        "casca",
+        "bombardear",
+        "descascar"
+    ],
+    "Attacking": [
+        "ataque",
+        "agredir",
+        "atacar"
+    ],
+    "speeding": [
+        "pressa",
+        "correr",
+        "acelerar",
+        "agilizar",
+        "apressar"
+    ],
+    "bombed": [
+        "ex plodir",
+        "bombardear"
+    ],
+    "paid that price": [],
+    "driven back": [],
+    "dropped": [
+        "abandonar",
+        "solto",
+        "lançar",
+        "cair",
+        "deixar cair",
+        "retirar",
+        "derrubar",
+        "largar",
+        "descartar"
+    ],
+    "firing": [
+        "acionamento",
+        "demissão",
+        "disparo",
+        "demitir",
+        "acendimento",
+        "disparar",
+        "queima",
+        "fogo",
+        "atirar",
+        "despedir"
+    ],
+    "casualty": [
+        "casualidade",
+        "vítima",
+        "víctimo"
+    ],
+    "funeral": [
+        "enterro",
+        "fúnebre",
+        "velório",
+        "funeral"
+    ],
+    "push\nahead": [],
+    "expelled": [
+        "ex pulso",
+        "ex peler"
+    ],
+    "incursion": [
+        "incursão"
+    ],
+    "explosion": [
+        "ex plosão"
+    ],
+    "control": [
+        "controle",
+        "comando",
+        "controlar"
+    ],
+    "take": [
+        "tomar",
+        "levar",
+        "aceitar",
+        "tirar",
+        "ter",
+        "dar",
+        "pegar",
+        "fazer"
+    ],
+    "destroy": [
+        "destruir"
+    ],
+    "coming into": [],
+    "have been to": [],
+    "coming in": [],
+    "sent over": [],
+    "were taken": [],
+    "go inside": [],
+    "push ahead": [],
+    "striking": [
+        "greve",
+        "notável",
+        "marcante",
+        "golpear",
+        "flagrante",
+        "atingir",
+        "surpreendente",
+        "impressionante"
+    ],
+    "lifted": [
+        "erguido",
+        "levantar",
+        "ergueu",
+        "tirar"
+    ],
+    "executions": [
+        "fuzilamento",
+        "ex ecução"
+    ],
+    "bitten the dust": [],
+    "desert": [
+        "desertar",
+        "sobremesa",
+        "deserto",
+        "abandonar"
+    ],
+    "fleeing": [
+        "fogir",
+        "fugir",
+        "fujem",
+        "fuga",
+        "fujir",
+        "escapar"
+    ],
+    "entering": [
+        "inserir",
+        "digitar",
+        "entrar",
+        "incorporar",
+        "invasão",
+        "introduzir",
+        "domicílio"
+    ],
+    "air strikes": [],
+    "Combat": [
+        "luta contra",
+        "combater",
+        "combate"
+    ],
+    "shoot": [
+        "filmar",
+        "gravar",
+        "acertar",
+        "fotografar",
+        "disparar",
+        "tiro",
+        "matar",
+        "mate",
+        "atirar",
+        "matá"
+    ],
+    "mutilated": [
+        "desfigurar",
+        "mutilar"
+    ],
+    "take out": [],
+    "continue on": [],
+    "dropping": [
+        "cair",
+        "deixar cair",
+        "descer",
+        "baixar",
+        "soltar",
+        "queda",
+        "derrubar",
+        "largar",
+        "descartar"
+    ],
+    "opened up": [],
+    "going off": [],
+    "writing": [
+        "escrever",
+        "gravação",
+        "gravar",
+        "redação"
+    ],
+    "Attack": [
+        "atentar",
+        "ataque",
+        "atacar"
+    ],
+    "letters": [
+        "carta",
+        "letra"
+    ],
+    "mail": [
+        "correio",
+        "remeter",
+        "email",
+        "enviar",
+        "carta",
+        "mensagem"
+    ],
+    "married": [
+        "case",
+        "casado",
+        "casei",
+        "casar",
+        "casamento"
+    ],
+    "tell": [
+        "contar",
+        "diga",
+        "dizer",
+        "avisar",
+        "falar"
+    ],
+    "heading": [
+        "título",
+        "posição",
+        "direção",
+        "dirigir",
+        "rumo",
+        "cabeçalho",
+        "rubrica",
+        "ir"
+    ],
+    "Iraq": [
+        "iraque"
+    ],
+    "tortured": [
+        "torturar",
+        "atormentar"
+    ],
+    "hanged": [
+        "enforcar",
+        "forca",
+        "pendurar"
+    ],
+    "executed": [
+        "ex ecutar"
+    ],
+    "murdered": [
+        "matar",
+        "morto",
+        "assassinar"
+    ],
+    "execution": [
+        "ex ecução"
+    ],
+    "sentenced": [
+        "sentenciar",
+        "condenar"
+    ],
+    "flown": [
+        "pilotar",
+        "levar",
+        "voado",
+        "viajeer",
+        "voar",
+        "voeir"
+    ],
+    "discussed": [
+        "discutir",
+        "abordar",
+        "debater"
+    ],
+    "friendly-fire": [
+        "friendlyfirir"
+    ],
+    "World War II": [],
+    "heading back": [],
+    "wartime": [
+        "guerra"
+    ],
+    "returning": [
+        "devolver",
+        "retribuir",
+        "voltar",
+        "regressar",
+        "retornar"
+    ],
+    "summit": [
+        "ápice",
+        "cúpula",
+        "cume",
+        "conferência",
+        "pico",
+        "cimeira"
+    ],
+    "Desert Storm": [],
+    "walked out": [],
+    "meetings": [
+        "encontro",
+        "assembleia",
+        "reunião",
+        "sessão"
+    ],
+    "letter": [
+        "carta",
+        "letra"
+    ],
+    "write": [
+        "escrever",
+        "gravar"
+    ],
+    "flee": [
+        "fogir",
+        "fugir",
+        "fujam",
+        "fuja",
+        "fujir"
+    ],
+    "over": [
+        "a o longo",
+        "sobre"
+    ],
+    "once": [
+        "após",
+        "logo",
+        "imediatamente",
+        "depois",
+        "assim",
+        "quando",
+        "vez",
+        "outrora"
+    ],
+    "departed": [
+        "afastar",
+        "partir",
+        "falecir",
+        "defunto",
+        "infiltrar"
+    ],
+    "elections": [
+        "eleição"
+    ],
+    "firefights": [],
+    "delivered": [
+        "fornecer",
+        "enviar",
+        "proferir",
+        "libertar",
+        "livrar",
+        "emitir",
+        "entregar"
+    ],
+    "call": [
+        "chame",
+        "indicativo",
+        "telefonema",
+        "telefonar",
+        "ligar",
+        "chamar",
+        "ligação"
+    ],
+    "reach": [
+        "chegar",
+        "alcançar",
+        "alcance",
+        "atingir",
+        "contactar"
+    ],
+    "gave": [
+        "demos",
+        "dar",
+        "de este",
+        "entregar"
+    ],
+    "Operation Iraqi Freedom": [],
+    "ambush": [
+        "emboscada",
+        "emboscar",
+        "cilar",
+        "tocaer",
+        "armadilha"
+    ],
+    "travel": [
+        "percorrer",
+        "deslocação",
+        "viajar",
+        "curso",
+        "viagem"
+    ],
+    "coming back": [],
+    "wrote": [
+        "escrever"
+    ],
+    "come back": [],
+    "discussion": [
+        "discussão",
+        "conversa",
+        "debate"
+    ],
+    "apprehend": [
+        "apreender",
+        "prender"
+    ],
+    "bring": [
+        "trá",
+        "levar",
+        "traga",
+        "trago",
+        "trazer"
+    ],
+    "emerge": [
+        "emerja",
+        "emergir",
+        "surgir"
+    ],
+    "calls": [
+        "liga",
+        "telefonema",
+        "ex ige",
+        "telefonar",
+        "apelar",
+        "solicitar",
+        "chamar",
+        "convidar",
+        "ligação",
+        "apelo"
+    ],
+    "critical": [
+        "crítico",
+        "crucial",
+        "essencial",
+        "fundamental"
+    ],
+    "bankruptcy": [
+        "falência",
+        "bancarrota",
+        "insolvência",
+        "concordata"
+    ],
+    "convicted": [
+        "sentenciar",
+        "condenar",
+        "acusar",
+        "convicto"
+    ],
+    "put to death": [],
+    "shooting": [
+        "filmar",
+        "gravar",
+        "disparo",
+        "fotografar",
+        "tiro",
+        "rodagem",
+        "disparar",
+        "tiroteio",
+        "atirar",
+        "filmagem"
+    ],
+    "struck": [
+        "batir",
+        "bater",
+        "atacar",
+        "golpear",
+        "parecer",
+        "impressionar",
+        "atingir",
+        "surpreender"
+    ],
+    "take down": [],
+    "approaching": [
+        "aproximar",
+        "se aproximar",
+        "abordar",
+        "chegar"
+    ],
+    "destroying": [
+        "destruir"
+    ],
+    "fend off": [
+        "rechaçar",
+        "afastar"
+    ],
+    "barrage": [
+        "saraivar",
+        "barragem",
+        "avalanche",
+        "enxurrada",
+        "bombardeio"
+    ],
+    "protest": [
+        "manifestação",
+        "protesto",
+        "protestar"
+    ],
+    "escorted": [
+        "acompanhar",
+        "escoltar"
+    ],
+    "assaulted": [
+        "ataquei",
+        "atacar",
+        "assaltar",
+        "agredir",
+        "molestar"
+    ],
+    "charges": [
+        "despesa",
+        "carregar",
+        "encargo",
+        "tarifa",
+        "taxa",
+        "cobrar",
+        "queixa",
+        "cobrança",
+        "custo",
+        "acusação",
+        "carga"
+    ],
+    "head": [
+        "principal",
+        "chefe",
+        "cabeça",
+        "mente"
+    ],
+    "gunfire": [
+        "disparo",
+        "tiro"
+    ],
+    "release": [
+        "versão",
+        "liberar",
+        "lançar",
+        "comunicar",
+        "soltar",
+        "liberação",
+        "desbloqueio",
+        "lançamento"
+    ],
+    "carry": [
+        "transportar",
+        "continuar",
+        "carregar",
+        "levar",
+        "realizar",
+        "portar"
+    ],
+    "flight": [
+        "voos",
+        "fuga",
+        "vôo",
+        "voar",
+        "avião"
+    ],
+    "gathering": [
+        "reunir",
+        "recolher",
+        "reunião",
+        "recolha",
+        "coletar",
+        "coleta",
+        "colher",
+        "juntar",
+        "encontro",
+        "ajuntamento"
+    ],
+    "resigned": [
+        "desistir",
+        "pedir demissão",
+        "conformar",
+        "demitir",
+        "resignar",
+        "renunciar"
+    ],
+    "buyout": [
+        "pdv",
+        "compra"
+    ],
+    "out": [
+        "fora"
+    ],
+    "targeted": [
+        "segmentar",
+        "alvejar",
+        "destinar",
+        "específico",
+        "orientar",
+        "visar",
+        "direcionar",
+        "voltar",
+        "alvo",
+        "dirigir"
+    ],
+    "convictions": [
+        "convicção",
+        "condenação"
+    ],
+    "blast": [
+        "ex plodir",
+        "ex plosão",
+        "rajar",
+        "sopro",
+        "soprar",
+        "estouro"
+    ],
+    "hearing": [
+        "audiência",
+        "ouvir",
+        "aparelho",
+        "escutar"
+    ],
+    "try": [
+        "provar",
+        "ex perimentar",
+        "procurar",
+        "testar",
+        "tentar"
+    ],
+    "suit": [
+        "atender",
+        "servir",
+        "naipe",
+        "terno",
+        "adequar",
+        "traje",
+        "fato",
+        "serir",
+        "roupa"
+    ],
+    "giving": [
+        "fornecer",
+        "dar",
+        "doação",
+        "entregar"
+    ],
+    "reunited": [
+        "reunir",
+        "reun",
+        "reunificar",
+        "reencontrar"
+    ],
+    "joins": [
+        "associar",
+        "associação",
+        "junção",
+        "ingressar",
+        "união",
+        "aderir",
+        "juntar",
+        "unir"
+    ],
+    "uprising": [
+        "insurreição",
+        "levante",
+        "rebelião",
+        "revoltar",
+        "motim",
+        "sublevação"
+    ],
+    "raping": [
+        "estupro",
+        "violar"
+    ],
+    "rape": [
+        "estupro",
+        "violar",
+        "violação",
+        "estuprar",
+        "colza"
+    ],
+    "stepping\ndown": [],
+    "vacate": [
+        "desocupar",
+        "retir",
+        "evacuar",
+        "vagar"
+    ],
+    "stepping aside": [],
+    "indictment": [
+        "denúncia",
+        "indiciamento",
+        "acusação"
+    ],
+    "charged": [
+        "acusar",
+        "imputar",
+        "carregar",
+        "debitar",
+        "cobrar",
+        "encarregar",
+        "praticar",
+        "recarregar"
+    ],
+    "faces": [
+        "cara",
+        "encarar",
+        "virar",
+        "enfrentar",
+        "careta",
+        "rosto"
+    ],
+    "fines": [
+        "fino",
+        "coima",
+        "multa"
+    ],
+    "bust": [
+        "prender",
+        "fracasso",
+        "quebrar",
+        "apreensão",
+        "rebentar",
+        "detenção",
+        "estourar",
+        "busto"
+    ],
+    "end": [
+        "fim",
+        "participante",
+        "acabar",
+        "lado",
+        "ex tremidade",
+        "termo",
+        "terminar",
+        "término",
+        "final",
+        "ponta"
+    ],
+    "bought": [
+        "acreditar",
+        "adquirir",
+        "comprar"
+    ],
+    "rehired": [
+        "recontratar"
+    ],
+    "released": [
+        "disponibilizar",
+        "solto",
+        "liberar",
+        "lançar",
+        "divulgar"
+    ],
+    "fined": [
+        "multar",
+        "sancionar"
+    ],
+    "report": [
+        "reportar",
+        "apresentar",
+        "reportagem",
+        "informe",
+        "relatar",
+        "queixa",
+        "informar",
+        "denúncia",
+        "comunicar",
+        "denunciar",
+        "relatório"
+    ],
+    "nab": [
+        "nab"
+    ],
+    "end up": [],
+    "trials": [
+        "teste",
+        "julgamento",
+        "tentativa",
+        "provação",
+        "sofrimento",
+        "ensaio",
+        "tribulação",
+        "ex perimentação",
+        "luta"
+    ],
+    "hearings": [
+        "auscultação",
+        "averiguação",
+        "inquérito",
+        "audiência"
+    ],
+    "clear": [
+        "limpo",
+        "óbvio",
+        "evidente",
+        "desobstruir",
+        "livre",
+        "cancelar",
+        "desmarque",
+        "limpar",
+        "transparente",
+        "claro",
+        "esclarecer"
+    ],
+    "sentences": [
+        "sentença",
+        "oração",
+        "frase",
+        "pena",
+        "condenar",
+        "sentencia"
+    ],
+    "clashing": [
+        "conflitante",
+        "discordância",
+        "confronto",
+        "colidir"
+    ],
+    "converge": [
+        "convergir",
+        "convirgem"
+    ],
+    "assault w": [],
+    "thrown": [
+        "jogar",
+        "lançar",
+        "gerar",
+        "acionar",
+        "arremessar",
+        "atirar",
+        "descartar"
+    ],
+    "threw": [
+        "joguei",
+        "jogar",
+        "deitar",
+        "lançar",
+        "atirar"
+    ],
+    "fall": [
+        "culpa",
+        "cair",
+        "apaixonar",
+        "outono",
+        "queda",
+        "caiir"
+    ],
+    "fell": [
+        "caír",
+        "cair",
+        "apaixonar"
+    ],
+    "the phone": [],
+    "stabbed": [
+        "enfiar",
+        "apunhalar",
+        "espetar",
+        "furar",
+        "esfaquear",
+        "facar"
+    ],
+    "bleeding": [
+        "sangramento",
+        "sangrar",
+        "hemorragia"
+    ],
+    "took": [
+        "tomar",
+        "levei",
+        "levar",
+        "tomei",
+        "tirar",
+        "peguei",
+        "pegar",
+        "ter"
+    ],
+    "kidnapped": [
+        "raptei",
+        "sequestrar",
+        "raptar"
+    ],
+    "saved": [
+        "gravar",
+        "salvar",
+        "conservar",
+        "poupar",
+        "guardar",
+        "economizar"
+    ],
+    "qharthd": [],
+    "throwing": [
+        "jogar",
+        "jogá",
+        "deitar",
+        "lançar",
+        "arremesso",
+        "dar",
+        "atirar"
+    ],
+    "ran": [
+        "fugir",
+        "ex ecutar",
+        "diriger",
+        "correr",
+        "corri",
+        "funcionar"
+    ],
+    "correspondence": [
+        "correspondência"
+    ],
+    "ruling": [
+        "decisão",
+        "dirigente",
+        "sentença",
+        "prejudicial",
+        "dominante",
+        "acórdão",
+        "governar"
+    ],
+    "appeal": [
+        "atração",
+        "atrair",
+        "interpor recurso",
+        "agradar",
+        "recorrer",
+        "recurso",
+        "apelar",
+        "apelo"
+    ],
+    "speak": [
+        "falar",
+        "conversar"
+    ],
+    "appealed": [
+        "recorrer",
+        "atrair",
+        "apelar",
+        "agradar"
+    ],
+    "serving": [
+        "servir",
+        "porção",
+        "serir",
+        "atender"
+    ],
+    "e-mail": [
+        "correio electrónico",
+        "mail"
+    ],
+    "scalded": [
+        "pasteurizar",
+        "escaldar"
+    ],
+    "scalding": [
+        "fervente",
+        "queimadura",
+        "escalda",
+        "escaldão"
+    ],
+    "protests": [
+        "manifestação",
+        "protesto"
+    ],
+    "violence": [
+        "violência"
+    ],
+    "way": [
+        "modo",
+        "assim",
+        "caminho",
+        "lado",
+        "forma",
+        "jeito",
+        "como",
+        "meio",
+        "maneira"
+    ],
+    "greet": [
+        "saudar",
+        "cumprimentar",
+        "saúdo"
+    ],
+    "assassination": [
+        "homicídio",
+        "atentar",
+        "assassinato"
+    ],
+    "reunion": [
+        "reencontro",
+        "reunião",
+        "reagrupamento"
+    ],
+    "indegrees": [],
+    "egress": [
+        "egresso",
+        "saída"
+    ],
+    "siege": [
+        "assédio",
+        "cerco"
+    ],
+    "phone": [
+        "celular",
+        "fone",
+        "telefone"
+    ],
+    "battling": [
+        "disputar",
+        "bater",
+        "batalhar",
+        "combater",
+        "lutar"
+    ],
+    "seize": [
+        "agarrar",
+        "prender",
+        "aproveitar",
+        "apreender",
+        "confiscar"
+    ],
+    "join": [
+        "acompanhar",
+        "participar",
+        "junção",
+        "entrar",
+        "ingressar",
+        "aderir",
+        "juntar",
+        "unir",
+        "associação"
+    ],
+    "departures": [
+        "embarque",
+        "partida",
+        "saída",
+        "afastamento"
+    ],
+    "head out": [],
+    "return": [
+        "devolver",
+        "troca",
+        "devolução",
+        "volta",
+        "regresso",
+        "retorno",
+        "voltar",
+        "regressar",
+        "retornar"
+    ],
+    "terror": [
+        "pavor",
+        "terror",
+        "aterrorizar"
+    ],
+    "battlefield": [
+        "batalha",
+        "battlefield"
+    ],
+    "terminating": [
+        "terminação",
+        "encerrar",
+        "finalizar",
+        "despedir",
+        "cessação"
+    ],
+    "hired": [
+        "empregar",
+        "alugar",
+        "contratar"
+    ],
+    "kicked out": [
+        "chutar",
+        "despejar",
+        "ex pulso",
+        "corrir"
+    ],
+    "alive": [
+        "vivo"
+    ],
+    "spoke": [
+        "falar",
+        "conversar",
+        "raio"
+    ],
+    "edged": [
+        "gumes",
+        "aresta",
+        "gume",
+        "afiar"
+    ],
+    "birth": [
+        "luz",
+        "biológico",
+        "nascimento",
+        "nascer",
+        "parto",
+        "natalidade"
+    ],
+    "critically": [
+        "gravemente",
+        "criticamente"
+    ],
+    "sitting down": [],
+    "getting into": [],
+    "raids": [
+        "incursão",
+        "assalto",
+        "batida",
+        "rusga",
+        "ataque",
+        "invasão"
+    ],
+    "eliminate": [
+        "eliminar"
+    ],
+    "landing": [
+        "pouso",
+        "patamar",
+        "aterrar",
+        "aterragem",
+        "desembarque",
+        "destino",
+        "pousar"
+    ],
+    "visit": [
+        "acessar",
+        "visitar",
+        "visita"
+    ],
+    "down": [
+        "baixo",
+        "abaixo",
+        "até",
+        "descer",
+        "embaixo"
+    ],
+    "entered": [
+        "inserir",
+        "digitar",
+        "entrar",
+        "ingressar",
+        "registar",
+        "inscazrr",
+        "incorporar",
+        "introduzir"
+    ],
+    "e war": [],
+    "shot\ndown": [],
+    "going": [
+        "vá",
+        "acontecer",
+        "passar",
+        "ir"
+    ],
+    "brought back": [],
+    "accused": [
+        "réu",
+        "arguir",
+        "acusar"
+    ],
+    "charge": [
+        "acusar",
+        "carregar",
+        "encargo",
+        "taxa",
+        "cobrar",
+        "responsável",
+        "acusação",
+        "custo",
+        "cargo",
+        "comando",
+        "carga"
+    ],
+    "born": [
+        "nato",
+        "carregar",
+        "nascer"
+    ],
+    "went down": [],
+    "kicked": [
+        "chutar",
+        "pôs",
+        "ex pulsar",
+        "retroceder",
+        "pontapé"
+    ],
+    "beaten": [
+        "espancar",
+        "batir",
+        "vencer",
+        "bater",
+        "surrar",
+        "derrotar",
+        "agredir",
+        "apanhar"
+    ],
+    "flew": [
+        "voar",
+        "viajar",
+        "pilotar",
+        "voeir"
+    ],
+    "sees": [
+        "enxergar",
+        "vêer",
+        "ver",
+        "vir",
+        "considerar"
+    ],
+    "met": [
+        "atender",
+        "reunir",
+        "satisfeita",
+        "encontrar",
+        "conhecer",
+        "cumprir"
+    ],
+    "murder": [
+        "crime",
+        "morte",
+        "homicídio",
+        "assassinato",
+        "assassinar",
+        "matar"
+    ],
+    "trauma": [
+        "trauma",
+        "craniano"
+    ],
+    "stab": [
+        "golpe",
+        "apunhalar",
+        "espetar",
+        "punhalar",
+        "golpear",
+        "esfaquear",
+        "facar"
+    ],
+    "unborn": [
+        "gestação",
+        "feto",
+        "nascituro",
+        "nascer"
+    ],
+    "chapter 11": [],
+    "layoffs": [
+        "despedimento",
+        "dispensa",
+        "demissão"
+    ],
+    "hijacking": [
+        "carjacking",
+        "raptar",
+        "seqüestro",
+        "sequestro"
+    ],
+    "raided": [
+        "assaltar",
+        "atacar",
+        "revistar",
+        "invadir",
+        "vasculhar"
+    ],
+    "sentence": [
+        "sentença",
+        "oração",
+        "frase",
+        "pena",
+        "condenar",
+        "condenação",
+        "sentencio"
+    ],
+    "capture": [
+        "captação",
+        "capturar",
+        "captura",
+        "captar"
+    ],
+    "atrocities": [
+        "atrocidade",
+        "barbaridade"
+    ],
+    "destruction": [
+        "destruição"
+    ],
+    "custody": [
+        "tutela",
+        "guardar",
+        "custódia"
+    ],
+    "is no more": [],
+    "get into": [],
+    "show up": [],
+    "showed up": [
+        "aparecer",
+        "comparecer"
+    ],
+    "came across": [],
+    "run into": [],
+    "going down": [],
+    "taken": [
+        "tomar",
+        "adoptar",
+        "levar",
+        "tirar",
+        "retirar",
+        "fazer ex amar",
+        "ter"
+    ],
+    "one": [
+        "único",
+        "aquele",
+        "alguém",
+        "um"
+    ],
+    "deployed": [
+        "destacar",
+        "desdobrar",
+        "implantar"
+    ],
+    "replaced": [
+        "substituir",
+        "trocar"
+    ],
+    "cost": [
+        "custar",
+        "preço",
+        "custo"
+    ],
+    "dismissed": [
+        "julgar",
+        "rejeitar",
+        "encerrar",
+        "demitir",
+        "retirar",
+        "dispensar",
+        "indeferer",
+        "negar provimento",
+        "despedir",
+        "arquivar",
+        "descartar"
+    ],
+    "termination": [
+        "demissão",
+        "encerramento",
+        "terminação",
+        "ex tinção",
+        "finalização",
+        "denúncia",
+        "cancelamento",
+        "rescisão",
+        "cessação"
+    ],
+    "talk": [
+        "palestra",
+        "conversa",
+        "discussão",
+        "falar",
+        "conversar"
+    ],
+    "death penalty": [],
+    "open": [
+        "abrar",
+        "abrir"
+    ],
+    "meet up": [],
+    "bankruptcies": [
+        "falência",
+        "bancarrota",
+        "insolvência"
+    ],
+    "september": [
+        "setembro"
+    ],
+    "shootout": [
+        "pênaltis",
+        "tiroteio",
+        "duelo"
+    ],
+    "demonstrating": [
+        "evidenciar",
+        "demonstrar",
+        "manifestar",
+        "comprovativo"
+    ],
+    "joining": [
+        "adesão",
+        "participar",
+        "junção",
+        "ingressar",
+        "aderir",
+        "juntar",
+        "unir"
+    ],
+    "lost": [
+        "perder",
+        "perca",
+        "perda"
+    ],
+    "headed": [
+        "chefiar",
+        "encabeçar",
+        "dirigir",
+        "liderar",
+        "ir"
+    ],
+    "homicide": [
+        "homicídio"
+    ],
+    "picked up": [
+        "atender",
+        "aprender",
+        "recolhir",
+        "captar",
+        "peguei",
+        "levantar",
+        "pegar",
+        "apanhar"
+    ],
+    "wandered": [
+        "vaguear",
+        "perambular",
+        "vagar",
+        "passear"
+    ],
+    "had": [
+        "ter",
+        "haver"
+    ],
+    "merger": [
+        "concentração",
+        "fusão",
+        "incorporação",
+        "de o concentração"
+    ],
+    "buy": [
+        "adquirir",
+        "pagar",
+        "comprar"
+    ],
+    "lose": [
+        "perco",
+        "perder",
+        "perdi",
+        "perca"
+    ],
+    "shots": [
+        "tomar",
+        "injeção",
+        "foto",
+        "cena",
+        "fotografia",
+        "dose",
+        "disparo",
+        "vacina",
+        "captura",
+        "tiro"
+    ],
+    "live fire\nexchange": [],
+    "targeting": [
+        "segmentação",
+        "alvejar",
+        "visar",
+        "mirar",
+        "alvo",
+        "direcionamento",
+        "dirigir"
+    ],
+    "swim": [
+        "nade",
+        "nadam",
+        "natação",
+        "nar",
+        "nadar",
+        "nadado",
+        "mergulho"
+    ],
+    "paralyzed": [
+        "paralisar",
+        "paraplégico"
+    ],
+    "taking out": [],
+    "hostilities": [
+        "hostilidade"
+    ],
+    "journey": [
+        "percurso",
+        "jornada",
+        "trajecto",
+        "viajar",
+        "viagem"
+    ],
+    "invade": [
+        "invadir"
+    ],
+    "insurrection": [
+        "revoltar",
+        "insurreição"
+    ],
+    "invaded": [
+        "invadir"
+    ],
+    "do": [
+        "ver",
+        "fizer",
+        "fazê",
+        "fazer"
+    ],
+    "vest": [
+        "colete",
+        "vestir"
+    ],
+    "sold": [
+        "comercializar",
+        "vender"
+    ],
+    "indicted": [
+        "indiciar",
+        "acusar",
+        "denunciar"
+    ],
+    "recruited": [
+        "recrutar",
+        "contratar"
+    ],
+    "paid": [
+        "pagas",
+        "pagar",
+        "prestar",
+        "pagamento",
+        "pagos",
+        "paguei"
+    ],
+    "cut": [
+        "reduzir",
+        "cortar",
+        "corte",
+        "recortar",
+        "parar"
+    ],
+    "offered": [
+        "propor",
+        "oferecer"
+    ],
+    "run": [
+        "fugir",
+        "funcionar",
+        "ex ecutar",
+        "ex ecução",
+        "correr",
+        "corra",
+        "prazo",
+        "corrida",
+        "funcionamento",
+        "dirigir"
+    ],
+    "ended": [
+        "acabar",
+        "encerrar",
+        "finalizar",
+        "terminar",
+        "findar"
+    ],
+    "deadly": [
+        "capital",
+        "mortífero",
+        "mortal",
+        "letal",
+        "fatal"
+    ],
+    "sickened": [
+        "enojar"
+    ],
+    "activity": [
+        "actividade",
+        "atividade"
+    ],
+    "activities": [
+        "actividade",
+        "acção",
+        "atividade"
+    ],
+    "traveling": [
+        "itinerante",
+        "viajar",
+        "viagem"
+    ],
+    "sunk": [
+        "irrecuperável",
+        "frito",
+        "investi",
+        "ferrado",
+        "enterrar",
+        "afundar"
+    ],
+    "becoming": [
+        "transformar",
+        "se tornar",
+        "virar",
+        "tornar",
+        "ficar",
+        "nós tornar",
+        "assentar"
+    ],
+    "beating": [
+        "espancar",
+        "vencer",
+        "bater",
+        "tareia",
+        "sova",
+        "espancamento",
+        "surrá",
+        "derrotar"
+    ],
+    "exploded": [
+        "ex plodir"
+    ],
+    "injuring": [
+        "ferir"
+    ],
+    "body": [
+        "cadáver",
+        "corpo",
+        "órgão",
+        "organismo"
+    ],
+    "tie the knot": [],
+    "ceremony": [
+        "cerimônia"
+    ],
+    "spent": [
+        "despender",
+        "passar",
+        "gastar",
+        "passado"
+    ],
+    "stepped doup": [],
+    "stepped\ndown": [],
+    "teped down": [],
+    "resignation": [
+        "demissão",
+        "renúncia",
+        "resignação",
+        "despedimento"
+    ],
+    "marriage": [
+        "casamento",
+        "casar",
+        "matrimônio",
+        "união"
+    ],
+    "atack": [
+        "atack"
+    ],
+    "hurting": [
+        "ferir",
+        "machucar",
+        "doer",
+        "magoar",
+        "aleijar",
+        "dóier",
+        "sofrer",
+        "prejudicar"
+    ],
+    "killings": [
+        "morte",
+        "crime",
+        "homicídios",
+        "assassinato",
+        "matança"
+    ],
+    "extradition": [
+        "ex tradição"
+    ],
+    "suing": [
+        "demandar",
+        "processar"
+    ],
+    "sentencing": [
+        "sentença",
+        "sentenciar",
+        "condenar",
+        "pena",
+        "condenação"
+    ],
+    "served": [
+        "atender",
+        "servir",
+        "atuar",
+        "server",
+        "cumprir",
+        "serir"
+    ],
+    "arrives": [
+        "chegar"
+    ],
+    "climb": [
+        "suba",
+        "subida",
+        "suber",
+        "escalar",
+        "subir"
+    ],
+    "travels": [
+        "curso",
+        "percorrer",
+        "correr",
+        "viajar",
+        "deslocar",
+        "viagem"
+    ],
+    "gunned down": [
+        "abater",
+        "alvejar",
+        "balear"
+    ],
+    "shootings": [
+        "tiroteio",
+        "disparo",
+        "fuzilamento"
+    ],
+    "comes": [
+        "vier",
+        "entrar",
+        "chegar",
+        "aparecer",
+        "vir",
+        "tratar"
+    ],
+    "sailed": [
+        "embarcar",
+        "velejar",
+        "navegar",
+        "disputar",
+        "zarpar",
+        "partir",
+        "rumar"
+    ],
+    "mission": [
+        "missão"
+    ],
+    "face": [
+        "cara",
+        "encarar",
+        "enfrentar",
+        "frente",
+        "rosto",
+        "facial"
+    ],
+    "faced": [
+        "confrontar",
+        "encarar",
+        "diante",
+        "enfrentar",
+        "face",
+        "deparar",
+        "defrontar"
+    ],
+    "condemned": [
+        "condenar"
+    ],
+    "prosecution": [
+        "repressão",
+        "procuradoria",
+        "prossecução",
+        "ministério público",
+        "promotoria",
+        "acção penal",
+        "acusação"
+    ],
+    "unindicted": [],
+    "employed": [
+        "empregar",
+        "utilizar",
+        "independente",
+        "contratar"
+    ],
+    "hear\nfrom": [],
+    "prosecute": [
+        "julgar",
+        "processar",
+        "indiciar",
+        "acusar"
+    ],
+    "appealing": [
+        "atractivo",
+        "atraente",
+        "apelar",
+        "apelativo"
+    ],
+    "held": [
+        "manter",
+        "deter",
+        "segurar",
+        "prender",
+        "realizar",
+        "considerar"
+    ],
+    "stay": [
+        "continuar",
+        "manter",
+        "permanecer",
+        "estadia",
+        "ficar"
+    ],
+    "sat down": [
+        "sentar"
+    ],
+    "receive": [
+        "receber",
+        "recebimento"
+    ],
+    "airstrike": [],
+    "critical\ncondition": [],
+    "firings": [
+        "disparo",
+        "acendimento",
+        "demissão"
+    ],
+    "missions": [
+        "missão"
+    ],
+    "launch": [
+        "lançar",
+        "inicialização",
+        "lançamento",
+        "iniciar"
+    ],
+    "violent": [
+        "violento"
+    ],
+    "telephones": [
+        "telefone"
+    ],
+    "next": [
+        "seguinte",
+        "junto",
+        "depois",
+        "lado",
+        "próximo",
+        "perto",
+        "em seguida",
+        "vir",
+        "avançar"
+    ],
+    "step down": [],
+    "reelected": [
+        "reeleger"
+    ],
+    "slaughter": [
+        "chacina",
+        "abater",
+        "carnificina",
+        "matança",
+        "abatir",
+        "massacrar",
+        "matadouro",
+        "massacre"
+    ],
+    "bloodleting": [],
+    "massacre": [
+        "massacrar",
+        "chacina",
+        "massacre"
+    ],
+    "slaughtered": [
+        "chacinar",
+        "assassinar",
+        "abatir",
+        "massacrar",
+        "sacrificar"
+    ],
+    "rapes": [
+        "violação",
+        "estupro",
+        "estupra",
+        "viola"
+    ],
+    "world war ii": [],
+    "funnel": [
+        "canalizar",
+        "funil",
+        "decantação"
+    ],
+    "disband": [
+        "dissolver",
+        "debandar",
+        "licenciar",
+        "dispersar",
+        "desmantelar"
+    ],
+    "retaliated": [
+        "retaliar",
+        "revidar"
+    ],
+    "assassinated": [
+        "assassinar"
+    ],
+    "abuse": [
+        "abuso",
+        "abusar",
+        "mau trato",
+        "utilização abusivo",
+        "uso abusivo",
+        "violência"
+    ],
+    "quit": [
+        "desistir",
+        "pára",
+        "largar",
+        "encerrar",
+        "deixar",
+        "demitir",
+        "sair",
+        "parar",
+        "saia",
+        "abandonar"
+    ],
+    "prosecuted": [
+        "perseguir",
+        "processar",
+        "acusar",
+        "julgar"
+    ],
+    "unions": [
+        "cooperativa",
+        "sindicato",
+        "união"
+    ],
+    "marriages": [
+        "matrimônio",
+        "casamento",
+        "união"
+    ],
+    "incident": [
+        "incidente"
+    ],
+    "jumping": [
+        "pulo",
+        "salto",
+        "pular"
+    ],
+    "rioting": [
+        "tumulto",
+        "distúrbio",
+        "motim"
+    ],
+    "fatal": [
+        "mortal",
+        "fatal",
+        "letal"
+    ],
+    "removal": [
+        "retirada",
+        "afastamento",
+        "supressão",
+        "remoção",
+        "eliminação"
+    ],
+    "transferred": [
+        "cedir",
+        "transferir"
+    ],
+    "hiring": [
+        "aluguer",
+        "empregar",
+        "contratação"
+    ],
+    "turned": [
+        "transformar",
+        "virar",
+        "tornar",
+        "ficar",
+        "girar",
+        "ligar",
+        "voltar"
+    ],
+    "taken into\ncustody": [],
+    "blow up": [],
+    "pled guilty": [],
+    "due": [
+        "virtude",
+        "vencimento",
+        "devido",
+        "por causa"
+    ],
+    "helicopter": [
+        "helicóptero"
+    ],
+    "returned": [
+        "voltar",
+        "regressar",
+        "retornar",
+        "devolver"
+    ],
+    "raping and drugging": [],
+    "negotiations": [
+        "negociação"
+    ],
+    "dismantle": [
+        "desmontagem",
+        "desmembrar",
+        "desarmar",
+        "desmontar",
+        "desmantelar"
+    ],
+    "precede": [
+        "preceder",
+        "anteceder"
+    ],
+    "divorce": [
+        "divórcio",
+        "divorciar"
+    ],
+    "sending": [
+        "enviar",
+        "emitir",
+        "emissão",
+        "mandar"
+    ],
+    "re-electing": [],
+    "convention": [
+        "congresso",
+        "convenção"
+    ],
+    "action": [
+        "recurso",
+        "ação",
+        "acção",
+        "medida"
+    ],
+    "acquiring": [
+        "aquisição",
+        "adquirir"
+    ],
+    "hands on": [],
+    "loss of life": [],
+    "september 11th": [],
+    "transporting": [
+        "transporte"
+    ],
+    "raped": [
+        "estuprar",
+        "estrupar",
+        "violar"
+    ],
+    "give birth": [],
+    "gives birth": [],
+    "placed": [
+        "situar",
+        "posto",
+        "colocar",
+        "posicionar"
+    ],
+    "closed": [
+        "encerrar",
+        "fechei",
+        "fechar"
+    ],
+    "lies in state": [],
+    "name": [
+        "nome",
+        "nomeiar",
+        "nomear"
+    ],
+    "replace": [
+        "recoloquar",
+        "repor",
+        "substituir",
+        "trocar"
+    ],
+    "stepped down": [],
+    "charges of widespread child sexual abuse in": [],
+    "forced": [
+        "forcei",
+        "forçar",
+        "obrigar"
+    ],
+    "won": [
+        "ganhar",
+        "vencer",
+        "conquistar"
+    ],
+    "Elections": [
+        "eleição"
+    ],
+    "be": [
+        "ficar",
+        "estar",
+        "ter",
+        "se",
+        "ser"
+    ],
+    "appointments": [
+        "compromisso",
+        "marcação",
+        "consulta",
+        "nomeação",
+        "encontro"
+    ],
+    "started": [
+        "começar",
+        "iniciar"
+    ],
+    "purchased": [
+        "adquirir",
+        "comprar"
+    ],
+    "merging": [
+        "fundir",
+        "funder",
+        "mesclagem",
+        "8merging8",
+        "fusão"
+    ],
+    "merged": [
+        "fundir",
+        "mesclar",
+        "intercalar",
+        "fusão"
+    ],
+    "bankrupting": [
+        "falência",
+        "falir"
+    ],
+    "paid out": [],
+    "hire": [
+        "empregar",
+        "contratação",
+        "contratar",
+        "aluguer",
+        "locação",
+        "aluguel"
+    ],
+    "resign": [
+        "eu demitar",
+        "desistir",
+        "pedir demissão",
+        "demitir",
+        "resignar",
+        "renunciar"
+    ],
+    "appointed": [
+        "mobilar",
+        "apontar",
+        "decorar",
+        "indicar",
+        "nomear",
+        "aprontar",
+        "designar",
+        "equipar"
+    ],
+    "resigning": [
+        "demitir",
+        "renunciar",
+        "desistir",
+        "eu demitir"
+    ],
+    "wipe": [
+        "apagar",
+        "limpeza",
+        "limpar",
+        "apagamento",
+        "esfregar",
+        "enxugar"
+    ],
+    "nine eleven": [],
+    "appointing": [
+        "nomeiar",
+        "investido",
+        "designar",
+        "nomeação"
+    ],
+    "took down": [],
+    "step into": [],
+    "used\nto be": [],
+    "nine\neleven": [],
+    "guilty": [
+        "culpar"
+    ],
+    "murdering": [
+        "matar",
+        "assassinar"
+    ],
+    "not found": [],
+    "walk": [
+        "passeio",
+        "andar",
+        "caminhada",
+        "volta",
+        "pé",
+        "caminhar",
+        "passear"
+    ],
+    "remove": [
+        "tirar",
+        "retirar",
+        "eliminar",
+        "remoção",
+        "remover"
+    ],
+    "found": [
+        "encontrar",
+        "descobrir",
+        "achar"
+    ],
+    "find": [
+        "achá",
+        "procurar",
+        "arranjar",
+        "encontrar",
+        "achar",
+        "descobrir",
+        "localizar",
+        "saber"
+    ],
+    "committed": [
+        "cometer",
+        "internar",
+        "comprometir",
+        "confirmar",
+        "praticar",
+        "empenhar"
+    ],
+    "given": [
+        "determinar",
+        "conceder",
+        "receber",
+        "fornecer",
+        "dar",
+        "dado"
+    ],
+    "crime": [
+        "crime",
+        "delito"
+    ],
+    "genocide": [
+        "genocídio"
+    ],
+    "flock": [
+        "se reúnem",
+        "afluir",
+        "rebanho",
+        "migrar",
+        "bar",
+        "genealógico",
+        "reunem",
+        "tropa"
+    ],
+    "did": [
+        "fiz",
+        "ser",
+        "fazer"
+    ],
+    "will": [
+        "ir"
+    ],
+    "Trial": [
+        "avaliação",
+        "teste",
+        "julgamento",
+        "tentativa",
+        "prova",
+        "ensaio",
+        "ex perimentação",
+        "tribunal"
+    ],
+    "Death": [
+        "morte",
+        "óbito",
+        "falecimento",
+        "mortal",
+        "morrer"
+    ],
+    "buys": [
+        "adquirir",
+        "compra"
+    ],
+    "selecting": [
+        "selecionar"
+    ],
+    "gives": [
+        "conferir",
+        "oferecer",
+        "dê",
+        "fornecer",
+        "dar",
+        "proporcionar"
+    ],
+    "passing": [
+        "falecimento",
+        "aprovação",
+        "passe",
+        "passar",
+        "transmissão"
+    ],
+    "give": [
+        "dê",
+        "dar",
+        "dou",
+        "dêem",
+        "entregar"
+    ],
+    "retreats": [
+        "refúgio",
+        "retiro",
+        "recuar",
+        "recuo"
+    ],
+    "send": [
+        "enviar",
+        "emitir",
+        "mandar"
+    ],
+    "conquered": [
+        "vencer",
+        "conquistar"
+    ],
+    "sit down": [
+        "sentir",
+        "sentar",
+        "eu sentar"
+    ],
+    "strangled": [
+        "estrangular",
+        "enforcar",
+        "sufocar"
+    ],
+    "calling": [
+        "vocação",
+        "telefonar",
+        "apelar",
+        "ligar",
+        "chamar"
+    ],
+    "Trials": [
+        "teste",
+        "julgamento",
+        "tentativa",
+        "provação",
+        "sofrimento",
+        "ensaio",
+        "tribulação",
+        "ex perimentação",
+        "luta"
+    ],
+    "tragedy": [
+        "tragédia",
+        "drama",
+        "trágico"
+    ],
+    "got back": [],
+    "poisoning": [
+        "envenenar",
+        "intoxicação",
+        "estragar",
+        "envenenamento",
+        "veneno"
+    ],
+    "poisoned": [
+        "intoxicar",
+        "envenenar",
+        "veneno"
+    ],
+    "World War Two": [],
+    "acts": [
+        "acto",
+        "age",
+        "actuar",
+        "atuar",
+        "funcionar",
+        "ato"
+    ],
+    "overthrown": [
+        "deposto",
+        "depor",
+        "subverter",
+        "possessar",
+        "derrotar",
+        "dominar",
+        "derrubar"
+    ],
+    "air strike": [],
+    "go off": [],
+    "deceased": [
+        "falecir",
+        "defunto",
+        "morrer"
+    ],
+    "divorced": [
+        "divorciar",
+        "se divorciar"
+    ],
+    "laid off": [],
+    "get\nto": [],
+    "Go": [
+        "vá",
+        "entrar",
+        "ir embora",
+        "lá",
+        "sair",
+        "passar",
+        "ir"
+    ],
+    "paying": [
+        "prestar",
+        "pagador",
+        "pagar",
+        "pagamento"
+    ],
+    "go back": [],
+    "get out": [],
+    "named": [
+        "chamar",
+        "denominar",
+        "nome",
+        "nomear"
+    ],
+    "getting through": [],
+    "tore": [
+        "rasgar",
+        "arrancar",
+        "rasguei",
+        "destruir",
+        "romper"
+    ],
+    "carting": [
+        "carting",
+        "karting",
+        "acarretar",
+        "kart"
+    ],
+    "advanced": [
+        "avançar"
+    ],
+    "blown": [
+        "fundir",
+        "estragar",
+        "rebentar",
+        "destruir",
+        "descobrir",
+        "soprar",
+        "estourar",
+        "queimar",
+        "ex plodido"
+    ],
+    "travelling": [
+        "itinerante",
+        "deslocação",
+        "viajar",
+        "viagem"
+    ],
+    "retaliation": [
+        "talião",
+        "retaliação",
+        "represália"
+    ],
+    "convened": [
+        "reunir",
+        "convocar"
+    ],
+    "pursue": [
+        "ex ercer",
+        "perseguir",
+        "prosseguir",
+        "persiga",
+        "buscar"
+    ],
+    "settled": [
+        "liquidar",
+        "acertar",
+        "colonizar",
+        "assente",
+        "combinar",
+        "acomodar",
+        "decidir",
+        "resolver",
+        "estabelecer"
+    ],
+    "settlement": [
+        "assentamento",
+        "resolução",
+        "colonização",
+        "liquidação",
+        "povoado",
+        "transacção",
+        "acordo",
+        "apropriação",
+        "estabelecimento"
+    ],
+    "payments": [
+        "prestação",
+        "pagamento"
+    ],
+    "litigation": [
+        "judicial",
+        "litígio",
+        "contencioso"
+    ],
+    "deploying": [
+        "desdobrar",
+        "implantar"
+    ],
+    "unleash": [
+        "desencadear",
+        "libertar",
+        "soltar"
+    ],
+    "ordered": [
+        "requisitar",
+        "mandar",
+        "pedir",
+        "condenar",
+        "ordenar",
+        "encomendar",
+        "solicitar"
+    ],
+    "consultation": [
+        "consulta",
+        "concertação"
+    ],
+    "took on": [],
+    "sale": [
+        "venda",
+        "liquidação"
+    ],
+    "ending": [
+        "fim",
+        "acabar",
+        "terminação",
+        "interminável",
+        "encerrar",
+        "finalizar",
+        "terminar",
+        "final"
+    ],
+    "aggression": [
+        "agressão"
+    ],
+    "rallied": [
+        "reunir",
+        "mobilizar"
+    ],
+    "Protests": [
+        "manifestação",
+        "protesto"
+    ],
+    "jihad": [
+        "jihad"
+    ],
+    "losses": [
+        "baixo",
+        "prejuízo",
+        "derrota",
+        "perda"
+    ],
+    "clashes": [
+        "embate",
+        "choque",
+        "chocar",
+        "conflito",
+        "colidir",
+        "confronto",
+        "enfrentamento",
+        "atrito",
+        "interferência",
+        "combate"
+    ],
+    "gathered": [
+        "reunir",
+        "recolher",
+        "obter",
+        "coletar",
+        "colhir",
+        "percebido",
+        "juntar",
+        "se reunir"
+    ],
+    "Demonstrations": [
+        "manifestação",
+        "protesto",
+        "demonstração"
+    ],
+    "hospitalised": [
+        "internar",
+        "hospitalizar"
+    ],
+    "sit-in": [],
+    "clashed": [
+        "colidir",
+        "enfrentar"
+    ],
+    "marches": [
+        "marcha",
+        "março",
+        "passeata"
+    ],
+    "marched": [
+        "marchar"
+    ],
+    "drove": [
+        "levei",
+        "conduzir",
+        "levar",
+        "dirigir"
+    ],
+    "Fall": [
+        "culpa",
+        "cair",
+        "apaixonar",
+        "outono",
+        "queda",
+        "caiir"
+    ],
+    "campaign": [
+        "campanha"
+    ],
+    "picketed": [],
+    "protested": [
+        "protestar"
+    ],
+    "turned out": [],
+    "turning out": [],
+    "bomb": [
+        "bomba",
+        "bombardear"
+    ],
+    "campaigns": [
+        "campanha"
+    ],
+    "execute": [
+        "ex ecutar"
+    ],
+    "appeals": [
+        "atrair",
+        "agradar",
+        "apelação"
+    ],
+    "parachuted": [],
+    "bring in": [],
+    "others": [
+        "outro",
+        "demais"
+    ],
+    "begins": [
+        "começar",
+        "iniciar"
+    ],
+    "steps down": [],
+    "become": [
+        "transformar",
+        "se tornar",
+        "virar",
+        "tornar",
+        "ficar"
+    ],
+    "previously": [
+        "anteriormente",
+        "previamente",
+        "antigamente"
+    ],
+    "formerly": [
+        "antigamente",
+        "formalmente",
+        "anteriormente",
+        "outrora",
+        "ex"
+    ],
+    "pow-wow": [
+        "powwow"
+    ],
+    "attend": [
+        "atender",
+        "participar",
+        "comparecer",
+        "cursar",
+        "frequentar",
+        "assistir"
+    ],
+    "formed": [
+        "formar",
+        "constituir"
+    ],
+    "Married": [
+        "case",
+        "casado",
+        "casei",
+        "casar",
+        "casamento"
+    ],
+    "hacked": [
+        "picareta",
+        "hackear",
+        "cortar",
+        "pirateou",
+        "invadir"
+    ],
+    "forum": [
+        "fórum",
+        "foro"
+    ],
+    "Negotiations": [
+        "negociação"
+    ],
+    "re-election": [
+        "reeleição"
+    ],
+    "funded": [
+        "financiar",
+        "fundar",
+        "custear",
+        "patrocinar",
+        "capitalização"
+    ],
+    "conviction": [
+        "convicção",
+        "convencimento",
+        "condenação"
+    ],
+    "sacking": [
+        "saque",
+        "despedida",
+        "demissão"
+    ],
+    "brief": [
+        "breve",
+        "sucinto",
+        "informar",
+        "resumo",
+        "curto",
+        "resumir",
+        "sumário"
+    ],
+    "sell": [
+        "venda",
+        "ver",
+        "vender"
+    ],
+    "fine": [
+        "belo",
+        "óptimo",
+        "fino",
+        "belo",
+        "bem",
+        "bom",
+        "certo",
+        "multa"
+    ],
+    "aquitted": [],
+    "punishable": [
+        "passível",
+        "punível",
+        "castigar"
+    ],
+    "discussions": [
+        "discussão",
+        "conversa",
+        "debate"
+    ],
+    "dissolving": [
+        "desfazer",
+        "dissolução"
+    ],
+    "dissolved": [
+        "dissolvir"
+    ],
+    "by-elections": [],
+    "took office": [],
+    "create": [
+        "criar"
+    ],
+    "forging": [
+        "forjar",
+        "falsificar",
+        "forjamento"
+    ],
+    "launching": [
+        "lançamento"
+    ],
+    "opening": [
+        "abertura",
+        "estrear",
+        "abrir",
+        "vago",
+        "inauguração"
+    ],
+    "build": [
+        "compilação",
+        "configuração",
+        "montar",
+        "construir",
+        "desenvolver",
+        "criar",
+        "compilar"
+    ],
+    "acquire": [
+        "aquisição",
+        "adquirir"
+    ],
+    "dismantling": [
+        "desarmamento",
+        "desestruturação",
+        "desmantelamento",
+        "desmontar",
+        "desmantelar"
+    ],
+    "shed": [
+        "lançar",
+        "vertente",
+        "barracão",
+        "derramar",
+        "galpão",
+        "cabana",
+        "abrigo",
+        "verter"
+    ],
+    "Founded": [
+        "criar",
+        "fundar"
+    ],
+    "appointment": [
+        "compromisso",
+        "reunião",
+        "designação",
+        "hora marcar",
+        "marcação",
+        "horário",
+        "consulta",
+        "entrevista",
+        "nomeação",
+        "encontro"
+    ],
+    "combination": [
+        "combinação"
+    ],
+    "acquisition": [
+        "aquisição"
+    ],
+    "transaction": [
+        "operação",
+        "transação"
+    ],
+    "takeover": [
+        "aquisição",
+        "retomar",
+        "opa"
+    ],
+    "creating": [
+        "criar"
+    ],
+    "wedding": [
+        "boda",
+        "noiva",
+        "casamento"
+    ],
+    "sacked": [
+        "demitir",
+        "saquear",
+        "despedir"
+    ],
+    "debut": [
+        "estrear",
+        "debute"
+    ],
+    "selling": [
+        "venda",
+        "vender",
+        "seller"
+    ],
+    "loan": [
+        "empréstimo",
+        "crédito",
+        "emprestar"
+    ],
+    "crumbled": [
+        "desintegrar",
+        "desmoronar"
+    ],
+    "filled": [
+        "preenchir",
+        "rechear",
+        "encheu",
+        "enchido",
+        "cheio",
+        "repleto"
+    ],
+    "topple": [
+        "tombe",
+        "tombar",
+        "derrubar"
+    ],
+    "told": [
+        "contar",
+        "informar",
+        "dizer",
+        "avisar",
+        "falar",
+        "contei"
+    ],
+    "Bankrupt": [
+        "a o falência",
+        "bancarrota",
+        "falir",
+        "falido"
+    ],
+    "aid": [
+        "socorro",
+        "auxiliar",
+        "apoio",
+        "auditivo",
+        "ajudar",
+        "assistência",
+        "auxílio"
+    ],
+    "inviting": [
+        "acolhedor",
+        "convidar"
+    ],
+    "take\nover": [],
+    "purchase": [
+        "aquisição",
+        "adquirir",
+        "comprar",
+        "compra"
+    ],
+    "take over": [],
+    "intifada": [
+        "intifar"
+    ],
+    "bloodshed": [
+        "sangria",
+        "carnificina",
+        "massacre",
+        "matança",
+        "derramamento",
+        "sangue",
+        "sanguinário"
+    ],
+    "withdrawal": [
+        "retirada",
+        "retractação",
+        "revogação",
+        "privação",
+        "denúncia",
+        "saque",
+        "levantamento",
+        "abstinência",
+        "desistência",
+        "rescisão"
+    ],
+    "movement": [
+        "deslocação",
+        "circulação",
+        "movimento"
+    ],
+    "aid\npackage": [],
+    "admits": [
+        "admitir",
+        "reconhecer",
+        "confessar"
+    ],
+    "tried": [
+        "tentar",
+        "julgar",
+        "procurar",
+        "ex perimentar"
+    ],
+    "providing": [
+        "disponibilizar",
+        "prestação",
+        "oferecer",
+        "providenciar",
+        "fornecer",
+        "dar",
+        "prover",
+        "proporcionar"
+    ],
+    "swept out of power": [],
+    "extradited": [
+        "ex traditar"
+    ],
+    "buying out": [],
+    "deployment": [
+        "distribuição",
+        "destacamento",
+        "implantação"
+    ],
+    "purge": [
+        "ex purgo",
+        "purgar",
+        "ex purgar",
+        "purificar",
+        "purga"
+    ],
+    "airlifting": [],
+    "jailed": [
+        "encarcerar",
+        "prender"
+    ],
+    "brawl": [
+        "desbravar",
+        "briga",
+        "rixa",
+        "pancadaria"
+    ],
+    "dip into": [],
+    "be out": [],
+    "ousting": [
+        "ex pulsão"
+    ],
+    "transits": [
+        "trânsito"
+    ],
+    "evacuating": [
+        "evacuar"
+    ],
+    "step aside": [],
+    "repaying": [
+        "retribuir",
+        "reembolsar"
+    ],
+    "bids": [
+        "oferta",
+        "proposta",
+        "lance",
+        "licitação",
+        "concorrência"
+    ],
+    "bid": [
+        "oferta",
+        "proposta",
+        "tentativa",
+        "lance",
+        "oferecer",
+        "licitar",
+        "candidatura",
+        "licitação"
+    ],
+    "pounded": [
+        "socar",
+        "bater",
+        "triturar",
+        "martelar"
+    ],
+    "secured": [
+        "protegido",
+        "fixar",
+        "garantir",
+        "assegurar",
+        "seguro"
+    ],
+    "rumbled": [],
+    "wiped out": [
+        "erradicar",
+        "dizimar",
+        "ex terminar",
+        "destruir",
+        "apagar",
+        "eliminar",
+        "arrasar",
+        "limpar",
+        "aniquilar",
+        "varrir"
+    ],
+    "secure": [
+        "protegido",
+        "fixar",
+        "garantir",
+        "prenda",
+        "assegurar",
+        "seguro",
+        "fixe",
+        "proteger"
+    ],
+    "reaching": [
+        "alcançar",
+        "atingir",
+        "chegar"
+    ],
+    "crumbling": [
+        "desabar",
+        "ruína",
+        "desmoronar",
+        "decadente",
+        "desintegração",
+        "esmigalhar",
+        "ruir"
+    ],
+    "seized": [
+        "tomar",
+        "confiscar",
+        "penhorar",
+        "aproveitar",
+        "apreender",
+        "capturar",
+        "agarrar",
+        "apoderar"
+    ],
+    "smash through": [],
+    "vacation": [
+        "férias"
+    ],
+    "Retired": [
+        "se aposentar",
+        "retirar",
+        "reformar",
+        "aposentar",
+        "eu aposentar"
+    ],
+    "retirement": [
+        "retirada",
+        "reforma",
+        "aposentadoria"
+    ],
+    "breakdowns": [
+        "quebra",
+        "avaria",
+        "discriminação",
+        "colapso",
+        "desagregação",
+        "repartição"
+    ],
+    "lumbered": [],
+    "blasted": [
+        "ex plodir",
+        "criticar",
+        "maldito",
+        "jatear",
+        "soprar"
+    ],
+    "airstrikes": [],
+    "front": [
+        "primeiro",
+        "fachada",
+        "frontal",
+        "diante",
+        "dianteira",
+        "frente",
+        "parte dianteiro"
+    ],
+    "jumped": [
+        "atacar",
+        "pulei",
+        "pular",
+        "saltar",
+        "subir",
+        "atirar"
+    ],
+    "parachute": [
+        "paraqueda"
+    ],
+    "airdrop": [
+        "víver",
+        "airdrop"
+    ],
+    "airlifts": [],
+    "relocated": [
+        "recolocar",
+        "deslocalizar",
+        "realocar",
+        "transferir",
+        "relocar",
+        "mudar"
+    ],
+    "assaulting": [
+        "agressão",
+        "assaltar",
+        "agredir"
+    ],
+    "joined": [
+        "unidas",
+        "acompanhar",
+        "associar",
+        "entrar",
+        "ingressar",
+        "integrar",
+        "aderir",
+        "juntar"
+    ],
+    "lit": [
+        "iluminar",
+        "acender",
+        "acesa"
+    ],
+    "mowed down": [],
+    "organize": [
+        "organizar"
+    ],
+    "put in place": [],
+    "begin work": [],
+    "boomed": [
+        "ex plodir",
+        "crescer"
+    ],
+    "Capture": [
+        "captação",
+        "capturar",
+        "captura",
+        "captar"
+    ],
+    "Fight": [
+        "discutir",
+        "luto",
+        "enfrentar",
+        "discussão",
+        "briga",
+        "combater",
+        "luta",
+        "brigar",
+        "lutar",
+        "combate"
+    ],
+    "penetrated": [
+        "penetrar"
+    ],
+    "passage": [
+        "trecho",
+        "passagem"
+    ],
+    "closed in": [],
+    "lobbed": [],
+    "discuss": [
+        "discutir",
+        "falar",
+        "conversar",
+        "debater"
+    ],
+    "Explosions": [
+        "ex plosão"
+    ],
+    "stormed": [
+        "assaltar",
+        "atormentar",
+        "invadir",
+        "atacar"
+    ],
+    "blitz": [
+        "blitz",
+        "bombardeio",
+        "relâmpago"
+    ],
+    "roll": [
+        "lançar",
+        "enrolar",
+        "rolar",
+        "rolo",
+        "role",
+        "implantação",
+        "rodar"
+    ],
+    "is over": [],
+    "seizing": [
+        "apreensão",
+        "aproveitar",
+        "convulsionar",
+        "capturar",
+        "confiscar"
+    ],
+    "Injured": [
+        "lesar",
+        "ferir",
+        "machucar",
+        "magoar",
+        "lesionar",
+        "prejudicar"
+    ],
+    "crossfire": [
+        "fogo cruzar"
+    ],
+    "confront": [
+        "confrontar",
+        "enfrentar"
+    ],
+    "probed": [
+        "sondar",
+        "vasculhar",
+        "analisar",
+        "investigado"
+    ],
+    "losing": [
+        "perder",
+        "ficar",
+        "perda"
+    ],
+    "battled": [
+        "bater",
+        "lutar",
+        "batalhar"
+    ],
+    "assaults": [
+        "agressão",
+        "assaltar",
+        "assalto",
+        "investida"
+    ],
+    "burns": [
+        "queima",
+        "queimadura",
+        "arder"
+    ],
+    "burnt": [
+        "incendiar",
+        "arder",
+        "queimar"
+    ],
+    "toll": [
+        "portagem",
+        "pedágio"
+    ],
+    "routed": [
+        "encaminhar",
+        "distribuir",
+        "rotear",
+        "circular",
+        "direcionar"
+    ],
+    "establishing": [
+        "determinação",
+        "estabelecer",
+        "instituir",
+        "criação"
+    ],
+    "case": [
+        "maiúscminúsc",
+        "processo",
+        "caso",
+        "caixa"
+    ],
+    "wars": [
+        "guerra"
+    ],
+    "provided money": [],
+    "came\nto": [],
+    "sales": [
+        "venda",
+        "comercial"
+    ],
+    "waste": [
+        "perca",
+        "desperdício",
+        "desperdiçar",
+        "perda",
+        "lixo",
+        "perder",
+        "gastar",
+        "resíduo"
+    ],
+    "purchasing": [
+        "aquisição",
+        "adquirir",
+        "comprar",
+        "compra"
+    ],
+    "future": [
+        "futuro"
+    ],
+    "ouster": [
+        "ex pulsão"
+    ],
+    "select": [
+        "seleto",
+        "marcar",
+        "selecione",
+        "escolha"
+    ],
+    "Meeting": [
+        "atender",
+        "reunir",
+        "satisfazer",
+        "assembleia",
+        "reunião",
+        "encontrar",
+        "conhecê",
+        "conhecer",
+        "encontro"
+    ],
+    "demonstrated": [
+        "mostrar",
+        "demonstrar",
+        "manifestar",
+        "comprovar"
+    ],
+    "install": [
+        "instalar",
+        "instalação"
+    ],
+    "shape": [
+        "moldar",
+        "forma"
+    ],
+    "forming": [
+        "formar",
+        "conformação"
+    ],
+    "craft": [
+        "ofício",
+        "embarcação",
+        "nave",
+        "arte",
+        "artesanato"
+    ],
+    "airlifted": [],
+    "attended": [
+        "atender",
+        "estar presente",
+        "participar",
+        "cursar",
+        "comparecer",
+        "frequentar",
+        "estudar",
+        "assistir"
+    ],
+    "parole": [
+        "condicional"
+    ],
+    "freed": [
+        "solto",
+        "libertar"
+    ],
+    "proceedings": [
+        "anal",
+        "processo",
+        "acta",
+        "deliberação",
+        "continuação",
+        "ata"
+    ],
+    "verdict": [
+        "sentença",
+        "veredicto"
+    ],
+    "steamed": [
+        "defumar",
+        "ferver",
+        "estufada",
+        "cozinhar"
+    ],
+    "riot": [
+        "distúrbio",
+        "tumulto",
+        "rebelião",
+        "revoltar",
+        "motim"
+    ],
+    "collapsed": [
+        "desabar",
+        "recolhir",
+        "desmaiar",
+        "cair",
+        "desmoronar",
+        "colapso",
+        "ruir"
+    ],
+    "delivery": [
+        "remessar",
+        "prestação",
+        "distribuição",
+        "encomenda",
+        "parto",
+        "fornecimento",
+        "entregar"
+    ],
+    "postwar": [
+        "pós-guerra"
+    ],
+    "went back": [],
+    "directed": [
+        "indicar",
+        "orientar",
+        "realizar",
+        "direcionar",
+        "voltar",
+        "encaminhadas",
+        "dirigir"
+    ],
+    "disembark": [
+        "desembarcar"
+    ],
+    "Talks": [
+        "palestra",
+        "conversação",
+        "negociação",
+        "falar",
+        "discurso"
+    ],
+    "Discussions": [
+        "discussão",
+        "conversa",
+        "debate"
+    ],
+    "expelling": [
+        "ex pelir",
+        "ex pulsar"
+    ],
+    "subsidies": [
+        "subvenção",
+        "subsídio",
+        "bonificação"
+    ],
+    "wed": [
+        "4ª feira",
+        "desposar",
+        "quarto",
+        "casar",
+        "qua"
+    ],
+    "nuptials": [
+        "núpcia"
+    ],
+    "weddings": [
+        "boda",
+        "casamento"
+    ],
+    "towed": [
+        "guinchar",
+        "rebocar"
+    ],
+    "displaced": [
+        "desalojar",
+        "deslocar",
+        "desabrigar"
+    ],
+    "crossing": [
+        "travessia",
+        "ultrapassar",
+        "cruzamento",
+        "passagem",
+        "atravessar",
+        "cruzar"
+    ],
+    "sailing": [
+        "regata",
+        "velejar",
+        "navegar",
+        "vela",
+        "navigação",
+        "náutico"
+    ],
+    "convicting": [
+        "condenar"
+    ],
+    "detained": [
+        "imobilização",
+        "retir",
+        "deter",
+        "imobilizar"
+    ],
+    "transport": [
+        "transporte",
+        "transportar",
+        "de o transporte"
+    ],
+    "exported": [
+        "ex portar"
+    ],
+    "bound for": [],
+    "setting up": [],
+    "demolished": [
+        "demulir",
+        "demoler"
+    ],
+    "wounding": [
+        "ferir",
+        "ferimento"
+    ],
+    "pullback": [
+        "retirada",
+        "recuo",
+        "retração"
+    ],
+    "drowned": [
+        "morrer afogar",
+        "afogar",
+        "se afogar",
+        "eu afoguei"
+    ],
+    "pardoned": [
+        "absolver",
+        "perdoar",
+        "indultada"
+    ],
+    "conflicts": [
+        "conflito"
+    ],
+    "infiltrating": [
+        "infiltrar"
+    ],
+    "removing": [
+        "desmontagem",
+        "retirar",
+        "eliminar",
+        "remoção",
+        "remover"
+    ],
+    "retry": [
+        "repita",
+        "repetição",
+        "repetir",
+        "retentar"
+    ],
+    "poison": [
+        "envenenar",
+        "suspeita",
+        "hero",
+        "envenenamento",
+        "veneno"
+    ],
+    "acquitted": [
+        "absolver",
+        "ilibar",
+        "inocentar"
+    ],
+    "acquittal": [
+        "absolvição"
+    ],
+    "receiving": [
+        "receber",
+        "recepção"
+    ],
+    "voyage": [
+        "viajem",
+        "viagem"
+    ],
+    "lifted off": [],
+    "bringing": [
+        "trazer",
+        "aproximar",
+        "levar"
+    ],
+    "rush": [
+        "correria",
+        "pressa",
+        "adrenalina",
+        "correr",
+        "corrida",
+        "arremeter",
+        "apressar",
+        "rush",
+        "ponta"
+    ],
+    "smashed": [
+        "esmagar",
+        "bater",
+        "quebrar",
+        "destruir",
+        "partir",
+        "despedaçar"
+    ],
+    "hammering": [
+        "martelar"
+    ],
+    "mount": [
+        "montagem",
+        "jabal",
+        "monte",
+        "montar"
+    ],
+    "introduced": [
+        "apresentar",
+        "introduzir",
+        "instituir"
+    ],
+    "takes over": [],
+    "taking over": [],
+    "evicted": [
+        "ex pulso",
+        "despejar",
+        "desalojar",
+        "desapropriar",
+        "remover"
+    ],
+    "tours": [
+        "passeio",
+        "guiar",
+        "turístico",
+        "visita",
+        "ex cursão",
+        "roteiro",
+        "turnê",
+        "viagem"
+    ],
+    "visits": [
+        "visita"
+    ],
+    "coup": [
+        "golpe"
+    ],
+    "thrusting": [
+        "empurrão",
+        "enfiar",
+        "empurrar"
+    ],
+    "assassinate": [
+        "assassinar"
+    ],
+    "response": [
+        "reacção",
+        "resposta",
+        "reação"
+    ],
+    "came into power": [],
+    "give up": [],
+    "extermination": [
+        "ex termínio"
+    ],
+    "insurgency": [
+        "revoltar",
+        "sublevação",
+        "insurgência",
+        "rebelião"
+    ],
+    "contacted": [
+        "contactar",
+        "procurar"
+    ],
+    "e-mails": [
+        "mails"
+    ],
+    "when": [
+        "quando"
+    ],
+    "used": [
+        "utilizar",
+        "usar",
+        "habituar",
+        "acostumar",
+        "costumar"
+    ],
+    "paralyzing": [
+        "paralisante"
+    ],
+    "pull": [
+        "arrancar",
+        "puxe",
+        "tirar",
+        "retirar",
+        "tração",
+        "puxar"
+    ],
+    "get rid\nof": [],
+    "late": [
+        "tardio",
+        "tarde",
+        "falecir",
+        "final",
+        "atrasar"
+    ],
+    "Murdered": [
+        "matar",
+        "morto",
+        "assassinar"
+    ],
+    "Arafat's": [],
+    "message": [
+        "recado",
+        "mensagem"
+    ],
+    "messages": [
+        "recado",
+        "mensagem"
+    ],
+    "Divorce": [
+        "divórcio",
+        "divorciar"
+    ],
+    "remarried": [
+        "casei",
+        "casar"
+    ],
+    "remarriage": [
+        "casamento"
+    ],
+    "actions": [
+        "medida",
+        "acto",
+        "ação",
+        "atitude",
+        "acção",
+        "ato"
+    ],
+    "deductions": [
+        "dedução",
+        "retenção"
+    ],
+    "assistance": [
+        "intervenção",
+        "apoio",
+        "ajudar",
+        "assessoria",
+        "atendimento",
+        "assistência",
+        "auxílio"
+    ],
+    "donation": [
+        "donativo",
+        "doação",
+        "dádiva"
+    ],
+    "donations": [
+        "donativo",
+        "doação",
+        "dádiva"
+    ],
+    "donated": [
+        "doeir",
+        "doar",
+        "doação"
+    ],
+    "received": [
+        "receber"
+    ],
+    "locked up": [
+        "trancar",
+        "internar",
+        "prender",
+        "fechar",
+        "presa",
+        "encarcerar"
+    ],
+    "following": [
+        "sequência",
+        "após",
+        "seguir"
+    ],
+    "new": [
+        "novo"
+    ],
+    "Forum": [
+        "fórum",
+        "foro"
+    ],
+    "fax": [
+        "telefax",
+        "fax",
+        "faxes"
+    ],
+    "raised": [
+        "crescer",
+        "educar",
+        "elevar",
+        "erguido",
+        "aumentar",
+        "levantar",
+        "criar",
+        "gerar",
+        "disparar"
+    ],
+    "parked": [
+        "parar",
+        "estacionar"
+    ],
+    "exited": [
+        "retirar",
+        "finalizar",
+        "encerrar",
+        "sair"
+    ],
+    "childbirth": [
+        "parto"
+    ],
+    "Childbirth": [
+        "parto"
+    ],
+    "hypnobirthing": [],
+    "ship": [
+        "nave",
+        "barco",
+        "navio",
+        "enviar"
+    ],
+    "skips": [
+        "ignorar",
+        "saltar",
+        "pular"
+    ],
+    "takes": [
+        "tomar",
+        "usar",
+        "preciso",
+        "levar",
+        "demor",
+        "tirar",
+        "aceitar",
+        "assumir",
+        "pegar",
+        "necessário"
+    ],
+    "hauled back": [],
+    "extraditing": [],
+    "battery": [
+        "pilha",
+        "bateria",
+        "acumulador"
+    ],
+    "beat": [
+        "ganhar",
+        "espancar",
+        "vencer",
+        "bater",
+        "batar",
+        "ritmo",
+        "derrotar"
+    ],
+    "choked": [
+        "enforcar",
+        "engasgar",
+        "emocionar",
+        "chocar",
+        "sufocar",
+        "embargar",
+        "estrangular",
+        "asfixiar",
+        "sufoquei",
+        "obstruir"
+    ],
+    "grabbed": [
+        "segurar",
+        "peguei",
+        "pegar",
+        "apanhar",
+        "agarrar"
+    ],
+    "reported": [
+        "reportar",
+        "comunicado",
+        "registrar",
+        "relatar",
+        "informar",
+        "referir",
+        "denunciar",
+        "declarados",
+        "notificar"
+    ],
+    "Sue": [
+        "demandar",
+        "processar",
+        "sue"
+    ],
+    "sells": [
+        "comercializar",
+        "vender"
+    ],
+    "provides": [
+        "apresentar",
+        "disponibilizar",
+        "provê",
+        "prestar",
+        "prever",
+        "oferecer",
+        "providenciar",
+        "fornecer",
+        "proporcionar"
+    ],
+    "shutting down": [
+        "falhar",
+        "parar",
+        "desligar",
+        "encerrar"
+    ],
+    "obliterating": [],
+    "smuggle": [
+        "traficar",
+        "contrabandear"
+    ],
+    "goes off": [],
+    "bankrupcy": [],
+    "Bankrupcy": [],
+    "Torture": [
+        "tortura",
+        "torturar"
+    ],
+    "Kill": [
+        "matar",
+        "mato",
+        "mate",
+        "matá"
+    ],
+    "Parole": [
+        "condicional"
+    ],
+    "put away": [],
+    "walked": [
+        "entrar",
+        "caminhar",
+        "andar"
+    ],
+    "let go": [],
+    "cuts": [
+        "reduzir",
+        "redução",
+        "cortar",
+        "recortar",
+        "corte"
+    ],
+    "transfer": [
+        "transferência",
+        "traslado",
+        "transferir"
+    ],
+    "reductions": [
+        "diminuição",
+        "depreciação",
+        "redução"
+    ],
+    "expiration": [
+        "ex piração",
+        "vencimento",
+        "término",
+        "validade"
+    ],
+    "feathering": [
+        "suavização",
+        "franja"
+    ],
+    "arrangements": [
+        "arranjo",
+        "modalidade",
+        "convénio",
+        "mecanismo",
+        "regime",
+        "preparativo",
+        "providência",
+        "acordo",
+        "disposição"
+    ],
+    "compensated": [
+        "indemnizar",
+        "remunerar",
+        "compensar",
+        "recompensados"
+    ],
+    "drafted": [
+        "alistar",
+        "elaborar",
+        "recrutar",
+        "redacção",
+        "esboçar",
+        "convocar",
+        "redigir"
+    ],
+    "resigns": [
+        "demitir",
+        "renunciar"
+    ],
+    "designate": [
+        "designar",
+        "indigitar",
+        "nomear"
+    ],
+    "complaint": [
+        "queixa",
+        "denúncia",
+        "reclamação"
+    ],
+    "charging": [
+        "tarifação",
+        "acusar",
+        "recarga",
+        "cobrar",
+        "carregamento",
+        "carga"
+    ],
+    "Election": [
+        "eleição"
+    ],
+    "victory": [
+        "triunfo",
+        "vitória"
+    ],
+    "Sept. 11": [],
+    "occupied": [
+        "ocupar"
+    ],
+    "re)merger": [],
+    "ceased": [
+        "cessar",
+        "deixar"
+    ],
+    "form": [
+        "formar",
+        "formulário",
+        "forma"
+    ],
+    "disbanded": [
+        "desfazer",
+        "dissolver",
+        "debandar",
+        "dispensar",
+        "ex tinto",
+        "destrúido",
+        "desmantelar"
+    ],
+    "email": [
+        "mail",
+        "enviar e-mail",
+        "correio eletrónico",
+        "e-mail"
+    ],
+    "gets": [
+        "ganhar",
+        "obtém",
+        "ficar",
+        "chegar",
+        "receber",
+        "conseguir",
+        "começr"
+    ],
+    "contact": [
+        "falar",
+        "contactar",
+        "contato"
+    ],
+    "Call": [
+        "chame",
+        "indicativo",
+        "telefonema",
+        "telefonar",
+        "ligar",
+        "chamar",
+        "ligação"
+    ],
+    "taking": [
+        "tomar",
+        "levar",
+        "tirar",
+        "ter",
+        "pegar"
+    ],
+    "ended up": [
+        "acabar",
+        "terminar"
+    ],
+    "Took": [
+        "tomar",
+        "levei",
+        "levar",
+        "tomei",
+        "tirar",
+        "peguei",
+        "pegar",
+        "ter"
+    ],
+    "direct": [
+        "dirija",
+        "direcionar",
+        "direto",
+        "dirigir"
+    ],
+    "Fly": [
+        "voo",
+        "pilotar",
+        "mosca",
+        "voar",
+        "voe"
+    ],
+    "Leave": [
+        "abandonar",
+        "saia",
+        "ir embora",
+        "deixar",
+        "embora",
+        "partir",
+        "licença",
+        "sair",
+        "largar",
+        "ir"
+    ],
+    "Drive": [
+        "guiar",
+        "unidade",
+        "dirigir",
+        "movimentação",
+        "carro",
+        "rígido",
+        "levar",
+        "conduzir",
+        "disco",
+        "viagem"
+    ],
+    "vote": [
+        "votação",
+        "votar",
+        "votá",
+        "voto"
+    ],
+    "poll": [
+        "votaτπo",
+        "votação",
+        "sondar",
+        "pesquisa",
+        "sondagem",
+        "enquete"
+    ],
+    "slices": [
+        "fração",
+        "cortar",
+        "gomo",
+        "rodela",
+        "fatia"
+    ],
+    "Miao\nRebellions": [],
+    "reintroduced": [
+        "restabelecir",
+        "reintroduzir"
+    ],
+    "opposition": [
+        "oposição"
+    ],
+    "retook": [],
+    "LAWSUIT": [
+        "ação",
+        "processo",
+        "ação judicial"
+    ],
+    "win": [
+        "ganhar",
+        "vencer",
+        "conquistar",
+        "vitória"
+    ],
+    "which": [
+        "qual",
+        "que",
+        "onde"
+    ],
+    "leaves": [
+        "sae",
+        "deixar",
+        "restar",
+        "sair",
+        "folha",
+        "abandonar"
+    ],
+    "graves": [
+        "tumba",
+        "túmulo",
+        "cova",
+        "campa",
+        "sepultura",
+        "vala"
+    ],
+    "close down": [],
+    "reward": [
+        "recompensa",
+        "recompensar",
+        "premiar",
+        "prêmio"
+    ],
+    "DIED": [
+        "morte",
+        "matar",
+        "falecer",
+        "morrer"
+    ],
+    "levelled": [
+        "levantar",
+        "nivelar",
+        "arrasar",
+        "dirigir"
+    ],
+    "stripping": [
+        "desnudar",
+        "stripping",
+        "decapagem",
+        "despir",
+        "privar",
+        "despojamento",
+        "descascamento"
+    ],
+    "revolution": [
+        "volta",
+        "revolução"
+    ],
+    "WAR": [
+        "guerra"
+    ],
+    "acquired": [
+        "adquirir",
+        "obter"
+    ],
+    "electoral": [
+        "eleitoral"
+    ],
+    "Compensation": [
+        "remuneração",
+        "compensação",
+        "indemnização",
+        "retribuição",
+        "contrapartida"
+    ],
+    "compensating": [
+        "compesação",
+        "indemnização",
+        "compensação"
+    ],
+    "compensate": [
+        "indemnizar",
+        "remunerar",
+        "compensar"
+    ],
+    "compensation": [
+        "remuneração",
+        "compensação",
+        "indemnização",
+        "retribuição",
+        "contrapartida"
+    ],
+    "reimburse": [
+        "reembolsar",
+        "restituir",
+        "ressarcir"
+    ],
+    "reimbursing": [
+        "reembolso"
+    ],
+    "together": [
+        "conjunto",
+        "reunir",
+        "junto",
+        "unidos",
+        "juntar"
+    ],
+    "Shooting-Down": [],
+    "liquidation": [
+        "liquidação"
+    ],
+    "Holocaust": [
+        "holocausto"
+    ],
+    "imprisoned": [
+        "deter",
+        "prender",
+        "aprisionar",
+        "presa",
+        "prisioneiro",
+        "encarcerar"
+    ],
+    "fights": [
+        "luta contra",
+        "discussão",
+        "briga",
+        "luta",
+        "combate"
+    ],
+    "replacing": [
+        "substituir",
+        "trocar"
+    ],
+    "came to power": [],
+    "convene": [
+        "convocar"
+    ],
+    "offensive": [
+        "ofensiva"
+    ],
+    "slayings": [
+        "assassinato"
+    ],
+    "What": [
+        "qual",
+        "que"
+    ],
+    "blown up": [],
+    "Q&A": [
+        "qa",
+        "q",
+        "gq"
+    ],
+    "cut out": [],
+    "ripped": [
+        "musculoso",
+        "rasgar",
+        "arrancar",
+        "rasgado",
+        "rasguei",
+        "ripar"
+    ],
+    "chatted": [
+        "conversar"
+    ],
+    "traveled": [
+        "viajar",
+        "percorrer"
+    ],
+    "knifing": [],
+    "provided": [
+        "apresentar",
+        "disponibilizar",
+        "prestar",
+        "prever",
+        "oferecer",
+        "contanto",
+        "providenciar",
+        "desde",
+        "fornecer",
+        "proporcionar"
+    ],
+    "having": [
+        "ter",
+        "tê"
+    ],
+    "March": [
+        "marcha",
+        "março",
+        "marchar"
+    ],
+    "opened fire": [],
+    "target practice": [],
+    "injure": [
+        "ferir",
+        "lesar",
+        "lesionar",
+        "ferer",
+        "fira"
+    ],
+    "written": [
+        "escrever",
+        "gravar",
+        "redigir"
+    ],
+    "took out": [],
+    "ex": [
+        "ex - namorado",
+        "ex",
+        "ex - mulher",
+        "ex - marido"
+    ],
+    "walk free": [],
+    "contributions": [
+        "quotização",
+        "contribuição"
+    ],
+    "bankrolling": [
+        "financiar",
+        "bancar"
+    ],
+    "winning": [
+        "ganhar",
+        "vitória",
+        "vencer",
+        "conquista",
+        "premiar",
+        "vencimento"
+    ],
+    "support": [
+        "sustentação",
+        "suporte",
+        "oferecer suporte",
+        "suportar",
+        "apoio",
+        "sustentar",
+        "assistência",
+        "apoiar"
+    ],
+    "fundraising": [
+        "angariação",
+        "captação",
+        "arrecadação",
+        "fundraising"
+    ],
+    "out-raised": [],
+    "Loans": [
+        "empréstimo",
+        "financiamento"
+    ],
+    "gift": [
+        "oferta",
+        "dom",
+        "prenda",
+        "doação",
+        "dádiva",
+        "presente"
+    ],
+    "sluice": [
+        "calha",
+        "ecluso",
+        "limite"
+    ],
+    "represent": [
+        "representar",
+        "constituir"
+    ],
+    "negotiating": [
+        "negociação"
+    ],
+    "nominate": [
+        "nomeio",
+        "designar",
+        "nomear"
+    ],
+    "eliminated": [
+        "eliminar"
+    ],
+    "last": [
+        "passado",
+        "durar",
+        "em o",
+        "último",
+        "ontem"
+    ],
+    "creation": [
+        "criação"
+    ],
+    "passed": [
+        "falecer",
+        "passado",
+        "aprovar",
+        "passar",
+        "transmitir"
+    ],
+    "emailed": [
+        "encaminhar",
+        "enviar"
+    ],
+    "employ": [
+        "empregar",
+        "contratar"
+    ],
+    "WON": [
+        "ganhar",
+        "vencer",
+        "conquistar"
+    ],
+    "signed over": [],
+    "embezzelled": [],
+    "skimming": [
+        "desviar",
+        "deslizar",
+        "skimming",
+        "desnatação"
+    ],
+    "Skimmed": [
+        "desnatar"
+    ],
+    "sign over": [],
+    "shipped": [
+        "embarcar",
+        "despachar",
+        "comercializar",
+        "mandar",
+        "enviar",
+        "ex pedido",
+        "transferir",
+        "fornecer"
+    ],
+    "boosted": [
+        "reforçar",
+        "impulsionar",
+        "alavancar",
+        "potenciar"
+    ],
+    "owed": [
+        "dever",
+        "dívida"
+    ],
+    "transfers": [
+        "transferência",
+        "traslado"
+    ],
+    "chosen": [
+        "eleger",
+        "escolher",
+        "selecionar"
+    ],
+    "deported": [
+        "deportar",
+        "ex pulso"
+    ],
+    "Release": [
+        "versão",
+        "liberar",
+        "lançar",
+        "comunicar",
+        "soltar",
+        "liberação",
+        "desbloqueio",
+        "lançamento"
+    ],
+    "murders": [
+        "morte",
+        "crime",
+        "homicídios",
+        "assassinato",
+        "matar"
+    ],
+    "Intifada": [
+        "intifar"
+    ],
+    "chopping off": [
+        "decepar",
+        "cortar"
+    ],
+    "blowing up": [],
+    "Torturing": [
+        "torturar"
+    ],
+    "sliced": [
+        "fatiar",
+        "cortar"
+    ],
+    "hoisted": [
+        "hastear",
+        "içar"
+    ],
+    "evacuated": [
+        "evacuar"
+    ],
+    "visiting": [
+        "visitar"
+    ],
+    "brutality or intimidation": [],
+    "blind": [
+        "a o cega",
+        "cega",
+        "cortina",
+        "cego",
+        "cegar"
+    ],
+    "pick up": [
+        "recolher",
+        "captar",
+        "atenda",
+        "buscar",
+        "levantar",
+        "pegar",
+        "apanhar"
+    ],
+    "cause": [
+        "motivo",
+        "causa",
+        "causar",
+        "provocar"
+    ],
+    "fund": [
+        "financiar",
+        "fundo"
+    ],
+    "taking money": [],
+    "payroll": [
+        "folha",
+        "salário",
+        "consignar"
+    ],
+    "money": [
+        "grana",
+        "dinheiro"
+    ],
+    "Dinner": [
+        "jantar",
+        "comensal"
+    ],
+    "massacres": [
+        "massacre"
+    ],
+    "holocaust": [
+        "holocausto"
+    ],
+    "raising money": [],
+    "meets": [
+        "atender",
+        "reunir",
+        "reunião",
+        "satisfaz",
+        "encontrar",
+        "preencher",
+        "cumprir",
+        "conhecer"
+    ],
+    "turbulence": [
+        "turbulência"
+    ],
+    "voted": [
+        "votação",
+        "votar",
+        "eleger"
+    ],
+    "Suicide": [
+        "suicídio"
+    ],
+    "confrontation": [
+        "confronto",
+        "enfrentamento"
+    ],
+    "pouring out": [],
+    "smacked": [
+        "estalar",
+        "bater",
+        "esmagar"
+    ],
+    "stealing": [
+        "roubo",
+        "furtar",
+        "roubar"
+    ],
+    "stole": [
+        "estolo",
+        "roubei",
+        "roubar"
+    ],
+    "IT": [
+        "que",
+        "isso",
+        "lo"
+    ],
+    "sit": [
+        "sentir",
+        "sentar",
+        "ficar",
+        "eu sentar"
+    ],
+    "unloaded": [
+        "descarregar",
+        "vazio"
+    ],
+    "slammed": [
+        "atolar",
+        "bater",
+        "batir",
+        "fechar"
+    ],
+    "dismember": [
+        "desmembrar"
+    ],
+    "canned": [
+        "conserva",
+        "despedir",
+        "enlatar"
+    ],
+    "letting": [
+        "permitir",
+        "deixar"
+    ],
+    "retiring": [
+        "cessante",
+        "se aposentar",
+        "reformar",
+        "aposentar",
+        "desativar"
+    ],
+    "benefits": [
+        "benefício",
+        "prestação",
+        "vantagem"
+    ],
+    "sign": [
+        "assinar",
+        "placa",
+        "cartaz",
+        "entrar",
+        "registar",
+        "sinal",
+        "signo",
+        "cadastre",
+        "inscrever"
+    ],
+    "flogged": [
+        "chicotear",
+        "açoitar"
+    ],
+    "gets out": [],
+    "convincted": [],
+    "doing time": [],
+    "coming over": [],
+    "O-V-E-R": [
+        "a o longo",
+        "sobre"
+    ],
+    "failed": [
+        "falhar",
+        "fracassar",
+        "reprovar"
+    ],
+    "swallowed": [
+        "assimilar",
+        "engoliu",
+        "engulir",
+        "tragar",
+        "ingerir"
+    ],
+    "buy out": [],
+    "tying the knot": [],
+    "starting": [
+        "arranque",
+        "começar",
+        "partida",
+        "iniciar"
+    ],
+    "spend": [
+        "passo",
+        "passe",
+        "gastar",
+        "passar"
+    ],
+    "collapse": [
+        "desmoronamento",
+        "desabar",
+        "recolher",
+        "desabamento",
+        "colapso",
+        "desmoronar",
+        "colapsar",
+        "queda",
+        "ruir"
+    ],
+    "dismemberment": [
+        "desmembramento"
+    ],
+    "bankrupt": [
+        "a o falência",
+        "bancarrota",
+        "falir",
+        "falido"
+    ],
+    "buying": [
+        "acreditar",
+        "comprar",
+        "compra"
+    ],
+    "deal": [
+        "negociar",
+        "lidar",
+        "trato",
+        "contrato",
+        "negócio",
+        "acordo",
+        "tratar"
+    ],
+    "lent": [
+        "quaresma",
+        "emprestar"
+    ],
+    "pittance": [
+        "merreca",
+        "pechincha",
+        "esmola",
+        "ninharia",
+        "miséria",
+        "mixaria"
+    ],
+    "offer": [
+        "propor",
+        "oferta",
+        "proposta",
+        "dispor",
+        "oferecer"
+    ],
+    "nominating": [
+        "nomeação"
+    ],
+    "turnover": [
+        "rotatividade",
+        "faturamento",
+        "giro",
+        "volume",
+        "facturação"
+    ],
+    "previous": [
+        "prévio",
+        "anterior",
+        "precedente"
+    ],
+    "retire": [
+        "se aposentar",
+        "retirar",
+        "reformar",
+        "aposentar"
+    ],
+    "departure": [
+        "embarque",
+        "partida",
+        "saída",
+        "afastamento"
+    ],
+    "filings": [
+        "arquivamento",
+        "limalha"
+    ],
+    "folding": [
+        "dobrar",
+        "rebatível",
+        "dobrá",
+        "desdobrável"
+    ],
+    "layoff": [
+        "dispensar",
+        "downsizing",
+        "demissão"
+    ]
+}

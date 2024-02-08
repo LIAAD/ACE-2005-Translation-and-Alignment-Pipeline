@@ -9,8 +9,8 @@ config:
     synonyms_path: "../resources/triggers_en_pt_lemma_dicio_ace_syn_v1.json" # list of trigger sononyms
     translations_path: "../resources/triggers_en_pt_pt_br_lemma_microsoft_ace_translations_v1.json" # list of trigger multiple translations
     pipeline:
-      - lemmas
-      - Mtrans
+      - lemma
+      - MTrans
       - synonyms
       - word_aligner 
 
@@ -19,6 +19,6 @@ config:
     translations_path: "../resources/args_en_pt_br_lemma_microsoft_ace_translations_v1.json"
     pipeline:
       - lemma 
-      - Mtrans
+      - MTrans
       - word_aligner
       - fuzzy

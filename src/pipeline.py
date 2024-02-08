@@ -10,9 +10,9 @@ import sys
 
 
 def align_Triggers(config, texts, nlp):
-    alignment_methods = config['trigger_alignment']['methods']
+    pipeline = config['trigger_alignment']['pipeline']
 
-    for method in alignment_methods:
+    for method in pipeline:
         if method == 'lemma':
             aligner = Trg_AL.LemmaMatch()
             texts = aligner.execute(texts,nlp,config["trigger_alignment"])

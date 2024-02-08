@@ -81,7 +81,6 @@ class FuzzyMatch:
 
 class WordAlignerMatch:
     def execute(self,texts, nlp):
-        count_method = {"gestalt": 0, "levenstein": 0, "word_aligner": 0, "not_found":0}
         for ti, t in enumerate(texts):
             for ei, e in enumerate(t["golden-event-mentions"]):
                 for ai, a in enumerate(e["arguments"]):
@@ -91,13 +90,20 @@ class WordAlignerMatch:
                         pt_sent = texts[ti]["sentence_pt"]
                         res = Al.wordAligner(en_sent,pt_sent,en_arg, nlp)
                         texts[ti]["golden-event-mentions"][ei]["arguments"][ai]["aligned-bert"] = res
-
-                        arg_3 = texts[ti]["golden-event-mentions"][ei]["arguments"][ai]["text_3"]
-                        arg_4 = texts[ti]["golden-event-mentions"][ei]["arguments"][ai]["text_4"]
-                        texts[ti]["golden-event-mentions"][ei]["arguments"][ai]["previous_pt"] = texts[ti]["golden-event-mentions"][ei]["arguments"][ai]["text_pt"]
-                        aligned_arg, method  = Al.chooseArg([arg_4,arg_3,res],en_arg,nlp)
-                        count_method[method] += 1
-                        texts[ti]["golden-event-mentions"][ei]["arguments"][ai]["text_pt"]= aligned_arg.strip()
         return texts
 
 
+
+
+def chooseArg(texts,nlp):
+    for ti, t in enumerate(texts):
+            for ei, e in enumerate(t["golden-event-mentions"]):
+                for ai, a in enumerate(e["arguments"]):
+                    if "failed" in a:
+                        arg_3 = texts[ti]["golden-event-mentions"][ei]["arguments"][ai]["text_3"]
+                        arg_4 = texts[ti]["golden-event-mentions"][ei]["arguments"][ai]["text_4"]
+                        align_bert = texts[ti]["golden-event-mentions"][ei]["arguments"][ai]["aligned-bert"]
+                        en_arg = texts[ti]["golden-event-mentions"][ei]["arguments"][ai]["text"]
+                        aligned_arg, method  = Al.argPriority([arg_4,arg_3,align_bert],en_arg,nlp)
+                        texts[ti]["golden-event-mentions"][ei]["arguments"][ai]["text_pt"]= aligned_arg.strip()
+    return texts

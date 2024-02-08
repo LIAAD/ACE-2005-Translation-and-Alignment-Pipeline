@@ -31,7 +31,6 @@ def align_Triggers(config, texts, nlp):
 
 def align_Arguments(config, texts, nlp):
     pipeline = config['argument_alignment']['pipeline']
-
     for method in pipeline:
         if method == 'lemma': 
             aligner = Arg_AL.LemmaMatch()
@@ -43,7 +42,8 @@ def align_Arguments(config, texts, nlp):
             texts = aligner.execute(texts,nlp)
         elif method == 'word_aligner':
             aligner = Arg_AL.WordAlignerMatch()
-            texts = aligner.execute(texts,nlp)                
+            texts = aligner.execute(texts,nlp)   
+            texts = Arg_AL.chooseArg(texts,nlp)             
         else:
             print(f"Invalid argument alignment method: {method}")
     return texts

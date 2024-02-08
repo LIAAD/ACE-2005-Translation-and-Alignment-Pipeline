@@ -22,7 +22,13 @@ It is composed of two main components:
     We adopted a commonly used ACE-2005 pre-processing that can be found in [this repository](https://github.com/nlpcl-lab/ace2005-preprocessing). 
 
 3. Install the packages.
-
+    Create a python Env (Optional):
+    ```bash
+    python3 -m venv myenv
+    myenv\Scripts\activate
+    source myenv/bin/activate
+    ```
+    Intall python requirements:
     ```bash
     pip install -r ./src/requirements.txt
     ```
@@ -44,6 +50,7 @@ The pipeline operates sequentially, meaning that annotations aligned by earlier 
 
 
 3. **Translate ACE-2005 to Portuguese**
+
     By default we use Google Translate for the translation process. An API key is need in order to use DeepL Translator.
     ```bash
     Usage: python3 translation.py <input_file> <output_dir>
@@ -60,7 +67,7 @@ The pipeline operates sequentially, meaning that annotations aligned by earlier 
     Example: python src/translate.py data/sample_pt.json data/sample_pt_aligned.json
     ```
 
-    The pipeline can be configured in the config.yaml file. Users can change the order of aligners and must indicate the path for the alignment resources for each component, such as multiple translations of annotations, previously calculated lemmas, synonyms, etc. All of these resources are already pre-calculated for the Portuguese language in the resources folder. Additionally, the input and output files can be configured in the config.yaml file as well.
+    The pipeline can be configured in the config.yaml file. Users can select the aligners they intend to use and must indicate the path for the alignment resources for each alignment component, such as multiple translations of annotations, previously calculated lemmas, synonyms, etc. All of these resources are already pre-calculated for the Portuguese language in the resources folder. Additionally, the input and output files can be configured in the config.yaml file as well.
 
 ## Evaluation
 

@@ -8,8 +8,8 @@ This repository contains a Python translation and annotation alignment pipeline 
 
 It is composed of two main components: 
 
-    - Text translation: We used DeepL Translator and Google Translator to translate ACE-2005 texts and annotations into European and Brazilian Portuguese. 
-    - Annotations alignments: We developed an annotation alignment pipeline that aligns the translated annotations within the translated text.
+- Text translation: We used DeepL Translator and Google Translator to translate ACE-2005 texts and annotations into European and Brazilian Portuguese. 
+- Annotations alignments: We developed an annotation alignment pipeline that aligns the translated annotations within the translated text.
 
 
 ## Prerequisites

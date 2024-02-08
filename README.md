@@ -65,7 +65,7 @@ The pipeline operates sequentially, meaning that annotations aligned by earlier 
 ## Evaluation
 
 
-To measure the effectiveness of the alignment pipeline, manual alignments were conducted on the entire ACE-2005-PT test set, which includes 1,310 annotations (triggers and arguments). These alignments were performed by a linguist expert to ensure high-quality annotations, following the same annotation guidelines of the original ACE-2005 corpus \cite{aceguidelines}.
+To measure the effectiveness of the alignment pipeline, manual alignments were conducted on the entire ACE-2005-PT test set, which includes 1,310 annotations (triggers and arguments). These alignments were performed by a linguist expert to ensure high-quality annotations, following the same annotation [guidelines](https://www.ldc.upenn.edu/sites/www.ldc.upenn.edu/files/english-events-guidelines-v5.4.3.pdf) of the original ACE-2005 corpus.
 
 The evaluation results are presented in Table 1:
 

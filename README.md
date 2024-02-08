@@ -18,6 +18,7 @@ It is composed of two main components:
     Download: (https://catalog.ldc.upenn.edu/LDC2006T06). Note that ACE 2005 dataset is not free.)
 
 2. ACE-2005 Pre-processing
+
     We adopted a commonly used ACE-2005 pre-processing that can be found in [this repository](https://github.com/nlpcl-lab/ace2005-preprocessing). 
 
 3. Install the packages.

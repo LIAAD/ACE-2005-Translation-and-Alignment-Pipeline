@@ -67,8 +67,12 @@ To measure the effectiveness of the alignment pipeline, manual alignments were c
 
 The evaluation results are presented in Table 1:
 
+<p>
+    <img src="./img/eval_by_comp.png" alt="Results" width="500"/>
+    <br>
+    <em>Table 1: Evaluation Results by pipeline component</em>
+</p>
 
-![Tux, the Linux mascot](./img/eval_by_comp.png)*Table 1: Evaluation Results by pipeline component*
 
 
 

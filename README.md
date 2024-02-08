@@ -24,7 +24,7 @@ It is composed of two main components:
 3. Install the packages.
 
     ```bash
-    pip install -r requirements.txt
+    pip install -r ./src/requirements.txt
     ```
 
 ## Annotation Alignment Modules

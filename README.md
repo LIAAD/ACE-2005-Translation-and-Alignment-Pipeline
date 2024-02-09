@@ -1,6 +1,8 @@
 # ACE-2005 Translation and Annotation Alignment Pipeline
 
-This pipeline translates the  [ACE 2005 corpus](https://catalog.ldc.upenn.edu/LDC2006T06)  into Portuguese and aligns the translated annotations with the corresponding text.
+This pipeline translates the  [ACE 2005 corpus](https://catalog.ldc.upenn.edu/LDC2006T06)  into Portuguese and aligns the translated annotations with the corresponding text. Additionally, it can be easily adapted for translating the ACE-2005 corpus into other languages.
+
+
 ## Overview
 
 
